@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "有無.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-09"
+              "title": "有無"
             }
           }
         ],
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "有無.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "有無.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "有無.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,12 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4449c76c23191f60",
+  "active": "ee393bb14afb81d6",
   "lastOpenFiles": [
+    "Untitled",
+    "道德經.md",
+    "有無.md",
+    "Journal/2026-08-09.md",
     "太極/楊澄甫論太極拳.md",
     "太極/太極拳論.md",
     "太極/Tai Chi.md",
-    "Journal/2026-08-09.md",
     "Journal/2026-08-08.md",
     "Journal/2026-08-02.md",
     "Journal/2026-07-26.md",
