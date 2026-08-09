@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "Journal/Daily/2026-08-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
+                "file": "Journal/Daily/2026-08-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "‘I never thought about stopping’ first woman to finish 298km ultramarathon"
+              "title": "2026-08-02"
+            }
+          },
+          {
+            "id": "79746acb3c051b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2026-08-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-09"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
+                "file": "Journal/Daily/2026-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
+                "file": "Journal/Daily/2026-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
+                "file": "Journal/Daily/2026-08-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,34 +248,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee393bb14afb81d6",
+  "active": "79746acb3c051b4d",
   "lastOpenFiles": [
-    "Zettel/202212221407 E= [VO TH Sales & Syndication] Cost of Sales (Thienbunlertrat, Book P).md",
-    "Zettel/202209121504 E= Aug22 - Bank reconciliation report (OTTTH) - Signed (Tirathanapat, Jeab N).md",
-    "Zettel/202212211735 E= Vanilla Oreo Additional Questions (Yip, Edmond MF).md",
-    "Zettel/202209201056 E= Staff sale cash bank in arrangement (Chan, Karrie KW).md",
-    "Zettel/202207081224 E= RE OTT SG June 2022 TB.md",
-    "Zettel/202206281512 E= Andrew on annual leave (30 Jun - Thu)  (Cheung, Yammie KY).md",
-    "Zettel/202210251603 E= Top subscription partners for 2022H1 (Joyce Phay).md",
-    "Zettel/202207041757 E= Re Corporate Short Message Service Agreement (Lai, Karen KY).md",
-    "Zettel/Media Bad Debt - JULY 2022.md",
-    "Zettel/202207221558 E= PCCW OTT (Thailand) - Debt to Equity Conversion (Supasit Saypan).md",
-    "Zettel/202211091235 E= [Verified invoices] - Project invoices for payment - MOOV Live Dear Jane x C AllStar (Ho, Angel YF).md",
-    "Zettel/202208231918 A= Today Webtoon.md",
-    "Zettel/202207251611 E= PCCW GROUP - 2022 Interim Audit Reporting Package -vlogger gp (Yau, Benny KC).md",
-    "Zettel/OTT SG Content amotization schedule.md",
-    "Zettel/202207271748 E= PCCW GROUP - 2022 Interim Audit Reporting Package (Joyce Phay).md",
-    "Zettel/202211191618 E= 2019-21 LOR and audit adjustment statement (if any) (Tirathanapat, Jeab N).md",
-    "Zettel/202210071956 E= CH8 Barter Deal (Joyce Phay).md",
-    "Zettel/202211251558 E= 2023 AOP - CAL DP Transfer Pricing (Wong, Kitty OY).md",
-    "Zettel/Payment.md",
-    "Zettel/202210191259 E= 4882468 - ACS - Vuclip - Migration of Asset Register and Amortization Schedule (Jera Ysa Libatique).md",
-    "Zettel/202209021452 E= OTT SG and Vuclip SG - Subsequent Event Questionaire and latest MA [ocr] (Joyce Phay).md",
-    "Zettel/202207261531 E= Opscom (1) Today s Webtoon, (2) The Law Cafe, (3) If You Wish Upon Me (Liu, Cherry CM (Group Finance)).md",
-    "Zettel/202209281803 E= Digital Media Zebra Staff Cost Monthly Accrual - Sep 22 (Cheung, Yammie KY).md",
-    "Zettel/202209141307 E= For Crediting- Payroll Report of PCCW OTT (PHILIPPINES), INC. for September 1-15, 2022 (Dinio, Anthony G).md",
-    "Zettel/202212061455 E= FTR Thai Original OST Contracts, Agreements  (Zhang, Amy YY (GLO)).md",
-    "Zettel/202207291058 E= PLEASE ENDORSE- MOOV Internal Bill (Mobile,Club SIM,The Club) - 202207 (Wong, Grace KY (MOOV)).md",
+    "Journal/Daily/2026-08-02.md",
+    "templates/Zettel template.md",
+    "templates/time.md",
+    "templates/Running or Hiking template.md",
+    "templates/meeting notes.md",
+    "templates/daily.md",
+    "templates/Content template.md",
+    "templates/Approval template.md",
+    "templates/Templater/1. Email template.md",
+    "Personal/030 Exercise.md",
+    "Home.md",
+    "Work/PCCW/020 Work.md",
+    "Work/PCCW/2021 OTT or MOOV audit.md",
+    "Work/PCCW/021 OTT Content.md",
+    "Journal/Daily/2022-06-01.md",
+    "Journal/Daily/2022-05-20.md",
+    "Journal/Daily/2022-04-28.md",
+    "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
+    "Zettel/202206291608 E= RE Urgent payment with Samhwa (RFP 2022OL004325) (Lo, Derrick KK (Digital Media)).md",
+    "Zettel/202208291711 A= Audit VV.md",
+    "Zettel/202107191420 E= RE Opscom draft - Now, We Are Breaking Up (Cheung, Arthur CP).md",
+    "Zettel/202209280158 J= accident.md",
+    "Zettel/202212021014 E= Viu Channel on Now TV CCT Term Sheet (Fong, David WK).md",
+    "Zettel/202206221135 items to discuss with KPMG.md",
+    "Zettel/202204061528 E= Viu Marketing Accrual 2022 (Kam, Rainbow KM).md",
+    "Zettel/202208301443 E= PLEASE ENDORSE- MOOV Internal Bill (Mobile,Club SIM,The Club) - 202208 (& 202207) (Liu, Sandy MS).md",
+    "Zettel/10.37.224.35",
     "Work/Email/Pasted image 20220616114838.png",
     "Work/Email/Moov (Hong Kong) Limited_2021.v2.docx",
     "Work/Email",
@@ -270,7 +295,6 @@
     "Work/Ulysses/DraggedImage-1.png",
     "Work/Ulysses/Content.png",
     "Work/Ulysses/729BD378-7BC8-425F-A916-217949DE21C6.png",
-    "Work/Ulysses",
-    "templates/Templater"
+    "Work/Ulysses"
   ]
 }
