@@ -1,0 +1,4 @@
+# grant date
+Grant date is the date at which the entity and another party (including an employee) ~agree to a [[share-based payment arrangement]]~, being when the entity and the other party have a ~shared understanding~ of the terms and conditions of the arrangement. At the grant date the entity confers on the other party (the counterparty) the right to cash, other assets, or equity instruments of the entity, provided the specified vesting conditions, if any, are met. If that agreement is subject to an approval process (for example, by shareholders), the grant date is the date when that approval is obtained.
+
+#QP/A/Fin-Rpt/SBP

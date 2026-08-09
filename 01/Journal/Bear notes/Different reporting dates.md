@@ -1,0 +1,4 @@
+# Different reporting dates
+Because of different laws in different countries, it can happen that the foreign operation's reporting date is different from that of the parent. In this case HKFRS 10 allows the use of the foreign operation's accounts as at its own reporting date to be consolidated with the accounts of the parent as at the parent's own reporting date as long as the foreign operation's reporting date is **within three months** of the parent's. However, **adjustments** are made for any ~significant changes in exchange rates~ which took place in the intervening period between the two dates.
+
+#QP/A/Fin-Rpt/Ccy

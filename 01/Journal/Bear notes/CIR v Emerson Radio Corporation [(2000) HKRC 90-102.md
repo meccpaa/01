@@ -1,0 +1,10 @@
+# CIR v Emerson Radio Corporation [(2000) HKRC 90-102
+The facts: Emerson Radio Corporation in the USA ('Emerson US') licensed to its subsidiary, Emerson Radio (Hong Kong) Ltd ('Emerson HK'), the right to use the trade mark 'Emerson' on products sold by Emerson HK to **customers in the USA**. The goods of Emerson HK were ~manufactured by unrelated contract manufacturers~ in Hong Kong, mainland China, Japan, Korea, Malaysia, Thailand and Taiwan. The **royalties paid to Emerson US** were based on a percentage of the price received by Emerson HK from its customers in the USA. There were ~no sales activities in Hong Kong~. The Commissioner contended that all of the royalties received by Emerson US were assessable to profits tax pursuant to s.15(1)(b) on the ground that the royalties were paid for the right to use the trade mark in Hong Kong, while Emerson US was of the view that none of the sums received as royalties should be subject to profits tax as the trade mark was only 'used' in the place where the products were sold.
+
+The decision: Although there were diverging views, the CFA upheld the decision of the COA that the trade mark royalties paid by Emerson HK to its US parent were only partly taxable in Hong Kong. Two of the judges were of the view that Emerson HK had used the trade mark in Hong Kong by virtue of affixing the mark to goods made in Hong Kong during the manufacturing process. As such, the royalties could be apportioned between those relating to the use of the trade mark in Hong Kong and those relating to the use of the trade mark elsewhere (whether in manufacturing or sales).
+
+To counteract the impact of the CFA's decision, `s.15(1)(ba)` was enacted. Effective from 25 June 2004, even if the use of (or right to use) the trade mark was ::outside Hong Kong::, the royalties would still be assessable ~if they were **deductible** in ascertaining the assessable profits of a person under profits tax~.
+
+[[s.15(1)(a), (b), (ba); s.21A, s.20B - IPRs]]
+[[Source of royalties or license fees from intangible assets]]
+#QP/D/Case/Tax/Profits/Source

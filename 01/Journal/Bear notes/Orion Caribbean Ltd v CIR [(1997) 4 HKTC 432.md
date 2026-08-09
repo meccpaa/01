@@ -1,0 +1,11 @@
+# Orion Caribbean Ltd v CIR [(1997) 4 HKTC 432
+The facts: The taxpayer, a company incorporated in the Cayman Islands, was a wholly owned subsidiary of Orion Royal Pacific Limited ('ORPL'). ORPL was a **FI** carrying on business in Hong Kong and an indirect subsidiary of the Royal Bank of Canada. The taxpayer had entered into a service agreement with ORPL under which ORPL agreed to provide management, administration and accounting services to the taxpayer in return for a fee. ORPL recommended syndicated loan opportunities to the taxpayer. Such recommendations would be considered by the taxpayer's directors in the Cayman Islands and ORPL was authorised to sign the loan agreements on behalf of the taxpayer under a power of attorney. ORPL would raise funds for the loans and deposit the money into the taxpayer's bank accounts in New York, Tokyo and Frankfurt for on-lending to the borrowers in the US, Japan and Germany. The taxpayer derived interest income from the loans.
+
+Decision: The BOR found that the taxpayer was carrying on a **business of money lending** but concluded that the interest income of the taxpayer was sourced outside Hong Kong. However, the BOR was of the view that the interest income was taxable pursuant to s.15(1)(i) as the taxpayer, being an associated company of a FI, was within the definition of a FI.
+
+On appeal, the COA decided that the taxpayer was not a FI as it had not taken any deposits or made any lending in Hong Kong. Applying the provision of credit test, as money was made available to the borrowers outside Hong Kong, the interest was offshore and therefore not taxable in Hong Kong.
+
+The Privy Council reversed the decision of the COA by finding that the taxpayer's interest was sourced in Hong Kong. The Privy Council was of the view that the provision of credit test was not applicable in the circumstances as the taxpayer's activities were ::different from that of a person lending its own funds::. The taxpayer had to borrow funds from its Hong Kong parent. It acted as a channel between its Hong Kong parent and the overseas borrowers. Having regard to ~the services of its parent in Hong Kong~ (negotiation and conclusion of loan agreements, raising of funds), its interest income was sourced in Hong Kong and chargeable to ~profits tax under s.14~.
+
+[[Source of Interest Income]]
+#QP/D/Case/Tax/Profits/Source

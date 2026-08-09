@@ -1,0 +1,12 @@
+# agency problem
+The agency problem arises from **separation of ownership from management** of the entity and can cause a **conflict of interests** if there is a breach of trust by directors by intentional action, omission, neglect or incompetence.
+- - - -
+The agency problem arises when a principal hires an agent to perform in the interest of principal.
+
+In **listed companies** the agency problem derives from the principals (shareholders) not being able to run the business themselves and therefore having to rely on agents (board of directors) to do so for them. This separation of ownership from management can cause a conflict of interest or moral hazard if there is a breach of trust by directors by intentional action, omission, neglect or incompetence. This breach may arise because the directors are pursuing their own interests rather than the shareholders (conflict of interest). Alternatively, the board of directors may undertake a risky project without considering carefully the full consequences as they have a different attitude to risk-taking to the shareholders (moral hazard).
+
+For example, if managers hold none or very little of the equity shares of the company they work for, what is to stop them from working inefficiently, concentrating too much on achieving short-term profits and hence maximising their own bonuses? Without the incentive of equity ownership the agent may not look for profitable new investment and growth opportunities, or may over-consume perquisites such as high salaries and other benefits.
+
+There are two possible approaches to aligning the interests between agent and principal [[alignment of interests]], in order to remedy this agency problem. One would be to offer **incentive** plans such as stock options or equity in the company; the alternative would be to **curb managerial controlling powers** within the firm. Ultimately shareholders do possess the right to remove the directors from office. But shareholders have to take the initiative to do this, and in many companies they may lack the energy and organisation to take such a step. As a last resort, they can vote in favour of a takeover or removal of individual directors or entire boards, but this may be undesirable for other reasons.
+
+#QP/C/Audit/CG

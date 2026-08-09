@@ -1,0 +1,25 @@
+# continuing obligations to provide reports of interest to investors
+Chapter 13 of the Main Board listing rules outlines in considerable detail a set of requirements in relation to the obligation of listed companies to provide reports of interest to investors. A summary of the major ones follows:
+
+(a) The company must **inform** the SEHK and shareholders ~as soon as reasonably practical~ of any matter which:
+- Is necessary to ~appraise the position~ of the company / group; or
+- Is necessary to avoid the establishment of a ~false market~ in its securities; or
+- Might ~reasonably be expected materially~ to affect market activity and the price of its securities.
+
+(b) An issuer must **respond promptly** to enquiries made by the ~SEHK~ concerning ~unusual movements~ in the price or trading volume of its listed securities, and issue an announcement where appropriate.
+(c) By **not later than 30 minutes** before the opening of SEHK trading, an issuer must advise the Exchange of any ~changes in the number of shares~, e.g. bonus issues, rights issues, etc. 
+(d) The issuer must submit a **monthly return** to the SEHK containing such prescribed information as ~movements in equity securities and debt securities~.
+
+(e) **Immediately after board meetings** the issuer must ~provide the SEHK~ with information on:
+- Any decision to declare, recommend or pay any **dividend** or other distribution including the rate and amount of the dividend or distribution and the expected payment date;
+- Any decision ::not:: to declare, recommend or pay any dividend or other distribution;
+- Any ~preliminary announcement of profits or losses~ for any year, half year, or other period;
+- Any proposed changes in its ~capital structure~; and
+- Any decision to change the ~general character or nature of the business~.
+
+(f) The issuer must provide an ~annual report~ containing prescribed information and according to a prescribed timetable.
+(g) The listed issuer must provide an ~interim report~ for the first six months of the financial year. This report must comply with certain provisions and be issued **no later than three months** after the end of the interim six months.
+(h) The issuer must publish its ~preliminary annual results~ as soon as possible after the end of the financial year, and **no later than three months** after the end of the financial year.
+(i) The issuer must publish its ~preliminary interim results~ as soon as possible after the end of the six-month period, and **no later than two months** after the end of that period.
+
+#QP/B/Corp-fin/regulatory

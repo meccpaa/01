@@ -1,0 +1,4 @@
+# RE: Apple TV Settlements
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5N0NFQzVAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207Mzk2%0D%0AMDA5NjQ3NA%3D%3D)
+Thailand VAT arrangement 
+#Work/OTT

@@ -1,0 +1,4 @@
+# Profits tax - example 69 - patent
+Co HK purchased a patent registered in the US and subsequently conducted R&D in Hong Kong using that US patent to create a new invention. Co HK applied for registering the US patent and the new invention in Hong Kong. The capital expenditure incurred on the purchase of the US patent will be deductible under s.16E if it is used to produce chargeable profits. However, as the new invention is self-created and not purchased from others, no deduction can be allowed under s.16E, but the R&D expenditure may be deductible under s.16B provided that the prescribed conditions are fulfilled.
+
+#QP/D/Tax/Profits/Deduction

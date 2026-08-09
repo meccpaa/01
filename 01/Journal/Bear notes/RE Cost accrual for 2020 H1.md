@@ -1,0 +1,7 @@
+# RE: Cost accrual for 2020 H1
+OTT SG accrual
+- - - -
+
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5N0I4RUNAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MTI1%0D%0ANTExNDM3OA%3D%3D)
+
+#Work/ke

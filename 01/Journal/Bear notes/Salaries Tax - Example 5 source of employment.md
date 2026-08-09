@@ -1,0 +1,11 @@
+# Salaries Tax - Example 5: source of employment
+There is an opportunity for Mr. T, an international sales executive, to **work for a multinational group of companies** with regional duties in the Far East. As a tax planning measure, Mr. T may refer to the criteria as outlined in DIPN No. 10 (Revised) to ~structure the location of his employment~ to either Hong Kong or a place outside Hong Kong. (Note. ::An artificial arrangement or an arrangement entered into with a 'sole or dominant' purpose to obtain a tax benefit:: will be subject to challenge from the IRD by invoking s.61 or s.61A.) [[Anti-avoidance provisions]]
+
+[[employment - taxable?]]
+If Mr. T has a **Hong Kong employment**, all his income will be subject to salaries tax in Hong Kong. He may be exempted from salaries tax if he qualifies for the exemption under [[s.8(1A)(b): outside HK]] that all his services in connection with his employment are rendered outside Hong Kong. He may be entitled to exemption under [[s.8(1A)(c) outside HK, paid same nature tax]] if salaries tax (or substantially the same nature as that of salaries tax) is paid on his income elsewhere. He may also claim tax credit under the Arrangement between the Mainland of China and the Hong Kong Special Administrative Region for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion [[Double taxation arrangement - HK, China - 183 days]] with respect of taxes on income if he renders services in both Hong Kong and the PRC.
+
+On the other hand, if the **employment** of Mr. T is located at **a place outside Hong Kong**, his salaries tax exposure will depend on the number of days that he visits Hong Kong during a year of assessment. If he visits Hong Kong for more than 60 days in a year of assessment, his income will be subject to salaries tax [[s.8(1A)(a): HK service]], usually based on **a time-in-time-out apportionment basis**. If he visits Hong Kong for no more than sixty days during a year of assessment, no salaries tax will be payable [[s.8(1A)(b): outside HK]].
+
+If circumstances warrant, Mr. T may have **more than one employment** (in different capacities) with the multinational group of companies. However, such ::'dual contract' arrangement:: is likely to be scrutinised by the IRD with suspicion and challenged under s.61 and s.61A. [[Anti-avoidance provisions]]
+
+#QP/d/Practice/Salary

@@ -1,0 +1,10 @@
+**Attachment**:: [[Viu x KK settlement report (202012).xlsx]], [[Viu x KK settlement report (202101).xlsx]], [[Viu x KK settlement report (202102).xlsx]], [[Viu x KK settlement report (202103).xlsx]], [[Viu x KK settlement report (202104).xlsx]], [[Viu x KK settlement report (202105).xlsx]], [[Viu x KK settlement report (202106).xlsx]], [[Viu x KK settlement report (202107).xlsx]], [[Viu x KK settlement report (202108).xlsx]], [[Viu x KK settlement report (202109).xlsx]], [[Viu x KK settlement report (202110).xlsx]], [[Viu x KK settlement report (202111).xlsx]], [[Viu x KK settlement report (202010).xlsx]], [[Viu x KK settlement report (202011).xlsx]]
+**Date**:: 2021-12-12T21:18:00
+**Action**::  
+**Topics**:: [[CSL]], [[JE]], [[vHK]]
+**Type**:: [[Email]]
+**Remarks**:: 
+Link:: [Link](outlook:000000003F422DF24198BB43AE0AB2183C680E770700041BDA540A8D9D4D894F8A46A00EE448000009AEED320000A8FE1A0899C12544BB5C3069D184414900002A5868CB0000)
+
+---
+## Tasks

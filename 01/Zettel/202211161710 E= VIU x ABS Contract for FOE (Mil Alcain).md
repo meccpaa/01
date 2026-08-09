@@ -1,0 +1,12 @@
+**Attachment**:: [[02-14 ABSCBN - PCCW - Agreement (Flower of Evil) (GLO 03112022) (ale2022.11.06)(ale2022.11.15)[1] (ale2022.11.16).docx]]
+**Date**:: 2022-11-16T17:10:00
+**Action**::  
+**Topics**:: 
+**Type**:: [[Email]]
+**Remarks**:: 
+**Person**:: [[Mil Alcain]]
+**Link**:: [AppLink](outlook:000000003F422DF24198BB43AE0AB2183C680E770700D4D2347232E0A0478424CFB59F08075F000019BBEE560000A8FE1A0899C12544BB5C3069D18441490001058DFA330000), 
+**Thread**:: [[VIU x ABS Contract for FOE]]
+
+---
+## Notes

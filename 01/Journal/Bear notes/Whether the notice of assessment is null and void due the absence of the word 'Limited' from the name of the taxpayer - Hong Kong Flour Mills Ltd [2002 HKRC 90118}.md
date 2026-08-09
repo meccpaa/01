@@ -1,0 +1,4 @@
+# Whether the notice of assessment is null and void due the absence of the word 'Limited' from the name of the taxpayer - Hong Kong Flour Mills Ltd [2002 HKRC 90118}
+Hong Kong Flour Mills Ltd requested for a tax refund from the IRD regarding the withholding tax paid on the royalties paid/payable to Lam Soon Trademark Limited as the notice of assessment was issued to 'Hong Kong Flour Mills Ltd for Lam Soon Trademark' instead of 'Hong Kong Flour Mills Ltd for Lam Soon Trademark Limited'. The Court decided that the omission of the word 'Limited' was an error of form only and the notice of assessment was valid by virtue of s.63 of the IRO.
+
+#QP/D/Case/Tax/Admin

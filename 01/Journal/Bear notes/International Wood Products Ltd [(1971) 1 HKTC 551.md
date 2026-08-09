@@ -1,0 +1,8 @@
+# International Wood Products Ltd [(1971) 1 HKTC 551
+The facts: The taxpayer, a company incorporated and carrying on business in Hong Kong, was appointed by two companies in the Philippines as their exclusive agent for sales of wood products outside the Philippines. The agency agreements, which were made in the Philippines, provided for payment to the taxpayer a commission equal to 5% of the price of all goods sold to buyers outside the Philippines. The taxpayer then entered into several sub-agency agreements with independent third parties located in various countries in the Philippines and agreed to pay the subagents a portion of the commission it would receive on the making of sales. The subagents made all the non-Philippines sales and communicated with the principal in the Philippines. The taxpayer essentially did nothing but received a substantial amount of net commission income.
+
+Decision: The BOR decided in favour of the taxpayer on the grounds that the commission income of the taxpayer was derived outside Hong Kong as the sales activities were performed by its subagents overseas.
+
+The High Court also decided in favour of the taxpayer. Its determination supports the view that the operations test applies not only to operations undertaken by the taxpayer directly, but also to operations of independent agents of the taxpayer that produce profits for the taxpayer. It supports the maxim 'he who acts through another, acts himself.' This case was an important judicial precedent for looking at the operations of overseas agents in applying the operations test.
+
+#QP/D/Case/Tax/Profits/Source

@@ -1,0 +1,23 @@
+# Py2.5 evaluating expressions
+An **expression** is a combination of values, variables, operators, and calls to functions. If you type an expression at the Python prompt, the interpreter **evaluates** it and displays the result:
+```
+>>> 1 + 1 
+2
+>>> len("hello") 
+5
+```
+In this example `len` is a built-in Python function that returns the number of characters in a string. We’ve previously seen the `print` and the `type` functions, so this is our third example of a function!
+
+The *evaluation of an expression* produces a value, which is why expressions can appear on the right hand side of assignment statements. A value all by itself is a simple expression, and so is a variable.
+```
+>>> 17 
+17
+>>> y = 3.14
+>>> x = len("hello")
+>>> x 
+5
+>>> y
+3.14
+```
+
+#code/python

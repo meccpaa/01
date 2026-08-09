@@ -1,0 +1,6 @@
+# relevant income level - MPF
+The monthly minimum relevant income level has been increased from $6,500 to $7,100. This applies to contribution periods commencing on or after 1 November 2013. The monthly maximum relevant income level has been increased from $25,000 (which has become effective from June 2012) to $30,000. This applies to contribution periods commencing on or after 1 June 2014.
+
+Under the MPF scheme, employees (earning more than $7,100 per month (after 1 November 2013) are required to contribute 5% of their relevant income (cash equivalent items excluding housing), subject to an income ceiling of $30,000 per month (after 1 June 2014). They may contribute more than the statutory amount of 5% if they wish. The allowable deduction of $18,000 for the year of assessment 2015/16 and onwards under Schedule 3B of the IRO is calculated based on 5% x $30,000 x 12 = $18,000. An employee with no fixed monthly salary will also be entitled to the same amount of allowable deduction.
+
+#QP/D/Tax/Salary

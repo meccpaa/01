@@ -1,0 +1,10 @@
+# Provision of services by an enterprise - DTA
+A permanent establishment also includes 'the furnishing of services, including consultancy services, by an enterprise of One Side in the Other Side, directly or through employees or other personnel engaged by the enterprise, but only if such services **continue** (for the same or a connected project) for a period or periods ~aggregating more than 6 months within any 12-month period~'.
+
+The counting of 'a period or periods aggregating more than 6 months within any 12-month period' may commence with any month during the course of a service contract. Where services have been furnished by an enterprise directly or through employees or other personnel in the Other Side for a continuous or cumulative period of more than 6 months within any 12-month period, the enterprise will be considered to have a permanent establishment in the Other Side. Profits attributed to that permanent establishment will be subject to tax in the Other Side in accordance with the provisions of Article 7 (Business Profits) (see section 3.1.4 below).
+
+The Commentary of the United Nations Treaty Model has not given further explanations of the relevant provision and has not specified clearly how the 6 months are to be counted. Hence the Mainland and Hong Kong had adopted different counting methods in the past. However, with effect from 11 June 2008, the term '6 months' was repealed and substituted by '183 days' under Article 3 of the Second Protocol. In other words, if within any 12-month period the cumulative number of days during which services have been provided by an enterprise of One Side in the Other Side exceeds 183 days, that enterprise will be regarded as having a permanent establishment in the Other Side.
+
+Hong Kong and China in practice use the 'days of physical presence' method. ~The day when one is in the Other Side, and the day of arrival or departure~, irrespective of the duration and the purpose of the stay, will be counted as one day.
+
+#QP/D/Tax/DTA

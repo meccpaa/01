@@ -1,0 +1,9 @@
+# s.49 Relationship between the China-HK DTA and the IRO
+The China-HK DTA has been implemented in accordance with s.49 of the IRO and accordingly has legal effect. The China-HK DTA and the IRO (including its subsidiary legislation) are interrelated and complement each other. The China-HK DTA performs the function of allocating the right to tax between the two sides. When the right to tax has been allocated, both sides will continue to refer to their respective domestic taxation legislation to resolve problems of tax administration and enforcement, such as in deciding whether certain income should be subject to tax, and in the computation of assessable income and tax payable.
+
+In handling problems arising from any inconsistency between the China-HK DTA and the IRO, the priority will be accorded to the China-HK DTA to ensure compliance with its provisions. **Hong Kong** adopts the [[preferential treatment principle]]
+
+The China-HK DTA should **not affect existing concessional practices in Hong Kong**. For instance, a Hong Kong manufacturer concludes a [[contract processing]] arrangement with a Mainland entity. In accordance with paragraphs 33 to 34 of DIPN No. 21 (Revised), 50% of the profits may be regarded as profits arising outside Hong Kong and not chargeable to profits tax in Hong Kong.
+
+This method of apportioning profits that arise both inside and outside Hong Kong on a 50:50 basis remains applicable. According to the provisions of the China-HK DTA, the Hong Kong manufacturer could be regarded as having a permanent establishment in the Mainland and is therefore liable to tax there. However, it is noted that it is not the present intention of the Mainland to change the way it taxes profits derived from this type of operation. Nevertheless, the possibility that in future, profits attributable to the permanent establishment may be taxed in accordance with the China-HK DTA cannot be ruled out.
+#QP/D/Tax/DTA

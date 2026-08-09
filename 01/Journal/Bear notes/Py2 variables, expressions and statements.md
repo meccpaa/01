@@ -1,0 +1,15 @@
+# Py2: variables, expressions and statements
+[[Py2.1 values and data types]] 
+[[Py2.2 variables]]
+[[Py2.3 variable names and keywords]]
+[[Py2.4 statements]]
+[[Py2.5 evaluating expressions]]
+[[Py2.6 Operators and operands]]
+[[Py2.7 Type converter functions]]
+[[Py2.8 Order of operations]]
+[[Py2.9 Operations on strings]]
+[[Py2.10 Input]]
+[[Py2.11 Composition]]
+[[Py2.12 The modulus operator]]
+[[Py2.14 Exercises]]
+#code/python

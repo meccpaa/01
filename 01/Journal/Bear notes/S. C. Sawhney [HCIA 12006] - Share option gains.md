@@ -1,0 +1,5 @@
+# S. C. Sawhney [HCIA 1/2006] - Share option gains
+On 1 September 1988, the taxpayer commenced employment in Hong Kong. The taxpayer was granted options at various times. On 30 September 1994, the taxpayer's **employment was terminated** and on 30 October 1994, he left Hong Kong. The taxpayer **subsequently exercised two of the remaining stock options** in the year of assessment 1996/97, one in the year of assessment 1998/99, and one in the year of assessment 2000/01. On each occasion, he made a gain. The Commissioner assessed these gains to tax in the relevant years of assessment. The taxpayer objected to the assessments. The Board of Review's decision was in favour of the taxpayer. On appeal by the Commissioner, the Court of First Instance decided **in favour of the Commissioner**. The taxpayer has filed an appeal to the Court of Appeal.
+
+[[Employee share-based benefits]]
+#QP/D/Tax/Salary

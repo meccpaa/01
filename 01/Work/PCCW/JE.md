@@ -1,0 +1,3 @@
+- [x] #COA Barter - 702266 [[JE 202206]] #JE/HK
+	**Subject**: Summary for Viu partnership barter deal booking
+	#P/Mkt/HK/TracyCheng  Hi, have aligned with Erin and understood this will be booked to Marketing Cost centre.  Could you please book this under 702266.  Currently we don’t use this code, so moving forward, all those transaction will be for sub team barter deal.  Thank you. [completion:: 2022-07-07]

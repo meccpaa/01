@@ -1,0 +1,4 @@
+# RE: IGC report for FB and Google ads in May 2020
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5NzVCNjZAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MjMx%0D%0AMDgwOTU5Ng%3D%3D)
+
+#Work/IGC

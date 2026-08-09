@@ -1,0 +1,4 @@
+# fiduciary relationship with stakeholders
+Some management theorists have argued that management bears a fiduciary relationship to stakeholders and to the corporation as an abstract entity. It must act in the interests of the stakeholders as their agent, and it must act in the interests of the corporation to ensure the survival of the firm, safeguarding the long-term stakes of each group. Adoption of these principles would require significant changes to the way corporations are run. Some theorists, for example Silvia Ayuso, go on to propose a 'stakeholder board of directors', with one representative for each of the stakeholder groups and one for the company itself. Each stakeholder representative would be elected by a stakeholder assembly. Companies law would have to develop to protect the interests of stakeholders.
+
+#QP/C/Audit/CG

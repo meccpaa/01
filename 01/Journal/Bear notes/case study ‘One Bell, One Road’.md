@@ -1,0 +1,8 @@
+# case study: ‘One Bell, One Road’
+In 2015, the Chinese Government launched the 'One Belt, One Road' (OBOR) initiative, which will involve significant infrastructure investment in over 60 countries in the next decade along the land and sea route of the Medieval Silk Road. Setting up a [[Corporate Treasury Centre]] (CTC) overseas has become a priority for companies who are investing in this initiative, in order to manage cash pools, offshore financing, foreign exchange and other key treasury risks. The launch of the OBOR initiative is expected to further enhance international trade and investments across economies in Asia, Europe and Africa, and strengthen the position of Hong Kong as a **regional hub for corporate treasury activities**.
+
+The initiative aims to further the country's influence and trade links, mainly in Asia and Europe. It proposes the creation of new economic corridors, spanning countries that contain almost two-thirds of the world's population and account for one-third of the world's wealth. OBOR is intended to enable closer connections and new opportunities for trade, investment, economic activities, technological innovation, and the movement of people.
+
+Under OBOR, over the next few decades China plans to build a land-based 'Silk Road Economic Belt' and a 'Maritime Silk Road'. The initiative will involve massive use of concrete, steel, chemicals and metals. Hundreds of thousands of workers and huge use of transport will be also needed to build new power stations, mines, energy projects, roads, railways, airports and container ports.
+
+#QP/B/Corp-fin/treasury

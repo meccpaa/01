@@ -1,0 +1,15 @@
+# Determining the central management and control
+To be eligible for the profits tax exemption under s.20AC, the person must be a **non-resident person**. In relation to a year of assessment , a corporation, a partnership or a trustee of a trust estate is regarded as a resident person if the **central management and control** of the corporation, partnership or trust estate is ~exercised in Hong Kong~ in that year of assessment. 
+
+The IRD clarifies its practice on determining the 'central management and control' in the revised DIPN 43 (2016). The IRD states that the location of 'central management and control' is **wholly a question of fact**. 
+	- In general, if the 'central management and control' of a company or a partnership is exercised by the directors in **board meetings** or by the partners in partners meetings, the relevant locality is where those meetings are held. 
+	- The ::residence:: of individual directors or partners will not generally be a relevant factor to consider. The mere fact that the majority of the directors of a company or partners of a partnership are resident in Hong Kong does not of itself mean that the company or partnership is centrally managed and controlled in Hong Kong, and hence would not adversely affect application of the exemption. 
+		- However, this does not mean that an individual director's or partner's residence can be completely ignored in all cases. Para 16 of DIPN 43 (Revised) states:
+
+'The ::place of board meetings or partners meetings also is not necessarily conclusive:: ... In cases where central management and control of a company or a partnership is in fact ~exercised by an individual~ (for example, the board chairman, the managing director or the general partner), the relevant locality is the place where the controlling individual ~exercises his power~. As central management and control is a question of fact and reality, when reaching a conclusion in accordance with case law principles, only factors which exist for genuine commercial reasons will be accepted.'
+
+In reality, the ~residence of individual directors or partners could be a relevant factor~. For instance, where all or a majority of the individual directors or partners are Hong Kong residents and there are **no genuine commercial reasons** for holding board meetings or partners meetings overseas, the IRD may contend that such meetings are only a formality and that the central management and control of the company or partnership is actually exercised by the directors or partners in Hong Kong through other means. Appendix A in DIPN 43 (Revised) sets out the IRD's views on the residency status of various forms of investment vehicles commonly adopted in holding and managing investment portfolios.
+
+The above discussion is in the context of a corporation or a partnership. However, the IRD has indicated that a similar test would apply to determine the residence of a trust.
+
+#QP/D/Tax/Overseas

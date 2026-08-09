@@ -1,0 +1,4 @@
+# DIPN 33
+Prior to 1996, many insurance agents claimed that they were self-employed and should be chargeable to profits tax instead of salaries tax. The IRD examined the operations of insurance agents of major insurance companies in Hong Kong and considered that most of the insurance agents were indeed employees. DIPN 33, which was first published in June 1998 and revised in October 2009, provides guidance on the tax position of insurance agents. In brief, insurance agents who are self-employed (with regard to the criteria outlined in DIPN 25) are assessed under profits tax whereas those who are employees are assessed under salaries tax. For those who are chargeable to profits tax, the IRD has provided examples of queries concerning expenses claimed as deductions under profits tax in DIPN 33.
+
+#QP/d/DIPN/Tax/Profits/Source

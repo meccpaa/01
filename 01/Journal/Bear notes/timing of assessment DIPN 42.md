@@ -1,0 +1,8 @@
+# timing of assessment DIPN 42
+The IRD has indicated in DIPN 42 (para 13) that 'for financial assets or financial liabilities ~at fair value through profit or loss~, the change in fair value is assessed or allowed when the change is taken to the profit and loss account'. In other words, for profits tax purposes, the increase in fair value of the financial assets through profit or loss would be treated as assessable profits. The IRD will not accept the argument that when the financial instruments are marked to market, the profits recognised in the income statement are unrealised profits and therefore not taxable until the profits are actually realised on disposal in later periods.
+
+::However::, the COA and CFA in Nice Cheer has held that ~unrealised gains from revaluation of trading securities are not taxable~, even if the gain was credited to the income statement in accordance with ordinary commercial accounting principles (see the discussion of Nice Cheer in section 6.3.4 on 'Doubts on the application of Sharkey v Wernher principle'). Because financial instruments are, in general, like trading securities in that they are ~not freely exchangeable or replaceable~ (unlike currencies discussed in section 5.5.8 on 'Exchange difference' below), it is arguable that the increase in fair value of financial assets are ::unrealised:: and should ~not be treated as assessable profits~.
+
+[[CIR v Nice Cheer Investment Limited [(2011) HCIA 8/2007, (2012) CACV 135/2011]]
+#QP/D/Tax/Profits/chargeable
+#QP/D/Tax/Profits/capital

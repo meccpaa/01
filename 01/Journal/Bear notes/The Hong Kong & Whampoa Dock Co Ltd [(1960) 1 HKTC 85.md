@@ -1,0 +1,8 @@
+# The Hong Kong & Whampoa Dock Co Ltd [(1960) 1 HKTC 85
+The facts: This was a landmark case on the operations test. The taxpayer, a company incorporated and managed in Hong Kong, had no establishment outside Hong Kong. It maintained its shipbuilding and salvaging organisation in Hong Kong and kept all plant and equipment here, including tugs and salvage experts. On receipt of a phone call from the owners of motor vessel Bintang advising that the ship was aground on the Paracel Islands, the taxpayer sent its tug Kowloon Docks to provide salvage services. The captain had full powers to negotiate and finalise any salvage contract. Bintang was refloated and first towed to a sheltered anchorage in the Paracel Islands and put into a condition to be towed to Hong Kong. The salvage award was agreed at $680,000 which was paid to the taxpayer in Hong Kong. The IRD assessed the profit from the salvage operation and the taxpayer appealed.
+
+Decision: The BOR decided in favour of the taxpayer but that decision was reversed by the High Court.
+
+However, by applying the operations test, the COA decided that the profit was derived from the salvage operations performed outside Hong Kong. Although the towing of the motor vessel was partly done in Hong Kong waters, the COA was of the view that no apportionment could be made in the circumstances and the whole of the profits were not taxable.
+
+#QP/D/Case/Tax/Profits/Source

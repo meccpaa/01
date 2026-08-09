@@ -1,0 +1,21 @@
+# Py2.9 Operations on strings
+In general, you cannot perform mathematical operations on strings, even if the strings look like numbers. The following are illegal (assuming that message has type string):
+```
+>>> message - 1			# Error
+>>> "Hello" / 123		# Error
+>>> message * "Hello"	# Error
+>>> "15" + 2				# Error
+```
+Interestingly, the `+ operator` does work with strings, but for strings, the + operator represents **concatenation**, not addition. Concatenation means joining the two operands by linking them end-to-end. For example:
+```
+fruit = "banana" 
+baked_good = " nut bread" 
+print(fruit + baked_good)
+```
+The output of this program is banana nut bread. The space before the word nut is part of the string, and is necessary to produce the space between the concatenated strings.
+
+The `* operator` also works on strings; it performs **repetition**. For example, ’Fun’ * 3 is ’FunFunFun’. One of the operands has to be a string; the other has to be an integer.
+
+On one hand, this interpretation of + and * makes sense by analogy with addition and multiplication. Just as 4 * 3 is equivalent to 4+4+4, we expect "Fun" * 3 to be the same as "Fun"+"Fun"+"Fun", and it is. On the other hand, there is a signiﬁcant way in which string concatenation and repetition are different from integer addition and multiplication. Can you think of a property that addition and multiplication have that string concatenation and repetition do not?
+
+#code/python

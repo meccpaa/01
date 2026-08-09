@@ -1,0 +1,1 @@
+[Clear benefits for Hong Kong elderly with health voucher scheme for eye care | South China Morning Post](https://www.scmp.com/comment/letters/article/3012468/clear-benefits-hong-kong-elderly-health-voucher-scheme-eye-care)

@@ -1,0 +1,18 @@
+**Attachment**:: 
+**Date**:: 2020-09-10T14:08:00
+**Action**::  
+**Topics**:: [[Share cert]], [[v.TH]], [[Capital increase OTT TH]]
+**Type**:: [[Email]]
+**Remarks**:: 
+**Person**:: [[Tirathanapat, Jeab N]]
+**Link**:: [AppLink](outlook:000000003F422DF24198BB43AE0AB2183C680E770700D4D2347232E0A0478424CFB59F08075F000019BBEE560000A8FE1A0899C12544BB5C3069D184414900009AB6C9F80000), [WebLink](https://outlook.office365.com/owa/?ItemID=AAMkADliODdmMzUzLTllZmMtNGU1Yy1iMWQzLTQ1N2ZiNGM4NjJkMgBGAAAAAAA-Qi3yQZi7Q64Kshg8aA53BwDU0jRyMuCgR4Qkz7WfCAdfAAAZu_5WAACo-hoImcElRLtcMGnRhEFJAACatsn4AAA=&exvsurl=1&viewmodel=ReadMessageItem)
+**Thread**:: [[PCCW OTT (Thailand) Company Limited - Share Certificates Cancellation and Issuance of New Shares]]
+
+---
+## Notes
+old
+1. [[202008281517 E= PCCW OTT (Thailand) Company Limited - Share Certificates Cancellation and Issuance of New Shares (Choi, Queenie MY)]] 
+2. [[202008281752 E= PCCW OTT (Thailand) Company Limited - Share Certificates Cancellation and Issuance of New Shares (Tirathanapat, Jeab N)]] 
+3. [[202009011816 E= PCCW OTT (Thailand) Company Limited - Share Certificates Cancellation and Issuance of New Shares (Cheng, Carol KY (Corp Sec))]] 
+
+

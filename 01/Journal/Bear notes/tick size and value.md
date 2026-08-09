@@ -1,0 +1,4 @@
+# tick size and value
+Usually, the tick size is 0.0001% (i.e. four decimal places) and contracts typically relate to three-month interest rates from the specified settlement date. The value of a movement in the futures price by one tick is the tick size (0.0001%) multiplied by the standard contract size multiplied by 3/12 (life duration three months). For example, if the futures market prices were quoted in dollars, the minimum price movement would be 0.0001%. For a dollar contract with a standard contract size of $1 million, the tick value is $25. If the price of a dollar interest rate future falls by 24 ticks, a seller of 30 futures (holder of a short position) would make a gain of US$18,000 (= 30 contracts x 24 ticks x $25).
+
+#QP/B/Corp-fin/risks

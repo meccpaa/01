@@ -1,0 +1,24 @@
+# CG Self-test 2
+Excellent Limited is a company listed on the Hong Kong Stock Exchange. Excellent Limited is engaged in construction projects contracted by certain reputable real estate developers. Recently, the directors of Excellent Limited were aware that one of its key construction projects may face a significant delay in completion. In accordance with the terms as set out in the respective construction contract, the customer has the right to claim against Excellent Limited for any loss arising from such delay. Based on the project team's estimation, the claim may amount to HK$100 million.
+
+Required
+
+From the corporate governance perspective, suggest actions that the directors of Excellent Limited should take.
+
+(8 marks)
+- - - -
+## answer
+In Hong Kong, the Code on Corporate Governance Practices ("HK Code") sets out the principles of good corporate governance. It refers to the companies subject to the Code as "issuers".
+
+The HK Code promotes transparency and openness. Transparency means open and clear disclosure of relevant information to shareholders and other stakeholders, and not concealing information, which may affect decision-making. It means open discussion, with a default position of information provision rather than concealment.
+
+Directors should also hold responsibilities to their stakeholders. Directors should act in the best interests of the company and take the necessary steps to ensure that the company stays on the right path.
+
+Directors are accountable to stakeholders for complying with statutory and regulatory requirements, safeguarding funds and taking proper stewardship of assets and resources. Any major issues should be brought to the attention of the board on a timely basis. Financial and non-financial performance measures should be established and reported.
+
+In this regard, the directors should understand thoroughly the status of the construction with the operational personnel, in order to evaluate if a significant delay in the completion is likely to arise. They should consider seeking expert advice from internal or external sources.
+
+Concurrently, the directors should establish measures to respond to the possible losses. For example, making every effort to negotiate with their customer aiming to minimise the loss and damage to the company.
+
+The directors should also assess the significance of the impact arising from the delay of the construction project and consider if a disclosure of the event is required. The impact can be a financial loss, which may cause a significant loss arising in profit or loss, and a non-financial loss, which is a reputation risk.
+#QP/c/Practice/CG

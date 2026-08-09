@@ -1,0 +1,12 @@
+# CIR v Asia Television Ltd ('ATV case') [(1989) 1 HKRC 90-002
+a non-resident film distribution company had been paid licence fees for the broadcast of films in Hong Kong directly by ATV outside Hong Kong. The non-resident person ::did not receive its income through, but rather from, ATV::. The High Court therefore found that ATV was not an [[agent]] of the non-resident person, and could not be assessed to tax on the non-resident person's behalf. The only alternative for the IRD was **direct assessment** on the non-resident person.
+
+‘Principal to principal’ basis
+- - - -
+[[DIPN 17 (revised)]]
+The case concerned the payment of licence fees by Asia Television Limited (ATV) to a non-resident film distribution company under a licence agreement to broadcast in Hong Kong films supplied by the non-resident. The licence fees were paid directly by ATV to the non-resident outside Hong Kong. Such fees are chargeable to Profits Tax under section 15(1)(a). Assessments were raised on ATV ::as agent for non-resident::. On appeal the High Court held that in the circumstances of the case the non-resident was in receipt of income **not through but rather from ATV**. Consequently ATV was not an “agent” as defined and ::could not be charged:: under [[s.20A direct assessment of non-resident / in the name of agent]] in respect of the licence fees paid to the non-resident. It followed, of course, that the non-resident could only be charged by direct assessment. 
+
+As a result of the ATV decision, the Department is unable to use section 20A to assess non-residents where the Hong Kong person and the non-resident deal with each other on a principal to principal basis, as was the situation in the ATV case. Because it is not uncommon for non-residents in receipt of royalties and licence fees from Hong Kong and for non-resident entertainers and sportsmen who perform in Hong Kong to derive income not through a Hong Kong agent but from a Hong Kong principal, it has been necessary to amend the law to restore the position, as far as possible, to that which was thought to have existed prior to the ATV decision. 
+[[s.20B - withholding obligations on resident persons paying or crediting certain payments to non-resident persons]]
+
+#QP/D/Case/Tax/Overseas

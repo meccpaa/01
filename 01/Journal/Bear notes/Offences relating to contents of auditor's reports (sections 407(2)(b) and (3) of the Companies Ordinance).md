@@ -1,0 +1,4 @@
+# Offences relating to contents of auditor's reports (sections 407(2)(b) and (3) of the Companies Ordinance)
+In addition to the reporting requirements of HKSAs, the auditor is required to report on other matters under `sections 407(2)(b) and (3) of the Companies Ordinance`. A modified auditor's opinion expressed in line with HKSAs would thus have implications for this reporting. For instance, an inability to obtain sufficient appropriate evidence regarding the fair presentation of the financial statements would imply that the auditor was also unable to determine whether adequate accounting records had been kept, and that the auditor had not obtained all the information or explanations that are necessary and material for the purpose of the audit. The auditor must not commit any of the offences in relation to these statements, as set out in the next section.
+
+#QP/C/Audit/report

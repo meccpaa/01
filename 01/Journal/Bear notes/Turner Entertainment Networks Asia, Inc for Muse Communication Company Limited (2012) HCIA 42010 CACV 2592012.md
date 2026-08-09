@@ -1,0 +1,6 @@
+# Turner Entertainment Networks Asia, Inc for Muse Communication Company Limited (2012) HCIA 4/2010 CACV 259/2012
+Whether sums relating to the exhibition of television programmes are assessable under ss.15(1)(b) or (ba)
+
+The CFI considered that because the various paragraphs of s.15(1) were intended to deal with different situations, they need not necessarily be mutually exclusive. Exhibition rights of television ('TV') programmes can fall within the meaning of 'copyright materials' or 'other property of a similar nature' in s.15(1)(b), and the existence of s.15(1)(a) does not preclude the application of s.15(1)(b) or (ba). The CFI and COA held that the exhibition of the relevant TV programmes involved the use of, or right to use, the copyright materials which subsisted in the relevant TV programmes, and the license fees were paid for that right. As Turner was **entitled to claim the fees as tax deductible** in Hong Kong, the license fees were caught by s.15(1)(ba).
+
+#QP/D/Case/Tax/Profits/chargeable

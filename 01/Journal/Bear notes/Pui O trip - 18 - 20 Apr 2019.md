@@ -1,0 +1,48 @@
+# Pui O trip - 18 - 20 Apr 2019
+Two night of trip. In the Easter holiday. We went to Tung Chung by E22 bus after work. Having dinner there at Tsui Wah, then took Lantau bus to Pui O, Victoria hotel at night. 
+
+The hotel facilities are primitive. It is big, but the service and the facilities are lacking. We took a room for 2. 
+
+Have some study then slept. 
+
+- - - -
+In the following morning, I played Tai Chi then we went out to hiking. 
+
+As planned, we went to Shek Pak country park, hiked around the water reserve. 
+
+We took no. 1 bus to the helicopter station. Saw a fat man slept at the fence. 
+
+Originally thought the weather could be worse, as the night before rain was pouring. 
+
+However, walking and walking, weather although can’t claimed to be nice, but no raining. 
+
+We enjoy the view and look for the plants, see weather there was beautiful flowers around. The plants here was a bit different from usual hike at new territory. Saw some, but probably not yet at the season for the blossom of the flowers. 
+
+The hike was easy, just like normal hike around reservoir. Not much people was hiking. We could enjoy the quiet environment. 
+
+Since the weather was nice, we went further to dog teeth mountain 狗牙嶺。
+
+At the beginning of the hike, we already needed to climb. The road was steep. But the return also great. We took photos on the steep size and until later we reached the misty area. 
+
+It was very windy and misty when we reached higher. The trail was not very long. However I didn’t bring enough water, at the end of the dog teeth mountain, I already use up all my water. 
+
+We thought about ending through 東狗牙, but the weather is too misty, so we decided to ended at Nuong Ping. We took the route to 鳳凰山，reached 斬柴坳， about 810m high. Then following the normal ending route of 鳳凰山 to Ngong Ping. 
+
+The weather getting worse when we walking downhill. It was pouring. And then we reach the market there, have some foods (black sesame, noodle and chicken leg). The took the bus back to hotel. It was around 6pm. 
+
+At the night around 7, we went out to have dinner. But found that the restaurant already closed, so we took bus to Mui Wo and have dinner at Wah Gee seafood.  The seats are beside the seaside. With intermittent heavy rain. 
+
+We ordered 2 people set at around $280. 
+
+After the dinner, we took bus back to hotel. Prepared to sleep. I studied a bit about related party disclosure. 
+
+- - - -
+The following day, we walked to Mui Wo along the shoreline. The view was nice and the route was easy. Luckily we reached the destination before the thunderstorm. Have lunch and then took ferry to central and again took ferry to Tsim Sha Tsui. 
+
+We went to Goldin first , I took the laptop and she took some other material purchased from Taobao. 
+
+We then took bus to home. 
+
+https://photos.app.goo.gl/HBFAmbFMAt5WU6Fa7
+
+#journal

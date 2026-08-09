@@ -1,0 +1,4 @@
+# Non-monetary intangible assets
+Expenses might be incurred during an interim period on items that might or will generate nonmonetary intangible assets. According to HKAS 38 Intangible Assets, with the exception of those costs that constitute part of the cost of an identifiable intangible asset, other costs relating to the generation of non-monetary intangible assets (e.g. development expenses) should be recognised as an expense when incurred. Costs that were initially recognised as an expense cannot be treated as part of the cost of an intangible asset in a later period. The same approach should be adopted in interim financial statements as mentioned in HKAS 34. That is to say, unless a cost will eventually be part of a non-monetary intangible asset that has not yet been recognised, it would not be appropriate to have it 'deferred'; it should be expensed in the interim report.
+
+#QP/A/Fin-Rpt/interim

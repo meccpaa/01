@@ -1,0 +1,17 @@
+# ethic in business Exam practice - Yanah Petroleum
+Sean is an associate in a professional accounting firm, Topadvice, which provides accounting and financial advisory services to their clients. Sean received his Degree in Finance four years ago and has recently qualified as a CPA. In his leisure time, he is fond of learning all kinds of technical and charting techniques for analysing the stock market. Sean always takes pride in his investment performance as the aggregate return over the last three years is now sufficient for the down payment of his 400-square-foot apartment. For this purchase, Sean is particularly grateful to his elder sister as she lent Sean $50,000 to make his first investment in the stock market.
+
+In Sean's recent research, Yanah Petroleum is his top pick as he has found that all the technical indicators support a forthcoming rally in the share price of Yanah. A potential return of 30% is almost beyond doubt – at least he believes so. Sean purchases the share at $5. He learns from many other intelligent investors that placing a stop-loss order is a wise move to protect his investment. Hence, he requested his broker to keep a close eye on Yanah's share price and sell the shares without the need to get further instruction from him whenever the price drops below $4.3. As usual, Sean called up his sister and told her his view on Yanah. He knew that his sister has followed him in the investment in Yanah and placed the same stop-loss order at $4.3.
+
+Last month, the vice-president of Topadvice asked Sean to join a team responsible for Project 'Sunrise', a merger and acquisition assignment. In the first working meeting, Sean realised that his firm was appointed by the Board of Yanah to provide independent advice on a takeover offer from a Chinese oil refinery company which was also a client of the firm for some capital structure advice. At the end of the meeting, the team leader reminded the members that the company policy forbids employees to trade the clients' shares. Sean believed that his investment in Yanah was made before the firm's appointment by Yanah, so he was in compliance with the policy as long as he does not sell the shares.
+
+After a few weeks' work on the valuation of Yanah assets and several meetings with the senior management of the company, Sean has learnt about certain non-public information about the financial and operating position of Yanah. There was one piece of information that surprised Sean. In an internal Yanah memorandum that came to Sean's notice by accident, it was stated that the newly located oil field in Russia had a much lower oil reserve level than that which Yanah mentioned to the media earlier. In addition, the underground pressure of the oil reservoir was low which would require the use of some higher-cost extraction methods. Sean knew that if this information became public, Yanah's share price would fall through the critical support level on his technical chart. He was fully aware that it was a breach of company policy and professional ethical requirements if he sold his shares. Therefore, he stayed put on his own investment and only called up his sister to suggest that she might raise her stop-loss order to $4.8.
+
+Required
+
+By reference to the HKICPA Code of Ethics for Professional Accountants, highlight the ethical issues in the case and suggest the appropriate actions that should be taken. (15 marks)
+
+HKICPA February 2009
+- - - -
+
+#QP/B/Corp-fin/Ethics

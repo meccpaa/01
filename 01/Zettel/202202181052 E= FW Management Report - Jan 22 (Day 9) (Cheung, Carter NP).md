@@ -1,0 +1,10 @@
+**Attachment**:: [[DM Act Jan 22 (GSEA) (Day 9).xlsx]]
+**Date**:: 2022-02-18T10:52:00
+**Action**::  
+**Topics**:: [[Mgt report]], [[DM]]
+**Type**:: [[Email]]
+**Remarks**:: 
+Link:: [Link](outlook:000000003F422DF24198BB43AE0AB2183C680E770700041BDA540A8D9D4D894F8A46A00EE448000009AEED320000A8FE1A0899C12544BB5C3069D1844149000051EE47DA0000)
+
+---
+## Tasks

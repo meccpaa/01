@@ -1,0 +1,3 @@
+# self-constructed assets
+If the entity makes similar assets (to acquired PPE) during the normal course of business for sale externally, then the cost of the asset will be the cost of its production under HKAS 2 Inventories. This also means that abnormal costs (wasted material, labour or other resources) are excluded from the cost of the asset. An example of a self-constructed asset is when a building company builds its own head office.
+#QP/A/Fin-Rpt/PPE

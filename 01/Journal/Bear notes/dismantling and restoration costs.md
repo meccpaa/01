@@ -1,0 +1,4 @@
+# dismantling and restoration costs
+**Estimated** dismantling costs and restoration costs that a lessee is required to pay ~at the end of a lease term~ may include the costs of dismantling and removing the underlying asset, the cost of restoring the underlying asset to a required condition or the costs of restoring the site on which the asset was located. The **obligation** to pay such costs ~may arise at the start of the lease term~ or as the term progresses. Those costs that arise ::as the term progresses:: that are included in the cost of inventories do not form part of the lease liability. The amount is measured in accordance with HKAS 37 and gives rise to a corresponding provision.
+
+#QP/A/Fin-Rpt/Lease

@@ -1,0 +1,4 @@
+# going concern basis of accounting
+HKSA 570.2: Under the going concern basis of accounting, the financial statements are prepared on the assumption that the entity is a going concern and will ~continue its operations for the foreseeable future~. General purpose financial statements are prepared using the going concern basis of accounting, ::unless:: management either ~intends to liquidate~ the entity or to ~cease operations~, or has ~no realistic alternative~ but to do so. When the use of the going concern basis of accounting is **appropriate**, assets and liabilities are recorded on the basis that the entity will be ~able to realise its assets~ and ~discharge its liabilities~ in the normal course of business.
+
+#QP/C/Audit/review/going-concern

@@ -1,0 +1,4 @@
+# RE: Apple TV ZSO bundle with Viu Premium
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5NzU5NTVAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MzY3%0D%0AODk3ODc4NQ%3D%3D)
+
+#Work

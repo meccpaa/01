@@ -1,0 +1,1 @@
+# income from immovable properties

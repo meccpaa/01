@@ -1,0 +1,8 @@
+# Perf-sys Example - index analysis
+An index analysis, using the same figures as in the previous example, is shown in the following table. For example, the cash balance in 20X9 is 6.89 times the balance of cash in 20X7 (i.e. 310/ 45 ).
+![](Perf-sys%20Example%20-%20index%20analysis/BA53AD6A-E815-4398-AC5B-CEA67B81DF3B.png)
+While the cash balance has increased significantly relative to itself over the three-year period, its amount is not material when compared with total current assets. Of more interest are the index changes for receivables and for inventory. Based on the common size analysis percentages in the previous table, the trends in these accounts did not appear to stand out (both remained at around 30% of total assets). The 20X9 balance for receivables is about 1.5 times the balance in 20X7 and for inventory it is about 1.4 times. Further analysis of receivables could include inspection of an aged trial balance (if possible), to determine if the build up is due to an increase in cash collection times or changes in credit sales over the period. The inventory change is consistent with sales growth explaining the change because inventory would be expected to increase if sales and accounts receivable are also increasing, yet other factors need to be considered. The increase in plant and equipment seems to have been funded mainly from the increase in retained profits and paid up capital (total equity).
+
+Common size and index analysis complement one another, yet the presentation of the information in different ways makes certain relationships easier to see. [[Common size trend analysis]]
+
+#QP/b/Practice/perf-sys

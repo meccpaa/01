@@ -1,0 +1,1 @@
+[Why do your toes hurt? The causes of bunions and what can be done to treat your feet | South China Morning Post](https://www.scmp.com/lifestyle/health-wellness/article/3075030/why-do-your-toes-hurt-causes-bunions-and-what-can-be-done)

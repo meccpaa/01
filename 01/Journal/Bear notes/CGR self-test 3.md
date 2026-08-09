@@ -1,0 +1,30 @@
+# CGR self-test 3
+Peace Limited is a company listed on the Hong Kong Stock Exchange and has entered into an agreement with Mr. Chan, an executive director of Peace Limited, for consultancy services. Pursuant to the agreement, Peace Limited will pay HK$10 million to Mr. Chan for general consultancy services such as promoting the image of Peace Limited in the market.
+
+Required
+
+Suggest the corporate governance measures required (ignoring the Hong Kong Listing Rules requirements on connected transactions) to enhance the transparency of transactions with directors in Peace Limited.
+
+(8 marks) HKICPA June 2014 (amended)
+- - - -
+## Answer
+The Hong Kong Stock Exchange sets out the principles of good corporate governance in the Corporate Governance Code ('the Code') included in the Appendix of the Main Board Listing Rules. The recommended corporate governance measures Peace Limited should consider include:
+
+### Composition and balance of the board of directors
+
+A single individual may bypass the board to action his own interest. The board should include directors with proper knowledge and experience in assessing the reasonableness of material transactions entered into by Peace Limited. The mix between executive and independent nonexecutive director should also be balanced to allow a proper review of management activities.
+
+### Audit committee
+
+Peace Limited is a company listed on the Hong Kong Stock Exchange. It must establish an audit committee according to the listing rules. An audit committee should be established to review Peace Limited's internal financial controls. The Code has already a requirement that the Audit Committee should be independent from the management. The committee should also be kept abreast of the information and developments in Peace Limited's as a monitoring measure against contract with directors.
+
+### Remuneration Committee
+
+The Code requires the establishment of a Remuneration Committee, consisting of the majority of independent executive directors, to approve the remuneration of directors and executives. A reasonable remuneration package for the management is usually a general measure to prevent senior management from acting for self-interest or committing wrong-doings at the expense of the company's interest.
+
+### Other measures
+
+Typical corporate governance measures also include an employee whistle-blowing scheme where employees are encouraged to report exceptional or suspicious related party activities e.g. fraud or collusion and corporate governance issues. Peace Limited should consider establishing such a communication channel.
+
+
+#QP/C/Practice/CGR

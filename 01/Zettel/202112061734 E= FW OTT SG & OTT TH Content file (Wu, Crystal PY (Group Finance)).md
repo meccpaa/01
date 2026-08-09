@@ -1,0 +1,10 @@
+**Attachment**:: [[Amortize_OTT_ContentCost 2021.11.xlsx]], [[Content_Variety_THY2021.11.xlsx]], [[IA_Subtitle_THY2021.11.xlsx]]
+**Date**:: 2021-12-06T17:34:00
+**Action**::  
+**Topics**:: [[Content]], [[JE]]
+**Type**:: [[Email]]
+**Remarks**:: 
+**Link**:: [AppLink](outlook:000000003F422DF24198BB43AE0AB2183C680E770700D4D2347232E0A0478424CFB59F08075F000019BBEE560000A8FE1A0899C12544BB5C3069D184414900000552ACDD0000), [WebLink](https://outlook.office365.com/owa/?ItemID=AAMkADliODdmMzUzLTllZmMtNGU1Yy1iMWQzLTQ1N2ZiNGM4NjJkMgBGAAAAAAA-Qi3yQZi7Q64Kshg8aA53BwDU0jRyMuCgR4Qkz7WfCAdfAAAZu_5WAACo-hoImcElRLtcMGnRhEFJAAAFUqzdAAA=&exvsurl=1&viewmodel=ReadMessageItem)
+
+---
+## Tasks

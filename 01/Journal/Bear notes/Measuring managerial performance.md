@@ -1,0 +1,4 @@
+# Measuring managerial performance
+It is difficult to devise performance measures that relate specifically to a manager to judge his or her performance as a manager. It is possible to calculate statistics to assess the manager as an employee like any other employee (days absent, professional qualifications obtained, personability and so on), but this is not the point. As soon as the issue of ability as a manager arises it is necessary to consider him in relation to his area of responsibility. If we want to know how good a manager is at marketing the only information there is to go on is the marketing performance of his division (which may or may not be traceable to his own efforts).
+
+#QP/B/Corp-fin/perf-sys

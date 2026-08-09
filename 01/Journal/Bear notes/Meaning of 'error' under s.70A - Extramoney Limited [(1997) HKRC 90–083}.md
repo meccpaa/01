@@ -1,0 +1,6 @@
+# Meaning of 'error' under s.70A - Extramoney Limited [(1997) HKRC 90–083}
+The taxpayer was a company owned by subsidiaries and associated companies of Carrian Holdings Ltd. It filed a 1980/81 Profits Tax Return supported by unqualified audited financial statements. Carrian Holdings Ltd then went into liquidation. In 1987, the taxpayer and Carrian Holdings Ltd requested the IRD to reopen the 1980/81 profits tax assessment under s.70A on the grounds that the taxpayer had never made a profit. The auditors of the taxpayer were held to be negligent in another litigation and there was evidence that the taxpayer had not made the profit as disclosed in its financial statements. The Board of Review rejected the taxpayer's request on the grounds that there was no 'error' in its tax return.
+
+On appeal, the High Court, having regard to the meaning of 'error' given in the Oxford English Dictionary as 'something incorrectly done through ignorance or inadvertence, a mistake', decided that the taxpayer's deliberate declaration of the fictitious profits in its tax return was not an 'error' within the meaning of s.70A.
+
+#QP/D/Case/Tax/Admin

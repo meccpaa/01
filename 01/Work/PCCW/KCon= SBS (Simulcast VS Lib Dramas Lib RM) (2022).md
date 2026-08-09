@@ -1,0 +1,3 @@
+- key commercial terms
+	- missing period (license period, coorporation period)
+	- missing b-case

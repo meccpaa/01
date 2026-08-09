@@ -1,0 +1,5 @@
+# Yung Tse Kwong [(2004) HKRC 90-136] - Payment upon termination of employment
+The taxpayer's employment contract provided for reassignment or a 12-month severance payment 'Sum A' in accordance with the company's Career Transition Plan if his employment was terminated. The Commissioner took the view that the provision of Sum A was an inducement to secure the taxpayer's services throughout the whole period of employment. The taxpayer claimed that Sum A was compensatory in nature because it was paid as consideration for the restrictive covenants set out in the Severance Agreement which he had to sign in accordance with the Career Transition Plan before he was paid the sum. The Board of Review, by majority, held that Sum A was attributable to the giving of the restrictive covenants. On appeal by the Commissioner, the Court decided to **apportion 10% of Sum A as inducement to enter into employment** having regard to the circumstances of the case. The remaining 90% was attributable to the giving of **restrictive covenants** and nontaxable.
+
+[[General emoluments s.9(1)(a)]]
+#QP/D/Tax/Salary

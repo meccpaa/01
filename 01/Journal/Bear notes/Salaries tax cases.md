@@ -1,0 +1,25 @@
+# Salaries tax cases
+- [[D R Humphrey [(1970) HKTC 451] - expenses of traveling from home to office]]
+- [[Robert P Burns [(1980) HKTC 1181] - Legal expenses on appeal against disqualification as a racehorse trainer]]
+- [[Robert P Williamson [(1981) HKTC 1215] - Computation of rental value over rent paid]]
+- [[Henry J Walton Masters [(1984) 2 HKTC 22] - Hotel service charge]]
+- [[So Chak Kwong, Jack [(1986) 2 HKTC 174] - Visits not exceeding a total of 60 days]]
+- [[Sin Chun Wah [(1988) 2 HKTC 364] - Payment in lieu of notice]]
+- [[George Andrew Goepfert [(1989) 1 HKRC 90-003] - Situs of employment]]
+- [[David Hardy Glynn [(1990) 1 HKRC 90-032] - Educational benefits]]
+- [[Sit Kwok Keung - Married person's allowance and single parent allowance]]
+- [[Peter Leslie Page [(2003) 1 HKRC 90-123] - Rental allowance]]
+- [[Yung Tse Kwong [(2004) HKRC 90-136] - Payment upon termination of employment]]
+- [[S. C. Sawhney [HCIA 1/2006] - Share option gains]]
+- [[Elliott, S.W.G. [CACV 286/2006] - Payment received upon termination of employment]]
+- [[Robertshaw, R Jesse [HCIA 3/2006] - Rent refund or cash allowance]]
+- [[Yau Wah Yau [D53/04][(2006) 3 HKLRD 586] [HCIA 9/2005] [CACV 97/2006] - Rent refund or cash allowance]]
+- [[Franco Tong Siu Lun [21 BORD 947] [HCIA 2/2006] - Deductibility of contingent debts]]
+- [[Tsai Ge Wah [20 BORD 933] [D68/05] [HCIA 1/2007] - Gratuity, severance payment or long service payment]]
+- [[Fuchs, Walter Alfred Heinz [HCIA 1/2008] [CACV 196/2008] [FACV 22/2009] - Lump sum received on termination of employment]]
+- [[Ahn Sang-gyun [D32/2007] [HCIA 4/2008] - Source of employment]]
+- [[Mrs. Murad, Barbara Ellen, Mrs. Ward, Mona Frances, Mr. Murad, Mark Basiem and Mr. Strickroot, John Carl, the executors of the estate of the late Mr. Murad, Mike M (formerly known as Mr. Murad, Mohammad Mutaz) [HCIA 1/2009] - Lump sum received on termination of employment]]
+- [[Poon Cho-ming, John [HCIA 2/2015] - Termination payments]]
+
+With regard to the costs involved in pursuing a case in the Courts, there are not many decided tax cases relating to salaries tax. However, there are a large number of BoR cases which offer views from different perspectives on salaries tax issues.
+#QP/D/Tax/Salary

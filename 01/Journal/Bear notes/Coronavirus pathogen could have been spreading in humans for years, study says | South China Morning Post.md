@@ -1,0 +1,2 @@
+[Coronavirus: pathogen could have been spreading in humans for years, study says | South China Morning Post](https://www.scmp.com/news/china/science/article/3077442/coronavirus-pathogen-could-have-been-spreading-humans-decades)
+#news/COVID

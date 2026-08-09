@@ -1,0 +1,1 @@
+[Days Sales Outstanding – DSO Definition](https://www.investopedia.com/terms/d/dso.asp)

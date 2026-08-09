@@ -1,0 +1,15 @@
+# incurred
+An expense not yet paid but 'incurred' may be allowable. The Privy Council, in CIR v Lo and Lo [(1984) 2 HKTC 34], decided that the meaning of 'incurred' should not be confined to sums actually paid. An expense is considered incurred **when it becomes due and payable**, or when a taxpayer becomes definitively committed to the expense, or has a legal liability to pay the expense. A contingent liability is not allowable, but a deduction is allowed once the liability crystallises (CIR v Cosmotron Manufacturing Co Ltd [(1997) 4 HKTC 562]).
+
+The taxpayer in Lo and Lo was a firm of solicitors. It introduced a system to provide a lump sum payment on retirement to its employees under certain conditions. A provision for staff retirement benefits was made in the accounts and a tax deduction was claimed. The Commissioner disallowed the deduction on the basis that the expense was not 'incurred' during the basis period. Although the BOR held in favour of the Commissioner, the High Court, COA and Privy Council allowed the deduction on the basis that the ::taxpayer has an obligation to pay the retirement benefits and the provision was specific and ascertainable with substantial accuracy::. Following the decision in Lo and Lo, **s.17(1)(j)** was added which renders provisions for special payments in respect of retirement schemes non-deductible (s.17(1)(j) is discussed in section 8.7 on 'Deductions not allowed under s.17').
+
+In Banque Nationale de Paris Hong Kong Branch v CIR [(1985) 2 HKTC 139], interest charged by the bank's head office to the Hong Kong branch was disallowed on the ground that the head office and the branch were part of the same legal entity, no loan existed and the interest was only a 'notional expense'. In practice, the IRD may allow a deduction for payments made by a branch to a head office when:
+(a) The charge is commercially justified;
+
+(b) The amount can be substantiated with reasonable basis of calculation; and
+
+(c) It satisfies s.16(1), e.g. a charge by a head office to a branch to recover part of the head office's administration expenses plus a reasonable mark-up.
+
+Deductions are allowable provided that the outgoings and expenses have been incurred in the production of profits chargeable to tax for any period. Prior to the issuance of DIPN 40, it had been a common practice of the IRD to allow a deduction by way of a computational adjustment for the whole amount of a prepaid expense in the year it was incurred, even when the expense was not charged to the taxpayer's income statement. However, following the decision of CIR v Secan Limited and Another [(2001) 1 HKRC 90-107], the IRD has indicated in DIPN 40 (Revised) that they now consider that the tax treatment should follow the accounting treatment of prepaid revenue expenses if the treatment in the accounts is in accordance with the prevailing generally accepted accounting principles and is not inconsistent with any provision in the IRO.
+
+#QP/D/Tax/Profits/Deduction

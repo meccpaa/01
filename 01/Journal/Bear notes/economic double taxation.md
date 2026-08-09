@@ -1,0 +1,11 @@
+# economic double taxation
+Economic double taxation means two enterprises **residing in different states** are assessed ~to tax on the same profit or income~.
+
+For instance, the profits of an enterprise are adjusted upwards as a result of a primary transfer pricing adjustment made by the tax authority of the home state which increases the tax charged on the enterprise in a transaction. However, the tax authority of the other state does not make a corresponding downward adjustment to the tax charged on the associated enterprise involved in the transaction.
+- - - -
+Generally under a DTA, when the tax authority of one state makes a primary transfer pricing adjustment to the tax position of an enterprise in that state for goods or services etc it provides to an **associated enterprise** in the other state, the tax authority of the other state is obliged to make a ~corresponding adjustment~ to the tax position of the associated enterprise so as to `avoid double taxation of the same profit`. In Hong Kong, the claim for such corresponding adjustment must be made by the taxpayer within six years after the end of the relevant year of assessment under s.79 of the IRO, which allows tax paid in excess to be refunded under certain conditions. [[s.79(3) tax overpaid by non-resident persons]]
+
+DIPN No. 45 specifically states that the relief for economic double taxation can only be sought by way of a corresponding adjustment, but ::not for a retrospective price adjustment::.
+
+DIPN No. 45 also states that **subsequent payments purporting to represent such a retrospective price adjustment** would ~not represent outgoings or expenses incurred in the production of chargeable profits~ and hence not deductible under [[s.16 General Deductions]]. Moreover, DIPN No. 45 makes it clear that the relevant assessment cannot be re-opened under [[s.70A error or omission claim]] as the retrospective price adjustment constitutes ::neither an error nor omission:: made in the taxpayer's return or statement filed with the IRD for the year concerned.
+#QP/D/Tax/DTA

@@ -1,0 +1,6 @@
+# Penalty under s.82A - Kwok Siu Tong [(1977) HKTC 1012}
+The returns submitted by the taxpayer were not accepted by the assessor and estimated assessments were raised under s.59(2)(b). After further investigation, the original estimated assessments were found to be inadequate and additional assessments were raised on the taxpayer. The Commissioner then raised additional tax penalties based on the tax that would have been charged had the returns been accepted as correct and the tax that would have been charged had correct returns been made. The taxpayer disagreed and claimed that the additional tax should be based on the amount of tax charged by the original assessments.
+
+On appeal, the High Court decided in favour of the Commissioner. The wording in s.82A 'the amount of tax that has been undercharged in consequence of the incorrect return' means the difference between the tax on the ultimate reassessment and tax on the original incorrect return had it been accepted.
+
+#QP/D/Case/Tax/Admin

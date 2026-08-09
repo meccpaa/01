@@ -1,0 +1,1 @@
+[How a Chinese Restriction on 'Rare Earths' Could Threaten Apple - TheStreet](https://www.thestreet.com/investing/stocks/rare-earths-ban-china-threat-trade-war-trump-14971388)

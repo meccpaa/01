@@ -1,0 +1,4 @@
+# RE: COVID 19 - rental concession
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5NzU3ODlAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207NDIy%0D%0AMjc0MzU3OQ%3D%3D)
+
+#Work/rental

@@ -1,0 +1,1 @@
+**Attachment**:: **TH**: [[FS_YE2021_Signed - EN.pdf]], [[PCCW_NFS_YE2021_Audit.xlsx]], [[PCCW_Leadsheet_Dec_YE21_V2_Final(2022.04.12).xlsx]]; **PH**: [[2021 PCCW OTT Philippines, Inc. Financial Statements (For BIR Filing).pdf]], [[PCCW OTT (PHILIPPINES), INC. - SFS Worksheet FY21.xlsx]]; **SG**: 

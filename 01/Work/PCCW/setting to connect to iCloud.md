@@ -1,0 +1,3 @@
+- internet option:
+	-  ![[Pasted image 20220613190430.png]]
+	- connect the lan line

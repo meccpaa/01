@@ -1,0 +1,2 @@
+- [ ] Get back to BTU about my plan and requirement on storage @arthur.cheung #sys/SharePoint 
+- [ ] Payment process for other Vuclip regions @Cindy #sys/SharePoint

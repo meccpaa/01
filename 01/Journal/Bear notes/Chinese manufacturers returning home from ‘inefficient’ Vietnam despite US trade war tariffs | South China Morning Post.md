@@ -1,0 +1,1 @@
+[Chinese manufacturers returning home from ‘inefficient’ Vietnam despite US trade war tariffs | South China Morning Post](https://www.scmp.com/economy/china-economy/article/3018403/chinese-manufacturers-returning-home-inefficient-vietnam)

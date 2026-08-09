@@ -1,0 +1,4 @@
+# RE: CCT term sheets -- CSL X PCCW OTT HK (for CSL business)
+[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5NzlENjZAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MTI4%0D%0AMTI2MzYxNg%3D%3D)
+
+#Work/Oreo

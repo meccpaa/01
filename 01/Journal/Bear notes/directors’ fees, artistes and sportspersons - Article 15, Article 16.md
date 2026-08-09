@@ -1,0 +1,4 @@
+# directors’ fees, artistes and sportspersons - Article 15, Article 16
+The **relief** provided in Articles 7 and 14 of China-HK DTA does ::not apply:: to directors' fees or income derived by artistes and sportspersons. Pursuant to Article 15 of China-HK DTA, directors' fees and similar payments received by a resident of One Side in his or her capacity as a member of the board of directors of a company which is ~a resident of the Other Side~ **may be taxed** ~in that Other Side~. Pursuant to Article 16 of China-HK DTA, income derived by a resident artiste or sportsperson of one Side from personal activities exercised in the Other Side may be taxed in that Other Side.
+
+#QP/D/Tax/DTA

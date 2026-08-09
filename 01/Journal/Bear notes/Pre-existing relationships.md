@@ -1,0 +1,4 @@
+# Pre-existing relationships
+All consideration transferred will need to be carefully analysed to determine whether it is really part of the business combination transaction. Pre-existing relationships between the acquirer and the acquiree will need to be accounted for separately from the business combination. For example, the acquirer may have a payable balance due to the acquiree, which is effectively settled through the business combination. Where the former owners or employees receive payments, a number of factors have been included to assist the identification of whether this is for future services or not, and should be accounted for as compensation.
+
+#QP/A/Fin-Rpt/consolidation/principles

@@ -1,0 +1,6 @@
+# Franco Tong Siu Lun [21 BORD 947] [HCIA 2/2006] - Deductibility of contingent debts
+The taxpayer was employed as a dealer's representative of Kingsway SW Securities Limited, in which the taxpayer agreed to indemnify the employer of any debts not received from the clients. In the Employer's Return, the Company reported the income without reducing the contingent debts, and the taxpayer's income tax assessment was issued based on the information supplied by the Company, also without reducing contingent debts. The Board allowed the taxpayer's appeal and stated that it would be illogical to tax high level of commissions but refuse any deductions when such risk materialised, thereby allowing the deduction for such debts. The Court of First Instance, however, overruled the Board's decision and decided in favour of the IRD, recognising that the deduction rule under salaries tax is more stringent and such debts could not be said as wholly, exclusively and necessarily incurred in the production of assessment income. However, the Judge observed that the taxpayer's employment could have been considered as a contract for services and taxed under profits tax. The taxpayer's appeal to the Court of Appeal was dismissed by way of consent.
+
+[[s.12(1)(a): All outgoing and expenses]]
+
+#QP/D/Tax/Salary

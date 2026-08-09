@@ -1,0 +1,2 @@
+- [大家樂去年少賺94%　餐價或上調1元](https://m.tkww.hk/s/202206/15/AP62a9b95de4b0a469027368a8.html)
+- [Ormicron亞變種肆虐多國恐掀新瘦情](https://m.tkww.hk/s/202206/25/AP62b6718fe4b0a4690278255d.html)

@@ -1,0 +1,6 @@
+# Py1.6 semantic errors
+The third type of error is the semantic error. If there is a semantic error in your program, it will **run successfully**, in the sense that the computer will not generate any error messages, but it will ::not do the right thing::. It will do something else. Speciﬁcally, it will do what you told it to do.
+
+The problem is that the program you wrote is not the program you wanted to write. The meaning of the program (its semantics) is wrong. Identifying semantic errors can be tricky because it requires you to work backward by looking at the output of the program and trying to ﬁgure out what it is doing.
+
+#code/python

@@ -1,0 +1,16 @@
+**Attachment**:: [[DRAFT Certification of Program Title - Flower of Evil for Ad Standards Council (ASC) - OoH - August 2022 GLO.docx]]
+**Date**:: 2022-08-10T11:17:00
+**Action**::  
+**Topics**:: 
+**Type**:: [[Email]]
+**Remarks**:: 
+**Person**:: [[Chan, Fiona NM (GLO)]]
+**Link**:: [AppLink](outlook:000000003F422DF24198BB43AE0AB2183C680E770700D4D2347232E0A0478424CFB59F08075F000019BBEE560000A8FE1A0899C12544BB5C3069D18441490000C4F2DEE80000), [WebLink](https://outlook.office365.com/owa/?ItemID=AAMkADliODdmMzUzLTllZmMtNGU1Yy1iMWQzLTQ1N2ZiNGM4NjJkMgBGAAAAAAA-Qi3yQZi7Q64Kshg8aA53BwDU0jRyMuCgR4Qkz7WfCAdfAAAZu_5WAACo-hoImcElRLtcMGnRhEFJAADE8t7pAAA=&exvsurl=1&viewmodel=ReadMessageItem)
+**Thread**:: [[VIU x ABS Deal Memo for FOE]]
+
+---
+## Notes
+- [[202208101214 E= VIU x ABS Deal Memo for FOE (Chan, Fiona NM (GLO))]] 
+- [[202208101024 E= VIU x ABS Deal Memo for FOE (Chrysilla Carissa P. Bautista)]] 
+- [[202208101003 E= VIU x ABS Deal Memo for FOE (Mil Alcain)]] 
+
