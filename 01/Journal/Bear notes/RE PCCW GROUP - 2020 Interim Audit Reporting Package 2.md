@@ -1,4 +1,0 @@
-# RE: PCCW GROUP - 2020 Interim Audit Reporting Package
-[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5ODhGRjFAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MTEz%0D%0AMTAxMTI3NA%3D%3D)
-
-#Work/audit

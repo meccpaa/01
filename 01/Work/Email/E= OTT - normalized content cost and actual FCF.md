@@ -1,5 +1,0 @@
-As you are aware, the FCF figure in our consolidated P&L account is different from the actual cash outflow for the year. The major reason is that content capitalization is booked when the content is delivered, not when cash is paid. In a meeting today, Janice explained to SH that OTT's regional content cost appears to be almost doubling from 2021 to 2022 because there was $24m worth of regional deals (based on Henry's estimation) which weren't reflected in 2021.  
-
-Therefore, SH has asked for the actual cash burn of OTT factoring in actual cash inflows and outflows over the past few years so that she can look at the trend.   
-
-Can we have a call this week to discuss how to address this? One way to do it is to look at the consolidated CF statement, but we'll need to add back the cost paid by the Group on behalf of OTT which may not be reflected. Another possible approach is to adjust content capitalization by prepaid and accrued amount to arrive at normalized content cost (which has been attempted by Jonathan in the attached) and we'll need to separately account for other working capital related items.

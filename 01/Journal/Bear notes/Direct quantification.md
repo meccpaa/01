@@ -1,6 +1,0 @@
-# Direct quantification
-Since the introduction of s.51C for keeping proper books and records, the IRD would usually inspect the books and records kept by the taxpayers. If these have been kept properly, the understatement or transactions not reflected in the taxpayer's tax returns would be easily ascertained. As long as the books and records are confirmed not to have been manipulated, the tax representatives should prepare revised accounts for the taxpayers. In addition, the tax representatives should also prepare analysis of the Drawings Account of the taxpayer, or, in the case of a company director, of his Current Account and Loan Accounts, if any. Details should also be provided in respect of each Loan, and Debtor or Creditor Account in the name of a member of the taxpayer's family. The extent of scrutiny undertaken will depend on the circumstances of the case.
-
-Where proper books and records were not kept by the taxpayer, the IRD will resort to other indirect methods and the most commonly used is the ABS method. The method is detailed in DIPN 11 (Revised), paragraphs 62 to 71 as follows:
-
-#QP/D/Tax/investigation

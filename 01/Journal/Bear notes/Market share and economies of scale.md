@@ -1,6 +1,0 @@
-# Market share and economies of scale
-Like some of the portfolio matrix tools the PIMS framework (PIMS stands for Profit Impact of Marketing Strategy) regards competitive strength and market attractiveness as important determinants of profitability. The concept originated in a 1960s General Electric project to compare the profitability of GE SBUs. An extensive PIMS database of strategic actions and results is now administered by the American Strategic Planning Institute). However, perhaps the single most significant factor to emerge from the PIMS data is the link between profitability and relative market share. You will recall that relative market share was one of the axes of the [[Boston Consulting Group (BCG) matrix]].
-
-There is a definite, observable **correlation between market share and return on investment**. This is probably the result of ~lower costs~ resulting from ~economies of scale~. Economies of scale due to increasing market share are particularly evident in purchasing and the ~utilisation of non-current assets~.
-
-#QP/B/Corp-fin/strategy

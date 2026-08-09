@@ -1,5 +1,0 @@
-# Sit Kwok Keung - Married person's allowance and single parent allowance
-The marriage of the taxpayer and a Madam Yim was dissolved by a court decree on 13 November 1997. Custody of two sons was given to Madam Yim. The taxpayer was required to pay $15,000 per month to Madam Yim ($5,000 to Madam Yim and $10,000 to their two sons). The taxpayer claimed for 'Married Person's Allowance' and 'Single Parent Allowance' in his tax return for 1998/99. The Commissioner refused to allow the allowances, as the taxpayer was **divorced** and **did not have 'the sole or predominant care' of his sons**: The Board of Review also upheld the Commissioner's determination. On appeal, the Court and Court of Appeal also decided in favour of the Commissioner that the taxpayer was not entitled to the allowances.
-[[s.32 Single parent allowance]]
-[[s.29 Married person’s allowance]]
-#QP/D/Tax/Salary

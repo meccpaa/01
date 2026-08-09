@@ -1,2 +1,0 @@
-# Vlogger - Social monitoring
-- 

@@ -1,5 +1,0 @@
--  assets in BS - content, jaychou, merchandise, 
-	- Sell or new market
-- Gross up? 
-- Sell Vlogger to HKTVE with gain ...
--  

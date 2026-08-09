@@ -1,1 +1,0 @@
-#sys/SharePoint : [Opex approval - Content Licensing for Korean Viu Original The Law Cafe (sharepoint.com)](https://pccw0.sharepoint.com/sites/OTTFin/Lists/Opscom/DispForm.aspx?ID=52)

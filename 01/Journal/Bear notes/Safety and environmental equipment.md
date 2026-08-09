@@ -1,3 +1,0 @@
-# Safety and environmental equipment 
-When items of safety and environmental equipment are acquired they will qualify for recognition where they enable the entity to obtain future economic benefits from related assets in excess of those it would obtain otherwise. The recognition will only be to the extent that the carrying amount of the asset and related assets does not exceed the total recoverable amount of these assets.
-#QP/A/Fin-Rpt/PPE

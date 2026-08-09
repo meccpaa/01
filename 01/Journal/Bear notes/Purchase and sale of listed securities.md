@@ -1,8 +1,0 @@
-# Purchase and sale of listed securities
-Listed securities can only be purchased and disposed of through the **stock exchange** on which the securities are listed. The ~situs test~ is therefore essential in determining the source of the profit from purchase and sale of listed securities. For example, profit from the purchase and sale of Hong Kong company shares listed in the London Stock Exchange will have a source outside Hong Kong.
-
-However, where the purchase and sale took place **over-the-counter**, the place where the ~contracts of purchase and sale are effected~ would become the locality of the profits.
-
-Where a **non-resident** buys and sell shares in the Hong Kong **Stock Exchange** either directly or through an agent and makes profits, the ~profits arise in Hong Kong~. However, the ::non-resident may not be chargeable to profits tax:: in respect of such profits. S.20AA excludes ~brokers and approved investment advisers~ from potential profits tax liability as **agents** in respect of securities trading and investment profits **derived by the non-residents** for whom they act, and `DIPN 30 (Revised)` provides guidance on the application of s.20AA. The Revenue (Profits Tax Exemption for Offshore Funds) Ordinance 2006 exempts offshore funds from profits tax. In July 2015, the Inland Revenue (Amendment) (No. 2) Ordinance 2015 was enacted to extend the profits tax exemption for offshore funds to private equity funds. DIPN 43 (Revised) and DIPN 51 were issued in May 2016 to provide guidance on the IRD's interpretation and practice on the profits tax exemption for offshore funds and private equity funds. (Taxation of non-residents is discussed in chapter 4.)
-
-#QP/D/Tax/Profits/Source

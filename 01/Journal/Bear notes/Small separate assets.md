@@ -1,3 +1,0 @@
-# Small separate assets 
-Although HKAS 16 provides criteria that must be met in order for an item of property, plant or equipment to be recognised as an asset, it does not prescribe a unit of measurement for recognition i.e. what value an item should have in order to be recognised as an asset rather than expensed. Smaller items, such as tools, dies and moulds, are sometimes classified as consumables and written off as an expense. Where these are classified as property, plant and equipment, it is usual to aggregate similar items together and treat them as one.
-#QP/A/Fin-Rpt/PPE

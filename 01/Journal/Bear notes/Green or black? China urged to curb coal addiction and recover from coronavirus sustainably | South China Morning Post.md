@@ -1,1 +1,0 @@
-[Green or black? China urged to curb coal addiction and recover from coronavirus sustainably | South China Morning Post](https://www.scmp.com/news/china/society/article/3089870/green-or-black-china-urged-curb-coal-addiction-and-recover)

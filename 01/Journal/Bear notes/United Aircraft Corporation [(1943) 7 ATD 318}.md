@@ -1,4 +1,0 @@
-# United Aircraft Corporation [(1943) 7 ATD 318}
-"Property is one possible source of income. The works of persons or acts done by persons are other possible sources of income. ...I have not been able to think of any source of income other than **property** and **acts done.** If a person has rights over property or in relation to property he may derive income from that property. ...If a person by himself or by his servants or agents does work of some kind or acts in some way, he may derive income from that work or act. ... A person who neither owns anything in a country nor does nor has done anything in that country cannot, in my opinion, derive income from that country."
-
-#QP/D/Case/Tax/Profits/Source

@@ -1,1 +1,0 @@
-IGC Song Joong Ki -[[202211251522 E= OTT SG - IGC for Song Joong Ki Regional promotion for VO Reborn Rich in SG on 6-9 Dec (Joyce Phay)]] 

@@ -1,8 +1,0 @@
-# Will the financial statements of a PE meet the needs of users?
-PEs will have to consider whether financial statements prepared under the HKFRS for Private Entities meet the needs of their own specific users. The financial statements of PEs generally are not widely circulated, and the needs of individual users of those financial statements tend to be specific, but not necessarily the same.
-
-The HKFRS for Private Entities is based on the same framework as the full HKFRS. In developing the IFRS for SMEs, the IASB attempted to consider the needs of users of the financial statements of an SME. However, due to the specific needs of individual users, careful assessment will be needed by each SME to determine whether the IFRS for SMEs will meet their needs. The IFRS for SMEs concentrates on items such as short-term cash flows, liquidity, and balance sheet strength. The IASB concluded that the full IFRS at times provided too much information for the needs of an SME user, while in other situations other needs were not being met by the full IFRSs.
-
-The HKICPA has held meetings with the **Inland Revenue Department** of the HKSAR Government and representatives of **Hong Kong Association of Banks** since the issuance of the IFRS for SMEs. Both parties acknowledged the standard setting role of the HKICPA and have no objection in principle to relieving PEs from complying with the full HKFRS in the preparation of financial statements.
-
-#QP/A/Fin-Rpt/small

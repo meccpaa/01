@@ -1,1 +1,0 @@
-[Tech cold war: how Trump’s assault on Huawei is forcing the world to contemplate a digital iron curtain | South China Morning Post](https://www.scmp.com/tech/big-tech/article/3011700/tech-cold-war-how-trumps-assault-huawei-forcing-world-contemplate)

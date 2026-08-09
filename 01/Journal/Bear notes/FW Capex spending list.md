@@ -1,7 +1,0 @@
-# FW: Capex spending list
-OTT Capex 2020
-- - - -
-
-[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5N0QwMDRAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207NDI5%0D%0ANDA1MTQ%3D)
-
-#Work/capex

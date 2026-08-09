@@ -1,6 +1,0 @@
-# Restatement of previously reported information
-If an entity changes the structure of its internal organisation in a manner that causes the composition of its reportable segments to change, the corresponding information for earlier periods, including interim periods, shall be **restated** ~unless~ ::the information is not available and the cost to develop it would be excessive::. The determination of whether the cost is excessive shall be made for each individual item of disclosure. Following a change in the composition of its reportable segments, an entity shall disclose whether it has restated the corresponding items of segment information for earlier periods.
-
-If an entity has changed the structure of its internal organisation in a manner that causes the composition of its reportable segments to change and if segment information for earlier periods, including interim periods, is **not restated** to reflect the change, the entity ~shall disclose in the year in which the change occurs segment information for the current period on~ both the old basis and the new basis of segmentation, unless the necessary information is not available and the cost to develop it would be excessive.
-
-#QP/A/Fin-Rpt/segments

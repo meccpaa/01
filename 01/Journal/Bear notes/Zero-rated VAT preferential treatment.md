@@ -1,4 +1,0 @@
-# Zero-rated VAT preferential treatment
-In the past, Caishui [2013] No. 106 provided zero-rated VAT treatment only to international transportation services rendered by domestic entities and individuals, research and development services and design services to overseas entities. In order to encourage the export of services, the Ministry of Finance and the SAT jointly issued Circular Caishui [2015] No.118 in late 2015 to expand the zero-rated VAT preferential treatment to certain eligible exported services. Caishui [2015] No.118 covers cinema/television services, technology transfer services, software services and offshore outsourcing services etc.
-
-#QP/D/Tax/China

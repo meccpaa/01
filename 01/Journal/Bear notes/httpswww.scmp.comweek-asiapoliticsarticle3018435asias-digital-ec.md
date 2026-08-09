@@ -1,1 +1,0 @@
-https://www.scmp.com/week-asia/politics/article/3018435/asias-digital-economy-booming-so-why-are-singtel-and-co

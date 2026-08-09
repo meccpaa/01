@@ -1,3 +1,0 @@
-# Partnership accrual
-
-#work

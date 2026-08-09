@@ -1,1 +1,0 @@
-<a href='Corporate%20Bank%20Mandate%20PCCW%20Apr%202017.docx/Corporate%20Bank%20Mandate%20PCCW%20Apr%202017.docx'>Corporate Bank Mandate PCCW Apr 2017.docx</a>

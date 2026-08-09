@@ -1,4 +1,0 @@
-# loss set off against deemed assessable profits by resident persons - offshore fund
-A resident corporation may set off tax loss sustained in its other businesses, if any, against the deemed assessable profits in accordance with the provisions of s.19C. However, such set-off is not allowable for a resident individual or resident partnership, unless the holding of the beneficial interest in the offshore fund is part and parcel of his/its other business. The individual or partners of the partnership can obtain the set-off under personal assessment, if applicable (DIPN 43 (Revised), para 60).
-
-#QP/D/Tax/Overseas

@@ -1,4 +1,0 @@
-# Payment of tax demanded under additional assessments under objections - Chia Tai Conti Hong Kong Ltd [DCTC 9755/2006}
-The taxpayer objected to the assessments for 1997/98 to 1999/2000, and did not settle the profits tax demanded in the additional assessments. The Commissioner applied to the District Court for summary judgment for the tax overdue. The taxpayer claimed that the tax is excessive and that valid objections have been lodged. The taxpayer further claimed that there was an undue delay by the Commissioner in making her determination. The District Court ruled in favour of the Commissioner and stated that s.71 of the IRO clearly requires the tax to be paid when due notwithstanding that an objection has yet been settled and the taxpayer's plea is specifically covered by s.75(4). It further ruled that the taxpayer has not proved there was undue delay by the Commissioner and such claim would not be a valid ground for not settling the tax.
-
-#QP/D/Case/Tax/Admin

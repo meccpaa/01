@@ -1,4 +1,0 @@
-# Potential implication on the imposition of a penalty under s.82A - Koon Wing Yee and Insider Dealing Tribunal The Financial Secretary [FACV No. 19 of 2007}
-The case stamped out from an Insider Dealing Tribunal case. The Court of Appeal ruled that a penalty equal to a maximum of 300% of the insider trading profits was criminal in nature. In addition, the company director should not be forced to give incriminating evidence against himself. For criminal charges, the defendant should be presumed innocent unless proven guilty beyond reasonable doubt. The Court of Final Appeal unanimously upheld the decisions of the Court of Appeal. The decisions in this case may have far reaching impacts on s.82A of the Inland Revenue Ordinance. Refer to Board of Review Case D17/08 in section 7.6.
-
-#QP/D/Case/Tax/Admin

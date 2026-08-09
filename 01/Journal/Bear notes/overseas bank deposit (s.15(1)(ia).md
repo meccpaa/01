@@ -1,5 +1,0 @@
-# overseas bank deposit (s.15(1)(ia)
-### deemed taxable (concessionary tax rate) - Invest the funds as overseas bank deposits - interest income
-Where a QCTC obtains funds from a non-Hong Kong associated corporation and invests the funds as overseas bank deposits, the interest income is deemed taxable under s.15(1)(ia) (discussed in section 5.7.3 below) but would qualify for the concessionary tax rate. This is presumably because (i) the obtaining of funds by the QCTC from associated corporations is related to the business of the associated corporations; and (ii) the QCTC investing the same as overseas bank deposits is undertaken with a view to managing the cash and liquidity position of the QCTC or the associated corporations. As such, the placement of the overseas bank deposit is a corporate treasury transaction qualifying for the concessionary tax rate ~where no person will claim the interest paid to the QCTC as tax deductible in Hong Kong~.
-
-#QP/D/Tax/Profits/CTC

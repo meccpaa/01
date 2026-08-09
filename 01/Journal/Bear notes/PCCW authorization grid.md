@@ -1,2 +1,0 @@
-# PCCW authorization grid
-Ccc

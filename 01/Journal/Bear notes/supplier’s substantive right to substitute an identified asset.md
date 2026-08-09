@@ -1,8 +1,0 @@
-# supplier’s substantive right to substitute an identified asset
-Further points about a supplier's substantive right to substitute an [[identified asset]]:
-- If the supplier's right to substitute the asset is only ::on or after a particular date or the occurrence of a specified date::, the substitution right is not substantive (because substitution cannot take place ~at any time throughout the period of use~ )
-- An evaluation of whether a supplier's substitution right is substantive is based on **facts and circumstances** at the ~inception of the contract~ and should ~exclude consideration of future events~ that at inception of the contract are ~not considered likely to occur~.
-- If the asset is located ~::at the customer's premises (or elsewhere)::~, the ~costs associated with substitution~ are usually higher than when it is located **at the supplier's premises** and therefore are more likely to exceed the benefits associated with substituting the asset.
-- The supplier's right or obligation to substitute the asset ~for repairs and maintenance~ if the asset is ~not operating properly or a technical upgrade~ becomes available ::does not preclude 防止 the customer:: from having the right to use an identified asset.
-- If the customer ::cannot readily determine:: whether the supplier has a substantive substitution right, the customer should presume that any substitution right is ~not substantive~.
-#QP/A/Fin-Rpt/Lease

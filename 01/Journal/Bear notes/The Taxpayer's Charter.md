@@ -1,6 +1,0 @@
-# The Taxpayer's Charter
-In 2000, the IRD issued 'The Taxpayer's Charter' to outline the rights as a taxpayer (e.g. payment of tax due under the law, courteous treatment, timely professional service, privacy and confidentiality, access to information, bilingual service, complaints and appeals) and the obligations as a taxpayer (e.g. honesty, lodgement of returns, documents and information, tax payment, record keeping, keeping IRD posted). Details of the Charter can be found on the website of the IRD at www.ird.gov.hk/index.htm.
-
-To facilitate better communication with tax representatives, the IRD has maintained a 'Tax Representatives' Corner' on its website since 1 April 2003. The Corner aims at providing tax representatives materials (such as highlights of changes in tax returns for both paper form and electronic form), special points to note in completing tax returns, updated FAQ for completing tax returns, etc) that are considered to be helpful to the representatives in the preparation and lodgement of profits tax returns. Details can be found on the website of the IRD at www.ird.gov.hk/eng/tax/taxrep.htm.
-
-#QP/D/Tax/compliance

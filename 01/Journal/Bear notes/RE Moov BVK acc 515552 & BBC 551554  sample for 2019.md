@@ -1,5 +1,0 @@
-# RE: Moov BVK acc 515552 & BBC 551554  sample for 2019
-#work/audit
-- - - -
-
-[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5N0M3QzdAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207NTA4%0D%0AOTM4NDMx)

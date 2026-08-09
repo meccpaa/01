@@ -1,7 +1,0 @@
-# Tableau
-OTT kpi 
-- - - -
-
-[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5ODk5RDRAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MjI4%0D%0ANjA2MjE1Ng%3D%3D)
-
-#Work/ott

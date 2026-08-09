@@ -1,1 +1,0 @@
-# step acquisition self-test

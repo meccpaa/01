@@ -1,5 +1,0 @@
-# Anonymous payments - not to be allowed
-DIPN 12 (Revised) indicates that payments (such as commissions, rebates and discounts) to anonymous persons are **not to be allowed** by the assessor. The Commissioner also reiterates the importance of correct reporting of taxpayers' affairs and the rules in disclosing commissions, rebates and discounts in profits tax returns and supporting schedules (e.g. full name, address and identity card number or business registration number of the recipient; whether the recipient has any relationship with the taxpayer; amount of the payment; details of services rendered; and preferably, evidence of payment). Both the public and professional accountants are reminded that they may be prosecuted for concealed payments of commissions, rebates and discounts, or for providing misleading information in tax returns.
-
-[[Profits tax - example 45 concealed commission to third parties]]
-#QP/D/Tax/Profits/Deduction

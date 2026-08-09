@@ -1,4 +1,0 @@
-# Caps
-An interest rate cap is a series of borrower's options setting a maximum interest rate on medium-term variable rate borrowing. Each borrower's option in the series can be timed to expire on a date that coincides with a rollover/interest rate reset date for the loan. For example, a company that borrows at a floating rate of interest for three years with interest payable every six months, may decide to purchase a cap which is a series of five borrowers' options, each with an expiry date six months after the previous one. Caps are cash settled. When the strike price is below the market rate of interest, the cap writer must pay a compensating amount to the holder.
-
-#QP/B/Corp-fin/risks

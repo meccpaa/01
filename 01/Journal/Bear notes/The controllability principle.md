@@ -1,4 +1,0 @@
-# The controllability principle
-As we have seen, the controllability principle is that managers of responsibility centres should only be held accountable for costs over which they have some influence. From a motivation point of view this is important because it can be very demoralising for managers who feel that their performance is being judged on the basis of something over which they have no control. It is also important from a control point of view in that control reports should ensure that information on costs is reported to the manager who is able to take action to control them.
-
-#QP/B/Corp-fin/perf-sys

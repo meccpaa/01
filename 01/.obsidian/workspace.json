@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-09.md",
+                "file": "Journal/Ulysses/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-09"
+              "title": "index"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2026-08-09.md",
+                "file": "Journal/Ulysses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2026-08-09.md",
+                "file": "Journal/Ulysses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2026-08-09.md",
+                "file": "Journal/Ulysses/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,6 +250,20 @@
   },
   "active": "79746acb3c051b4d",
   "lastOpenFiles": [
+    "Journal/Ulysses/Doc/6BDC761E-DE0C-4BC8-8CDA-F4D7DB1A515B.jpeg",
+    "Journal/Ulysses/Doc/7D69282F-A1C9-4338-A9EC-2049B329190A.JPG",
+    "Journal/Ulysses/Doc/8DB72D3C-77F9-4EC3-B17F-E1723E8140A0.jpeg",
+    "Journal/Ulysses/Doc/6587268D-1DD3-4255-A448-1AA42B2C550E.jpeg",
+    "Journal/Ulysses/Doc/Untitled 451.png",
+    "Journal/Ulysses/Doc/IT audit discussion.png",
+    "Journal/Ulysses/Doc/EC6BE71E-3447-4B88-B587-125508947AD7.jpeg",
+    "Work/Server/Mgt report.md",
+    "Work/Server/Master agreements of CCT 2020-2022.md",
+    "Work/Ulysses/DraggedImage-1.png",
+    "Work/Ulysses/DraggedImage.png",
+    "Work/Ulysses/Content.png",
+    "Work/Ulysses/729BD378-7BC8-425F-A916-217949DE21C6.png",
+    "Journal/Daily/2026-08-09.md",
     "Journal/Daily/2026-08-02.md",
     "templates/Zettel template.md",
     "templates/time.md",
@@ -272,12 +286,7 @@
     "Zettel/202208291711 A= Audit VV.md",
     "Zettel/202107191420 E= RE Opscom draft - Now, We Are Breaking Up (Cheung, Arthur CP).md",
     "Zettel/202209280158 J= accident.md",
-    "Zettel/202212021014 E= Viu Channel on Now TV CCT Term Sheet (Fong, David WK).md",
-    "Zettel/202206221135 items to discuss with KPMG.md",
-    "Zettel/202204061528 E= Viu Marketing Accrual 2022 (Kam, Rainbow KM).md",
-    "Zettel/202208301443 E= PLEASE ENDORSE- MOOV Internal Bill (Mobile,Club SIM,The Club) - 202208 (& 202207) (Liu, Sandy MS).md",
     "Zettel/10.37.224.35",
-    "Work/Email/Pasted image 20220616114838.png",
     "Work/Email/Moov (Hong Kong) Limited_2021.v2.docx",
     "Work/Email",
     "Work/PCCW/PC",
@@ -286,15 +295,6 @@
     "Work/persons/Kam, Trevor (HK",
     "Work/persons",
     "Work/Server",
-    "Work/Ulysses/image.png",
-    "Work/Ulysses/Untitled 424.png",
-    "Work/Ulysses/Untitled 378.png",
-    "Work/Ulysses/Untitled 364.png",
-    "Work/Ulysses/Helen AOP.png",
-    "Work/Ulysses/DraggedImage.png",
-    "Work/Ulysses/DraggedImage-1.png",
-    "Work/Ulysses/Content.png",
-    "Work/Ulysses/729BD378-7BC8-425F-A916-217949DE21C6.png",
     "Work/Ulysses"
   ]
 }

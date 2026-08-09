@@ -1,4 +1,0 @@
-# s.16(2)(g) deduction rules for interest expenses incurred by intra-group financing businesses
-A 'in-house' bank may be taxed on the interest income but not allowed a tax deduction for the interest expense due to the failure to satisfy any of the conditions in ss.16(2)(a) to (f). S.16(2)(g) is introduced with effect from 1 April 2016 to rectify the asymmetrical tax treatment of interest income and interest expense for genuine intra-group borrowing and lending transactions. The new deduction rules apply to the intra-group financing business carried on by a corporation, irrespective of whether the corporation is a QCTC (eligible for the concessionary tax rate), or carrying on other businesses in addition to an intra-group financing business. The new rules are discussed in details in section 8.5 on 'Deductible interest under ss.16(2)(g), 16(2CA) and 16(2CC)'.
-
-#QP/D/Tax/Profits/CTC

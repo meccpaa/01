@@ -1,3 +1,0 @@
-red tape
-
-#journal/English

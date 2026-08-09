@@ -1,3 +1,0 @@
-# Complex assets
-For very large and specialised items, an apparently single asset should be broken down into its composite parts. This occurs where the different parts have different useful lives and different depreciation rates are applied to each part, e.g. an aircraft, where the body and engines are separated as they have different useful lives. Expenditure incurred in replacing or renewing a component of an item of property, plant and equipment must be recognised in the carrying amount of the item (and then depreciated to the next replacement date).
-#QP/A/Fin-Rpt/PPE

@@ -1,1 +1,0 @@
-[Subsidies, millions in cash rewards, low-rent flats and transport allowances among incentives by Qianhai Authority to lure Hong Kong, Macau talent | South China Morning Post](https://www.scmp.com/news/hong-kong/politics/article/3008797/subsidies-millions-cash-rewards-low-rent-flats-and)

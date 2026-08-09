@@ -1,1 +1,0 @@
-Having dinner at the place. Vegetable at $50, curry at $61

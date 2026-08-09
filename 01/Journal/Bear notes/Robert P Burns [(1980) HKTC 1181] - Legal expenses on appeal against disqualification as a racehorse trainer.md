@@ -1,6 +1,0 @@
-# Robert P Burns [(1980) HKTC 1181] - Legal expenses on appeal against disqualification as a racehorse trainer
-The taxpayer was a racehorse trainer employed by the Royal Hong Kong Jockey Club. In an appeal against the Club's decision of disqualifying the taxpayer for six months, the taxpayer incurred legal expenses of $40,000. The IRD disallowed the deduction of the legal expenses.
-
-With the view that the taxpayer's appeal was necessary for the production of his assessable income and that the legal fees were wholly, exclusively and necessarily incurred in the production of assessable income, the Board of Review decided in favour of the taxpayer. The Commissioner appealed against the Board's decision direct to the Court of Appeal. The Court of Appeal decided in favour of the Commissioner on the grounds that the legal expenses were ::not incurred in the production of assessable income:: but **for the purposes of enabling the taxpayer not to be precluded from earning his assessable income**.
-
-#QP/D/Tax/Salary

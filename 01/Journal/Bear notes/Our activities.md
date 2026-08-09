@@ -1,2 +1,0 @@
-# Our activities 
-1. 

@@ -1,4 +1,0 @@
-# HKAS 36 Impairment
-![](HKAS%2036%20Impairment/8250975E-C1BE-4C4D-97F5-21C8BD0CC31E.png)
-
-#QP/a1/fin-rpt

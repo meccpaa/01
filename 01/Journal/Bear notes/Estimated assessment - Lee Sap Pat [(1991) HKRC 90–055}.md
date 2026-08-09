@@ -1,6 +1,0 @@
-# Estimated assessment - Lee Sap Pat [(1991) HKRC 90–055}
-In March 1991, the taxpayer was prosecuted before a magistrate on a charge of possession of cash reasonably suspected of having been stolen or unlawfully obtained. Although the taxpayer was not convicted, the IRD raised an estimated assessment for 1984/85 and issued a Recovery Notice to the Commissioner of Police requiring the money be seized from the taxpayer to be paid for settlement of the tax. The taxpayer objected against the assessment and completed a tax return declaring that she had not carried on any business. However, she was advised by the Commissioner that tax should be paid in accordance with the demand notice. The taxpayer then applied for judicial review against the Commissioner of Inland Revenue and Commissioner of Police.
-
-The High Court dismissed the taxpayer's application on the grounds that the Commissioner of Inland Revenue had not exceeded his jurisdiction or acted illegally as the provisions under s.59(1) and s.59(3) clearly enabled an estimated assessment to be made in the absence of a return if it was expedient to do so and that the Commissioner of Police was obliged to transfer the money to the Commissioner of Inland Revenue in accordance with s.76.
-
-#QP/D/Case/Tax/Admin

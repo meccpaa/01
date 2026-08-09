@@ -1,4 +1,0 @@
-# mandatory offer ≥30% shares
-The mandatory offer rule in the Takeovers Code is a rule that applies when someone (an individual or a company) who acquires 30% or more of the shares in a company subject to the Code. The 30% may be acquired over a period of time, rather than in a single transaction. When this situation arises, the holder of the shares is required by the Code to **make a bid for all the other equity shares in the company**. This is because within the meaning of the Code, someone gains control of a company by acquiring 30% (rather than more than 50%) of the equity shares.
-
-#QP/B/Corp-fin/M&A

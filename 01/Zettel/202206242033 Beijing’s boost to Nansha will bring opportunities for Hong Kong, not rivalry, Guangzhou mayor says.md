@@ -1,3 +1,0 @@
-Nansha, together with Qianhai in Shenzhen and Hengqin in Zhuhai, are earmarked by Beijing as key development zones under the Greater Bay Area project, which envisions turning Hong Kong, Macau, Guangzhou, Shenzhen and seven other Guangdong cities into a financial and technology hub by 2035.
-
-[Beijing’s boost to Nansha will bring opportunities for Hong Kong, not rivalry, Guangzhou mayor says](https://www.scmp.com/news/hong-kong/politics/article/3183009/beijings-boost-nansha-will-bring-opportunities-hong-kong)

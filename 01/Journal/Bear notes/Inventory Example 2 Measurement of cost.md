@@ -1,8 +1,0 @@
-# Inventory Example 2: Measurement of cost
-Assume that a manufacturing company has a budgeted standard total production cost of 1 per unit for the year, based on a forecasted production of 1,000,000 units. There is no opening inventory and the year end accounts show actual production of 1,000,000 units, closing inventory of 200,000 units and an unfavourable cost variance of 100,000. The analysis shows that 80,000 of the variance comes from a charge in a purchase cost of goods resulting from a foreign currency alignment early in the year and the remaining 20,000 is from a labour strike mid-year.
-
-The 20,000 unfavourable variance from the labour strike is a period cost wholly recognised as an expense since it was not incurred under normal operating conditions.
-
-Unless the exchange movement happened under unusual circumstances, the price variance resulting from exchange difference is regarded as arising under normal operating conditions. To better reflect the cost of goods sold and the cost of closing inventory, the price variance will be allocated between inventories and cost of goods sold based on the closing inventories of 200,000 as a percentage of the total number of units produced. The closing inventories at standard cost of 200,000 are 20 of the actual production, so inventories will be allocated 20 of the 80,000 price variance i.e. 16,000. Cost of goods sold will be charged with the balance of 64,000. Closing inventories will therefore amount to 216,000.
-
-#QP/A/Fin-Rpt/Inventory

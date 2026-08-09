@@ -1,6 +1,0 @@
-# Profits tax - Example 78 - used outside HK
-Co HK, carrying on a trading business in Hong Kong, has during the year of assessment 2016/17 purchased a trade mark registered in Hong Kong at a cost of $1 million. The trade mark has not been registered in places other than Hong Kong. Co HK contracted a Mainland manufacturer, Co M, to produce in the Mainland goods bearing the Hong Kong trade mark. The goods produced by Co M were sold in Hong Kong and the US by Co HK and the profits derived are chargeable to tax in Hong Kong.
-
-Co HK has only purchased the Hong Kong trade mark and has not acquired any right to use the trade mark in places other than Hong Kong. The trade mark used by Co M in the production of goods in the Mainland is an unregistered trade mark in the Mainland, not the trade mark registered in Hong Kong. In addition, Co HK when selling the goods in the US market is not using the trade mark registered in Hong Kong. In the circumstances, s.16EC(4)(b) is not applicable. Since the profits derived by Co HK from selling the finished goods are chargeable to profits tax, in accordance with s.16EA(3), it is entitled to deduct one-fifth of the purchase cost of the Hong Kong trade mark for the year of assessment 2016/17 in the amount of $200,000 ($1m / 5).
-
-#QP/D/Tax/Profits/Deduction

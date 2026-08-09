@@ -1,4 +1,0 @@
-# RE: K11 MOOV Shop - Revenue booking & Payment Collection
-[OPEN IN SPARK](readdle-spark://bl=QTptZWNjcGFhQGhvdG1haWwuY29tO0lEOkQ0RDIzNDcyMzJFMEEwNDc4NDI0Q0ZC%0D%0ANTlGMDgwNzVGNEI5NzVFM0VAV1NNQlMzMy5jb3JwaHEuaGsucGNjdy5jb207MTI1%0D%0AMzQ0MzM2Ng%3D%3D)
-
-#Work/MOOV
