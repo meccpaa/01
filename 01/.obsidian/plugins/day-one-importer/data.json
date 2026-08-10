@@ -1,8 +1,8 @@
 {
   "inDirectory": "day-one-in",
   "inFileName": "Journal.json",
-  "outDirectory": "day-one-out",
-  "dateBasedFileNames": false,
+  "outDirectory": "Journal/Day One",
+  "dateBasedFileNames": true,
   "dateBasedFileNameFormat": "YYYY-MM-DD HHmmss",
   "dateBasedAllDayFileNameFormat": "YYYY-MM-DD",
   "ignoreExistingFiles": false,

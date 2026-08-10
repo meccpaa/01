@@ -35,52 +35,16 @@
             "id": "4449c76c23191f60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Journal/Daily/2026-08-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "day-one-in/photos/0a14c1df37b4ee456cd2e6f2cc2e5eb9.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "2026-08-02"
-            }
-          },
-          {
-            "id": "79746acb3c051b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily/2026-08-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-10"
+              "icon": "lucide-image",
+              "title": "0a14c1df37b4ee456cd2e6f2cc2e5eb9"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +212,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79746acb3c051b4d",
+  "active": "4449c76c23191f60",
   "lastOpenFiles": [
+    "day-one-in/photos/00a08f1ef8fc77303e93d2339c954469.jpeg",
+    "day-one-in/audios/681c942cd6f256c0e6c79f531d1d54cc.m4a",
+    "day-one-in/audios/19a5784bc752bf4bd26511a7f1891862.m4a",
+    "day-one-in/audios/5a025125fa3f24af69f9b0e2d60511bc.m4a",
+    "Journal/Daily/2026-08-02.md",
+    "Journal/Day One/2E379B060C604A29AA6EA358FAE115CE.md",
+    "Journal/Day One/FFF4F76CD762428BB94BF9189E26B076.md",
+    "Journal/Day One/0A7ABD9A86A148528EE5F43AAAADE01E.md",
+    "Journal/Day One/2DBBA46396B547BAA041A3C13B39DF4D.md",
+    "Journal/Day One/2A942E4387634B51B903F17B92288FFA.md",
+    "Journal/Daily/2022-05-20.md",
+    "Journal/Daily/2022-04-28.md",
+    "Journal/Daily/2026-08-10.md",
+    "Journal/Day One/Failed Imports 1786374973258.md",
+    "Journal/Day One/002794BF0F8D426B8129E72F2912F2FA.md",
+    "Journal/Day One/F39ACD7A18934D49B049A1E2EF6001AD.md",
+    "Journal/Day One/1443EDA5537B4E5387134F986D54E52A.md",
+    "Journal/Day One/FB6C2D4310E04339B59CFF8EBAE366C5.md",
+    "Journal/Day One/82E203E5181E40D7A78287B354A6C036.md",
+    "Journal/Day One/DF2E24553E6F4CB4A80AD7D9BED1ADBB.md",
+    "Journal/Day One/5BADE46D186546C785B4D0416A487364.md",
+    "Journal/Day One/70C2A30177A940698F7B5244EC273D3D.md",
+    "Journal/Day One/FC11ABE6A25F411A94C311D7ED5F9F00.md",
+    "Journal/Day One/0936DCD3B29B4884B0BA643F79038C82.md",
+    "Journal/Day One/1971E9A0B15C45229AF1D290071C6D57.md",
+    "Journal/Day One/271F91CC9F504F829083982236ADCE1B.md",
+    "Journal/Day One/1CAB4A05B48148D4A55073B28C205943.md",
+    "Journal/Day One/0DF62DA9C5CB49BA817A9D249AFA0E19.md",
+    "Journal/Day One/E96B30461F46401F92ABC08A28514E8D.md",
     "day-one-in/photos/2b83df7763d48c74eb95ebc2418408ab.jpeg",
     "day-one-in/photos/15999d706de12782b574f5c1fbec2dbc.jpeg",
     "day-one-in/photos/19b52ea1f81c0b4d681bf57ad58725d2.jpeg",
@@ -260,41 +253,12 @@
     "day-one-in/photos/408ae1129748cc3cb0162f36ab9483c2.jpeg",
     "day-one-in/photos/c52d1e6cb3575f03158ae747f06b4f12.jpeg",
     "day-one-in/photos/91717968a9e88216fe56880fc55a66b5.jpeg",
-    "day-one-in/photos/55d1186b08f052517616a39faeea1563.jpeg",
     "day-one-in/photos",
     "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf",
     "day-one-in/pdfs/c86d98d5187d5aa9f7456d19c67032ac.pdf",
     "day-one-in/pdfs/84d15c127751d0ab6fcfbb78971c16ad.pdf",
     "day-one-in/pdfs/41620f02a95ec5aa16f31232abb00af7.pdf",
     "day-one-in/pdfs/3e6e83356155402be96c112ef91c313d.pdf",
-    "day-one-in/pdfs/3523b6d21d11d1b9ca46a93dc1ad365d.pdf",
-    "day-one-in/pdfs/31ea4fe851ebfb47d58ed02764ef03b7.pdf",
-    "day-one-in/pdfs/285cf6d9b20ad2e781e0ed30a35b6f56.pdf",
-    "day-one-in/pdfs/1123beac1addeb93f14335c3e4246c34.pdf",
-    "Journal/Ulysses/index.md",
-    "Work/PCCW/PCCW Tools.md",
-    "Work/PCCW/PCCW AR.md",
-    "Work/PCCW/OTT PH.md",
-    "Work/PCCW/Domain renewal.md",
-    "Work/PCCW/AirTable.md",
-    "Personal/Health.md",
-    "News/貿易戰.md",
-    "News/News.md",
-    "Journal/Daily/2026-08-10.md",
-    "Work/Server/Mgt report.md",
-    "Work/Server/Master agreements of CCT 2020-2022.md",
-    "Journal/Daily/2026-08-09.md",
-    "Journal/Daily/2026-08-02.md",
-    "templates/Zettel template.md",
-    "templates/time.md",
-    "templates/Running or Hiking template.md",
-    "templates/meeting notes.md",
-    "templates/daily.md",
-    "templates/Content template.md",
-    "templates/Approval template.md",
-    "templates/Templater/1. Email template.md",
-    "Personal/030 Exercise.md",
-    "Home.md",
-    "Work/PCCW/020 Work.md"
+    "day-one-in/pdfs/3523b6d21d11d1b9ca46a93dc1ad365d.pdf"
   ]
 }
