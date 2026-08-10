@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Ulysses/index.md",
+                "file": "Journal/Daily/2026-08-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-08-10"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Ulysses/index.md",
+                "file": "Journal/Daily/2026-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Ulysses/index.md",
+                "file": "Journal/Daily/2026-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Ulysses/index.md",
+                "file": "Journal/Daily/2026-08-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -250,6 +250,17 @@
   },
   "active": "79746acb3c051b4d",
   "lastOpenFiles": [
+    "Journal/Ulysses/index.md",
+    "Work/PCCW/PCCW Tools.md",
+    "Work/PCCW/PCCW AR.md",
+    "Work/PCCW/OTT PH.md",
+    "Work/PCCW/Domain renewal.md",
+    "Work/PCCW/AirTable.md",
+    "Personal/Health.md",
+    "News/貿易戰.md",
+    "News/News.md",
+    "News",
+    "Journal/Daily/2026-08-10.md",
     "Journal/Ulysses/Doc/6BDC761E-DE0C-4BC8-8CDA-F4D7DB1A515B.jpeg",
     "Journal/Ulysses/Doc/7D69282F-A1C9-4338-A9EC-2049B329190A.JPG",
     "Journal/Ulysses/Doc/8DB72D3C-77F9-4EC3-B17F-E1723E8140A0.jpeg",
@@ -262,7 +273,6 @@
     "Work/Ulysses/DraggedImage-1.png",
     "Work/Ulysses/DraggedImage.png",
     "Work/Ulysses/Content.png",
-    "Work/Ulysses/729BD378-7BC8-425F-A916-217949DE21C6.png",
     "Journal/Daily/2026-08-09.md",
     "Journal/Daily/2026-08-02.md",
     "templates/Zettel template.md",
@@ -277,15 +287,6 @@
     "Home.md",
     "Work/PCCW/020 Work.md",
     "Work/PCCW/2021 OTT or MOOV audit.md",
-    "Work/PCCW/021 OTT Content.md",
-    "Journal/Daily/2022-06-01.md",
-    "Journal/Daily/2022-05-20.md",
-    "Journal/Daily/2022-04-28.md",
-    "Journal/Bear notes/‘I never thought about stopping’ first woman to finish 298km ultramarathon.md",
-    "Zettel/202206291608 E= RE Urgent payment with Samhwa (RFP 2022OL004325) (Lo, Derrick KK (Digital Media)).md",
-    "Zettel/202208291711 A= Audit VV.md",
-    "Zettel/202107191420 E= RE Opscom draft - Now, We Are Breaking Up (Cheung, Arthur CP).md",
-    "Zettel/202209280158 J= accident.md",
     "Zettel/10.37.224.35",
     "Work/Email/Moov (Hong Kong) Limited_2021.v2.docx",
     "Work/Email",
@@ -294,7 +295,6 @@
     "Work/Main",
     "Work/persons/Kam, Trevor (HK",
     "Work/persons",
-    "Work/Server",
-    "Work/Ulysses"
+    "Work/Server"
   ]
 }
