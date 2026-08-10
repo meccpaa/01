@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-09.md",
+                "file": "Journal/Day One/Failed Imports 1786375463668.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-09"
-            }
-          },
-          {
-            "id": "4449c76c23191f60",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "day-one-in/photos/0a14c1df37b4ee456cd2e6f2cc2e5eb9.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "0a14c1df37b4ee456cd2e6f2cc2e5eb9"
+              "title": "Failed Imports 1786375463668"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,53 +199,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4449c76c23191f60",
+  "active": "1f7104dcfabfc52f",
   "lastOpenFiles": [
-    "day-one-in/photos/00a08f1ef8fc77303e93d2339c954469.jpeg",
-    "day-one-in/audios/681c942cd6f256c0e6c79f531d1d54cc.m4a",
-    "day-one-in/audios/19a5784bc752bf4bd26511a7f1891862.m4a",
-    "day-one-in/audios/5a025125fa3f24af69f9b0e2d60511bc.m4a",
-    "Journal/Daily/2026-08-02.md",
-    "Journal/Day One/2E379B060C604A29AA6EA358FAE115CE.md",
-    "Journal/Day One/FFF4F76CD762428BB94BF9189E26B076.md",
-    "Journal/Day One/0A7ABD9A86A148528EE5F43AAAADE01E.md",
-    "Journal/Day One/2DBBA46396B547BAA041A3C13B39DF4D.md",
-    "Journal/Day One/2A942E4387634B51B903F17B92288FFA.md",
-    "Journal/Daily/2022-05-20.md",
-    "Journal/Daily/2022-04-28.md",
-    "Journal/Daily/2026-08-10.md",
-    "Journal/Day One/Failed Imports 1786374973258.md",
-    "Journal/Day One/002794BF0F8D426B8129E72F2912F2FA.md",
-    "Journal/Day One/F39ACD7A18934D49B049A1E2EF6001AD.md",
-    "Journal/Day One/1443EDA5537B4E5387134F986D54E52A.md",
-    "Journal/Day One/FB6C2D4310E04339B59CFF8EBAE366C5.md",
-    "Journal/Day One/82E203E5181E40D7A78287B354A6C036.md",
-    "Journal/Day One/DF2E24553E6F4CB4A80AD7D9BED1ADBB.md",
-    "Journal/Day One/5BADE46D186546C785B4D0416A487364.md",
-    "Journal/Day One/70C2A30177A940698F7B5244EC273D3D.md",
-    "Journal/Day One/FC11ABE6A25F411A94C311D7ED5F9F00.md",
-    "Journal/Day One/0936DCD3B29B4884B0BA643F79038C82.md",
-    "Journal/Day One/1971E9A0B15C45229AF1D290071C6D57.md",
-    "Journal/Day One/271F91CC9F504F829083982236ADCE1B.md",
-    "Journal/Day One/1CAB4A05B48148D4A55073B28C205943.md",
-    "Journal/Day One/0DF62DA9C5CB49BA817A9D249AFA0E19.md",
-    "Journal/Day One/E96B30461F46401F92ABC08A28514E8D.md",
-    "day-one-in/photos/2b83df7763d48c74eb95ebc2418408ab.jpeg",
-    "day-one-in/photos/15999d706de12782b574f5c1fbec2dbc.jpeg",
-    "day-one-in/photos/19b52ea1f81c0b4d681bf57ad58725d2.jpeg",
-    "day-one-in/photos/bd08658cec95686a12abdf63c58d9d51.jpeg",
-    "day-one-in/photos/110db204c620a76c5019054b43559876.jpeg",
-    "day-one-in/photos/72d3fc1f58ae0d879f6fafeaabd350a2.jpeg",
-    "day-one-in/photos/5921c4472426f7511eb40c75e145bc93.jpeg",
-    "day-one-in/photos/408ae1129748cc3cb0162f36ab9483c2.jpeg",
-    "day-one-in/photos/c52d1e6cb3575f03158ae747f06b4f12.jpeg",
-    "day-one-in/photos/91717968a9e88216fe56880fc55a66b5.jpeg",
+    "Journal/Day One/2018-02-07 085714.md",
+    "day-one-in/photos/0a14c1df37b4ee456cd2e6f2cc2e5eb9.jpeg",
+    "Journal/Day One/Failed Imports 1786375463668.md",
+    "Journal/Day One/2026-08-08 163932.md",
+    "Journal/Day One/2026-05-24 225226.md",
+    "Journal/Day One/2026-05-20 225458.md",
+    "Journal/Day One/2026-04-28 215339.md",
+    "Journal/Day One/2026-04-12 102324.md",
+    "Journal/Day One/2026-04-11 174121.md",
+    "Journal/Day One/2026-04-07 163105.md",
+    "Journal/Day One/2026-04-05 105900.md",
+    "Journal/Day One/2026-03-29 114654.md",
+    "Journal/Day One/2026-03-22 115433.md",
+    "Journal/Day One/2026-03-15 114721.md",
+    "Journal/Day One/2026-03-13 215056.md",
+    "Journal/Day One/2026-03-12 235814.md",
+    "Journal/Day One/2026-03-12 002128.md",
+    "Journal/Day One/2026-03-10 091848.md",
+    "Journal/Day One/2026-03-10 075450.md",
+    "Journal/Day One/2026-03-10 045356.md",
+    "Journal/Day One/2026-03-10 045231.md",
+    "Journal/Day One/2026-03-10 042858.md",
+    "Journal/Day One/2026-03-10 041045.md",
+    "Journal/Day One/2026-03-10 035806.md",
+    "Journal/Day One/2026-03-09 143129.md",
+    "Journal/Day One/2026-03-02 095049.md",
+    "Journal/Day One/2026-03-01 105340.md",
+    "Journal/Day One",
+    "day-one-in/photos/ff400727d88bb282131312cc83a52aaa.jpeg",
+    "day-one-in/photos/ff0519fecbd053a1b85210d367fce82c.jpeg",
+    "day-one-in/photos/fef631c3975f9988f4faffc3024e2003.jpeg",
+    "day-one-in/photos/febebb0001cb44f29b7b4698354453df.jpeg",
+    "day-one-in/photos/feaf6341e2873e779d7231a7a36b71c5.jpeg",
+    "day-one-in/photos/fd8b3e257b60db9a9bb3ea21243b8269.jpeg",
+    "day-one-in/photos/fd40875fa2dcfbea605172bd88f2d4bd.jpeg",
+    "day-one-in/photos/fca996f6f69043aa5799f4a609d809c0.jpeg",
+    "day-one-in/photos/fca02f01e07c233a14f734e333d2b2cb.png",
     "day-one-in/photos",
     "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf",
     "day-one-in/pdfs/c86d98d5187d5aa9f7456d19c67032ac.pdf",
     "day-one-in/pdfs/84d15c127751d0ab6fcfbb78971c16ad.pdf",
     "day-one-in/pdfs/41620f02a95ec5aa16f31232abb00af7.pdf",
     "day-one-in/pdfs/3e6e83356155402be96c112ef91c313d.pdf",
-    "day-one-in/pdfs/3523b6d21d11d1b9ca46a93dc1ad365d.pdf"
+    "day-one-in/pdfs/3523b6d21d11d1b9ca46a93dc1ad365d.pdf",
+    "day-one-in/pdfs/31ea4fe851ebfb47d58ed02764ef03b7.pdf",
+    "day-one-in/pdfs/1123beac1addeb93f14335c3e4246c34.pdf"
   ]
 }
