@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aaa04c262fcf139",
+        "id": "ba6ea97c570bc17e",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8faf7fca1d5baa",
+            "id": "3459fa4eed7018e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-08-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-02"
-            }
-          },
-          {
-            "id": "19ecdd3379ac4a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2026-08-09.md",
+                "file": "Journal/Daily/2026-08-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-09"
+              "title": "2026-08-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,31 +175,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19ecdd3379ac4a27",
+  "active": "3459fa4eed7018e0",
   "lastOpenFiles": [
-    "Journal/2026-08-08.md",
-    "Journal/2026-08-09.md",
-    "Journal/2026-07-26.md",
+    "Journal/Daily/2026-08-09.md",
+    "Journal/Daily/2026-08-10.md",
     "太極/楊澄甫論太極拳.md",
-    "太極/太極拳論.md",
     "太極/Tai Chi.md",
-    "Journal/2026-08-02.md",
-    "Accounting/馬時亨.md",
-    "太極",
-    "Accounting",
-    "道德經.md",
-    "News.md",
-    "New note in sub folder.md",
-    "New notes in iPhone v2.md",
-    "Why it can't sync again.md",
-    "Testing 1.md",
-    "New note in iPhone.md",
-    "未命名 1.md",
-    "New folder in MatePad/New note.md",
-    "Sync again with iPhone.md",
-    "Journal"
+    "Journal/2026-08-09.md",
+    "道德經/道德經.md",
+    "道德經/若水.md",
+    "道德經/無私.md",
+    "道德經/無為.md",
+    "道德經/有無.md",
+    "道德經/守中.md",
+    "道德經/不盈.md",
+    "道德經/不爭.md",
+    "道德經",
+    "templates/Templater/TP.Frontmatter.md",
+    "templates/Templater/TP.FILE.md",
+    "templates/Templater/TP.Date.md",
+    "templates/Templater/Quick Example.md",
+    "templates/Templater/Content template.md",
+    "templates/Templater/1. Email template.md",
+    "templates/time.md",
+    "templates/meeting notes.md",
+    "templates/daily.md",
+    "templates/Zettel template.md",
+    "templates/Templater",
+    "templates/Running or Hiking template.md",
+    "templates/Content template.md",
+    "templates/Approval template.md",
+    "templates",
+    "Zettel/10.37.224.35",
+    "Zettel",
+    "Work/persons/Kam, Trevor (HK",
+    "Work/Ulysses/image.png",
+    "Work/Ulysses/Untitled 424.png",
+    "Work/Ulysses/Untitled 378.png",
+    "Work/Ulysses/Untitled 364.png",
+    "Work/Ulysses/Helen AOP.png",
+    "Work/Ulysses/DraggedImage.png",
+    "Work/Ulysses/DraggedImage-1.png",
+    "Work/Ulysses/Content.png",
+    "Work/Ulysses/729BD378-7BC8-425F-A916-217949DE21C6.png",
+    "Work/Ulysses/376E102D-D2B8-490D-8A3E-8F3999EF052A.png",
+    "Work/PCCW/PC",
+    "Work/Email/Moov (Hong Kong) Limited_2021.v2.docx",
+    "Work/persons",
+    "Work/Ulysses"
   ]
 }
