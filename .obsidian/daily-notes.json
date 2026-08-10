@@ -1,3 +1,4 @@
 {
-  "folder": "01/Journal"
+  "folder": "01/Journal/Daily",
+  "template": "01/templates/daily.md"
 }
