@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道德經/道德經.md",
+                "file": "Journal/Daily/2026-08-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "道德經"
+              "title": "2026-08-15"
             }
           }
         ]
@@ -201,9 +201,18 @@
   },
   "active": "1f7104dcfabfc52f",
   "lastOpenFiles": [
+    "道德經/道德經.md",
+    "Journal/Daily/2026-08-15.md",
+    "道德經/常無欲，可名於小.md",
+    "Work/PCCW/Non FTE staff cost.md",
+    "Work/PCCW/International Trade Compliance.md",
+    "Work/Doc/Pasted image 20260813192313.png",
+    "Work/Doc/Pasted image 20260813101209.png",
+    "Work/Doc/Pasted image 20260813095712.png",
+    "Work/Doc",
+    "Journal/Daily/2026-08-14.md",
     "Journal/Daily/2026-08-13.md",
     "Journal/Daily/2026-08-12.md",
-    "道德經/道德經.md",
     "太極/Tai Chi.md",
     "Journal/Daily/2026-08-11.md",
     "Journal/Daily/2026-08-10.md",
@@ -222,11 +231,6 @@
     "Journal/Day One/2026-03-15 114721.md",
     "Journal/Day One/2026-03-29 114654.md",
     "Journal/Day One/2026-04-07 163105.md",
-    "Journal/Day One/2026-04-28 215339.md",
-    "Journal/Day One/2026-05-20 225458.md",
-    "Journal/Day One/2026-05-24 225226.md",
-    "Journal/Day One/2026-08-08 163932.md",
-    "Journal/Day One/2016-02-10 104819.md",
     "day-one-in/photos/0a14c1df37b4ee456cd2e6f2cc2e5eb9.jpeg",
     "Journal/Day One",
     "day-one-in/photos/ff400727d88bb282131312cc83a52aaa.jpeg",
@@ -235,9 +239,6 @@
     "day-one-in/photos/febebb0001cb44f29b7b4698354453df.jpeg",
     "day-one-in/photos/feaf6341e2873e779d7231a7a36b71c5.jpeg",
     "day-one-in/photos/fd8b3e257b60db9a9bb3ea21243b8269.jpeg",
-    "day-one-in/photos/fd40875fa2dcfbea605172bd88f2d4bd.jpeg",
-    "day-one-in/photos/fca996f6f69043aa5799f4a609d809c0.jpeg",
-    "day-one-in/photos/fca02f01e07c233a14f734e333d2b2cb.png",
     "day-one-in/photos",
     "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf",
     "day-one-in/pdfs/c86d98d5187d5aa9f7456d19c67032ac.pdf",
@@ -245,7 +246,6 @@
     "day-one-in/pdfs/41620f02a95ec5aa16f31232abb00af7.pdf",
     "day-one-in/pdfs/3e6e83356155402be96c112ef91c313d.pdf",
     "day-one-in/pdfs/3523b6d21d11d1b9ca46a93dc1ad365d.pdf",
-    "day-one-in/pdfs/31ea4fe851ebfb47d58ed02764ef03b7.pdf",
-    "day-one-in/pdfs/1123beac1addeb93f14335c3e4246c34.pdf"
+    "day-one-in/pdfs/31ea4fe851ebfb47d58ed02764ef03b7.pdf"
   ]
 }
