@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-15.md",
+                "file": "Journal/Day One/2025-08-11 102313.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-15"
+              "title": "2025-08-11 102313"
             }
           },
           {
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "speech",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,8 +214,25 @@
   },
   "active": "1f7104dcfabfc52f",
   "lastOpenFiles": [
-    "道德經/道德經.md",
+    "Journal/Day One/2016-08-08 144348.md",
+    "Journal/Day One/2016-08-06 214232.md",
+    "Journal/Day One/2016-04-27 230206.md",
+    "Journal/Day One/2016-04-10 230018.md",
+    "Journal/Day One/2016-02-22 225926.md",
+    "Journal/Day One/2016-02-10 104819.md",
+    "Journal/Day One/2016-02-07 163326.md",
+    "Journal/Day One/2016-02-06 151535.md",
+    "Journal/Day One/2016-02-06 091959.md",
+    "Journal/Day One/2015-02-24 233956.md",
+    "Journal/Day One/2015-02-15 233122.md",
+    "Journal/Day One/2015-02-11 233049.md",
+    "Journal/Day One/2014-01-21 082130.md",
+    "Journal/Day One/2014-01-06 212156.md",
+    "Journal/Day One/2014-01-05 103631.md",
+    "Journal/Day One/2014-01-01 094850.md",
+    "Journal/Day One/2013-07-30 075948.md",
     "Journal/Daily/2026-08-15.md",
+    "道德經/道德經.md",
     "道德經/常無欲，可名於小.md",
     "Work/PCCW/Non FTE staff cost.md",
     "Work/PCCW/International Trade Compliance.md",
@@ -226,23 +244,6 @@
     "Journal/Daily/2026-08-13.md",
     "Journal/Daily/2026-08-12.md",
     "太極/Tai Chi.md",
-    "Journal/Daily/2026-08-11.md",
-    "Journal/Daily/2026-08-10.md",
-    "Journal/Day One/Failed Imports 1786375463668.md",
-    "Journal/Day One/2013-07-09 080528.md",
-    "Journal/Day One/2023-02-08 210100.md",
-    "Journal/Day One/2022-05-22 130230.md",
-    "Journal/Day One/2023-02-22 232204.md",
-    "Journal/Day One/2023-04-09 232025.md",
-    "Journal/Day One/2025-11-14.md",
-    "Journal/Day One/2025-11-18 215700.md",
-    "Journal/Day One/2025-11-30 034800.md",
-    "Journal/Day One/2026-01-10 010547.md",
-    "Journal/Day One/2026-03-10 045231.md",
-    "Journal/Day One/2026-04-11 174121.md",
-    "Journal/Day One/2026-03-15 114721.md",
-    "Journal/Day One/2026-03-29 114654.md",
-    "Journal/Day One/2026-04-07 163105.md",
     "day-one-in/photos/0a14c1df37b4ee456cd2e6f2cc2e5eb9.jpeg",
     "Journal/Day One",
     "day-one-in/photos/ff400727d88bb282131312cc83a52aaa.jpeg",
