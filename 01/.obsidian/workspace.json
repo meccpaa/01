@@ -30,6 +30,18 @@
               "icon": "lucide-file",
               "title": "2026-08-15"
             }
+          },
+          {
+            "id": "136c42c49569ea34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ]
       }
