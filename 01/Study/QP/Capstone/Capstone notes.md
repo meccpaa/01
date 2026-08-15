@@ -5979,3 +5979,5 @@ Measurement of employee turnover rate and retention rate, number of suggestions 
 [^1]:	1 Octopus, launched in 1997, is a predominant contactless stored value smart card for travelling and making electronic payments in online or offline systems in Hong Kong.
 
 [^2]:	1 Octopus, launched in 1997, is a predominant contactless stored value smart card for travelling and making electronic payments in online or offline systems in Hong Kong.
+
+[[QP]]
