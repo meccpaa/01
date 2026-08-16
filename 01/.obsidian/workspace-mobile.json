@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-10.md",
+                "file": "Journal/Day One/2018-10-14 221500.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-10"
+              "title": "2018-10-14 221500"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "QP",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +110,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1,
+    "pinned": true
   },
   "right": {
     "id": "2f68edced6586581",
@@ -122,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2026-08-02.md",
+            "file": "Journal/Day One/2018-10-14 221500.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,34 +182,34 @@
   },
   "active": "3459fa4eed7018e0",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-09.md",
+    "Journal/Day One/2018-10-14 214404.md",
+    "Journal/Day One/2018-10-14 182048.md",
+    "Journal/Day One/2018-10-14 111039.md",
+    "Journal/Day One/2018-10-14 175103.md",
+    "Journal/Day One/2018-10-14 084446.md",
+    "Journal/Day One/2018-10-13 200530.md",
+    "Journal/Day One/2018-10-13 180745.md",
+    "Journal/Day One/2018-10-13 174153.md",
+    "Journal/Day One/2018-10-13 154625.md",
+    "Journal/Day One/2018-10-13 125602.md",
+    "Journal/Day One/2018-10-09 235711.md",
+    "Journal/Day One/2018-10-09 221649.md",
+    "Journal/Day One/2018-10-09 221659.md",
+    "Journal/Day One/2018-10-09 221639.md",
+    "Journal/Day One/2018-10-09 221627.md",
+    "Journal/Day One/2018-10-09 225130.md",
+    "Journal/Day One/2018-10-09 221748.md",
+    "Journal/Day One/2014-12-28 233650.md",
+    "Journal/Day One/2014-01-01 094850.md",
+    "QP.md",
+    "Journal/Daily/2026-08-16.md",
+    "Journal/Daily/2026-08-11.md",
+    "Trip.md",
+    "Journal/Daily/2026-08-15.md",
     "Journal/Daily/2026-08-10.md",
-    "太極/楊澄甫論太極拳.md",
-    "太極/Tai Chi.md",
-    "Journal/2026-08-09.md",
-    "道德經/道德經.md",
-    "道德經/若水.md",
-    "道德經/無私.md",
-    "道德經/無為.md",
-    "道德經/有無.md",
-    "道德經/守中.md",
-    "道德經/不盈.md",
-    "道德經/不爭.md",
+    "Journal/Daily/2026-08-09.md",
     "道德經",
-    "templates/Templater/TP.Frontmatter.md",
-    "templates/Templater/TP.FILE.md",
-    "templates/Templater/TP.Date.md",
-    "templates/Templater/Quick Example.md",
-    "templates/Templater/Content template.md",
-    "templates/Templater/1. Email template.md",
-    "templates/time.md",
-    "templates/meeting notes.md",
-    "templates/daily.md",
-    "templates/Zettel template.md",
     "templates/Templater",
-    "templates/Running or Hiking template.md",
-    "templates/Content template.md",
-    "templates/Approval template.md",
     "templates",
     "Zettel/10.37.224.35",
     "Zettel",
