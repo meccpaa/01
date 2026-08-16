@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Day One/2018-10-14 221500.md",
+                "file": "Journal/Daily/2026-08-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2018-10-14 221500"
+              "title": "2026-08-16"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "QP",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -110,7 +110,7 @@
         }
       }
     ],
-    "currentTab": 1,
+    "currentTab": 0,
     "pinned": true
   },
   "right": {
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/Day One/2018-10-14 221500.md",
+            "file": "Journal/Daily/2026-08-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,32 +182,32 @@
   },
   "active": "3459fa4eed7018e0",
   "lastOpenFiles": [
-    "Journal/Day One/2018-10-14 214404.md",
-    "Journal/Day One/2018-10-14 182048.md",
-    "Journal/Day One/2018-10-14 111039.md",
-    "Journal/Day One/2018-10-14 175103.md",
-    "Journal/Day One/2018-10-14 084446.md",
-    "Journal/Day One/2018-10-13 200530.md",
-    "Journal/Day One/2018-10-13 180745.md",
-    "Journal/Day One/2018-10-13 174153.md",
-    "Journal/Day One/2018-10-13 154625.md",
-    "Journal/Day One/2018-10-13 125602.md",
-    "Journal/Day One/2018-10-09 235711.md",
-    "Journal/Day One/2018-10-09 221649.md",
+    "Study/QP/QP.md",
+    "Journal/Daily/2026-08-16.md",
+    "Journal/Day One/2018-10-21 235953.md",
+    "Journal/Day One/2018-10-21 181115.md",
+    "Journal/Day One/2018-10-21 114119.md",
+    "Journal/Day One/2018-10-21 113243.md",
+    "Journal/Day One/2018-10-20 183432.md",
+    "Journal/Day One/2018-10-20 170008.md",
+    "Journal/Day One/2018-10-20 122804.md",
+    "Journal/Day One/2018-10-18 231148.md",
+    "Journal/Day One/2018-10-19 231728.md",
+    "Journal/Day One/2018-10-18 230925.md",
     "Journal/Day One/2018-10-09 221659.md",
+    "Journal/Day One/2018-10-09 221649.md",
     "Journal/Day One/2018-10-09 221639.md",
     "Journal/Day One/2018-10-09 221627.md",
-    "Journal/Day One/2018-10-09 225130.md",
-    "Journal/Day One/2018-10-09 221748.md",
-    "Journal/Day One/2014-12-28 233650.md",
-    "Journal/Day One/2014-01-01 094850.md",
-    "QP.md",
-    "Journal/Daily/2026-08-16.md",
-    "Journal/Daily/2026-08-11.md",
-    "Trip.md",
-    "Journal/Daily/2026-08-15.md",
-    "Journal/Daily/2026-08-10.md",
-    "Journal/Daily/2026-08-09.md",
+    "Journal/Day One/2018-10-09 221615.md",
+    "Journal/Day One/2018-10-09 221551.md",
+    "Journal/Day One/2018-10-09 221512.md",
+    "Journal/Day One/2018-10-09 221527.md",
+    "Journal/Day One/2018-10-09 221447.md",
+    "Journal/Day One/2018-10-09 221434.md",
+    "Journal/Day One/2018-10-09 221409.md",
+    "Journal/Day One/2018-10-09 221356.md",
+    "Journal/Day One/2018-10-09 221346.md",
+    "Journal/Day One/2018-10-09 221333.md",
     "道德經",
     "templates/Templater",
     "templates",
