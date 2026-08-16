@@ -89,12 +89,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6d1c95e9c494f199",
@@ -202,6 +201,7 @@
   },
   "active": "1f7104dcfabfc52f",
   "lastOpenFiles": [
+    "Study/QP/QP.md",
     "Journal/Day One/2018-10-06 225102.md",
     "Study/QP/Capstone/Capstone notes.md",
     "Study/QP/old LP/Old LP notes.md",
@@ -227,7 +227,6 @@
     "Journal/Day One/2018-10-08 000320.md",
     "Journal/Day One/2018-10-07 234315.md",
     "Journal/Day One/2018-10-07 231532.md",
-    "Journal/Day One/2018-10-07 194200.md",
     "Work/Doc/Pasted image 20260813192313.png",
     "Work/Doc/Pasted image 20260813101209.png",
     "Work/Doc/Pasted image 20260813095712.png",
