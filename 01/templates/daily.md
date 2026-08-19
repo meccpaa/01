@@ -13,6 +13,13 @@ due before {{date:YYYY-MM-DD}}
 sort by due 
 ```
 
+## Coming Tasks
+```tasks
+not done
+due after {{date:YYYY-MM-DD}}
+due before {{date:YYYY-MM-DD+30d}}
+sort by due
+```
 ## Completed tasks today
 ```dataview 
 
