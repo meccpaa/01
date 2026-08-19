@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Activity logs.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Activity logs"
+              "title": "daily"
             }
           }
         ]
@@ -203,6 +203,7 @@
   "active": "1f7104dcfabfc52f",
   "lastOpenFiles": [
     "Journal/Daily/2026-08-20.md",
+    "templates/daily.md",
     "Activity logs.md",
     "Journal/Daily/2026-08-19.md",
     "Work/PCCW/Others/WBD supplier application.md",
@@ -227,7 +228,6 @@
     "Work/PCCW/Others/VOTH= My Bubble Tea.md",
     "Work/PCCW/Others/VOTH= Finding the Rainbow.md",
     "Work/PCCW/Others/VOTH.md",
-    "Work/PCCW/Others/VOID= Bad Boy and Crazy Girl.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",
