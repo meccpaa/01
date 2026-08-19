@@ -19,6 +19,7 @@ not done
 due after {{date:YYYY-MM-DD}}
 due before {{date:YYYY-MM-DD+30d}}
 sort by due
+is not recurring
 ```
 ## Completed tasks today
 ```dataview 
