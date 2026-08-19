@@ -1,3 +1,5 @@
+Type:: "Person"
+
 ### Recurring role
 
 #### Month-end

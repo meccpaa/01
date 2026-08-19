@@ -38,3 +38,5 @@ Thank you for using AI tools responsibly and helping protect company, customer, 
 Regards,
 
 Group IT
+
+Type:: "Email"
