@@ -15,14 +15,14 @@ Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ## Due Tasks 
 ```tasks 
 not done Í
-due before <% tp.date.now("YYYY-MM-DD") %> 
+due before {{date:YYYY-MM-DD}} 
 sort by due 
 ```
 
 ## Coming Tasks
 ```tasks
 not done
-due after <% tp.date.now("YYYY-MM-DD") %>
+due after {{date:YYYY-MM-DD}}
 due before {{date:YYYY-MM-DD+30d}}
 sort by due
 is not recurring
