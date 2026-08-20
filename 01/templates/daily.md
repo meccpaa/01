@@ -2,7 +2,6 @@
 Type: Journal
 Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
-# <% moment(tp.file.title, "YYYY-MM-DD").format("dddd, MMMM Do YYYY") %>
 [[<% moment(tp.file.title, "YYYY-MM-DD").subtract(1, "days").format("YYYY-MM-DD") %>|← Yesterday]] | [[<% moment(tp.file.title, "YYYY-MM-DD").add(1, "days").format("YYYY-MM-DD") %>|Tomorrow →]]
 ## Journal
 
