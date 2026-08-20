@@ -16,6 +16,14 @@
     {
       "folder": "01",
       "template": "01/templates/General template.md"
+    },
+    {
+      "folder": "01/Work/PCCW",
+      "template": "01/templates/General template.md"
+    },
+    {
+      "folder": "01/Work/Doc",
+      "template": "01/templates/Doc template.md"
     }
   ],
   "file_templates": [],
