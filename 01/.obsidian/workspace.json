@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-14.md",
+                "file": "Journal/Daily/2026-08-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-14"
+              "title": "2026-08-20"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-14.md",
     "templates/Doc template.md",
     "templates/General template.md",
     "Work/PCCW/Others/Netsuite RA.md",
@@ -210,7 +211,6 @@
     "Work/Doc/Pasted image 20260820115357.png",
     "PH Commission Scheme 2026.md",
     "Journal/Daily/2026-08-20.md",
-    "Journal/Daily/2026-08-14.md",
     "Journal/Daily/2026-08-19.md",
     "templates/daily.md",
     "Journal/Daily/2026-08-16.md",
