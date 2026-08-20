@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/daily.md",
+                "file": "Journal/Daily/2026-08-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "2026-08-21"
             }
           }
         ]
@@ -202,10 +202,10 @@
   },
   "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-20.md",
-    "Journal/Daily/2026-08-21.md",
     "templates/daily.md",
+    "Journal/Daily/2026-08-21.md",
     "templates/Templater/TP.Date.md",
+    "Journal/Daily/2026-08-20.md",
     "Journal/Daily/2026-08-14.md",
     "templates/Doc template.md",
     "templates/General template.md",

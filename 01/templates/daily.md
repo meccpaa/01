@@ -15,7 +15,7 @@ Created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ## Due Tasks 
 ```tasks 
 not done
-due before {{date:YYYY-MM-DD}} 
+due before <% tp.date.now("dddd Do MMMM YYYY", +1) %> 
 sort by due 
 ```
 
