@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-21.md",
+                "file": "templates/daily.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-21"
+              "title": "daily"
             }
           }
         ]
@@ -204,6 +204,8 @@
   "lastOpenFiles": [
     "Journal/Daily/2026-08-20.md",
     "Journal/Daily/2026-08-21.md",
+    "templates/daily.md",
+    "templates/Templater/TP.Date.md",
     "Journal/Daily/2026-08-14.md",
     "templates/Doc template.md",
     "templates/General template.md",
@@ -213,7 +215,6 @@
     "Work/Doc/Pasted image 20260820115357.png",
     "PH Commission Scheme 2026.md",
     "Journal/Daily/2026-08-19.md",
-    "templates/daily.md",
     "Journal/Daily/2026-08-16.md",
     "Journal/Daily/2026-08-18.md",
     "Activity logs.md",
@@ -228,7 +229,6 @@
     "Work/PCCW/Others/Vlogger meeting 17 Jun.md",
     "Work/PCCW/Others/Vlogger Group audit.md",
     "Work/PCCW/Others/ViuStudio= Nothing But Thirty.md",
-    "Work/PCCW/Others/Viu Studio.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",

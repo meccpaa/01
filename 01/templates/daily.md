@@ -23,7 +23,7 @@ sort by due
 ```tasks
 not done
 due after {{date:YYYY-MM-DD}}
-due before {{date:YYYY-MM-DD+30d}}
+due before <% tp.date.now("YYYY-MM-DD", "P+1M") %>
 sort by due
 is not recurring
 ```
