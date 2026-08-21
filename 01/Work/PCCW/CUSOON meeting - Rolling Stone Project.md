@@ -7,8 +7,15 @@ PL = breakeven at 91.4%
 - obtain 105% in Dec
 
 Kai tai 31 Dec 2026 - 3 Jan 2027
-- Kai Tai Arena
+- Kai Tai Arena -> 
 - 7800 per night
 
 Total $10.8M, -> missing $1.6M, in original plan. Can use similar as [[Trendic]]? no more events.
 
+- 商台 - 5-5 football event...
+- In Trendic events
+- renowned in Sport ...
+- Rolling stone, across year event, HK as the first stop.
+
+- Klook - know they are doing it, sponsorship fee, 
+- 
