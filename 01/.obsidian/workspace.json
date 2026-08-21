@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-21.md",
+                "file": "Task/Task (by folder).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-21"
+              "title": "Task (by folder)"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-22.md",
+    "Journal/Daily/2026-08-21.md",
     "Work/PCCW/OTT SG audit account FY2025.md",
     "Work/PCCW/CUSOON meeting - Rolling Stone Project.md",
     "Work/PCCW/OTT HK vs NowTV subscription contracts 2026-27.md",
@@ -220,7 +222,6 @@
     "Work/PCCW/SG CM Meeting - Jul 2026.md",
     "Work/PCCW/Location/OTT TH.md",
     "templates/daily.md",
-    "Journal/Daily/2026-08-21.md",
     "templates/Templater/TP.Date.md",
     "Journal/Daily/2026-08-20.md",
     "Journal/Daily/2026-08-14.md",
@@ -237,7 +238,6 @@
     "Work/PCCW/Others/WBD supplier application.md",
     "Work/PCCW/Others/Latest Group IGC - Appropriate Use of HKT.AI and Enterprise AI Tools.md",
     "Work/PCCW/PC/PC purchase.md",
-    "Work/PCCW/Others/vlogger bad debt.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",
