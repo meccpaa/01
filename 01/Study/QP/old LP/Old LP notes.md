@@ -3474,7 +3474,7 @@ These exchange differences should be recognised in **profit or loss**:
 
 1. **Trading:** Exchange differences relating to **trading items** (such as receivables and payables) are usually recognised as ~operating expenses or income~, and
 2. **Financing:** exchange differences relating to **financing** are usually recognised as part of ~interest expense or income~.
-3. **Tax:** `HKAS 12 Income Taxes` should be applied when there are tax effects arising from gains or losses on foreign currency transactions. Where exchange losses are allowable expenses in a particular jurisdiction, tax relief will be given. Exchange gains may be treated as taxable income. #QP/D/Fin-Rpt/Tax
+3. **Tax:** `HKAS 12 Income Taxes` should be applied when there are tax effects arising from gains or losses on foreign currency transactions. Where exchange losses are allowable expenses in a particular jurisdiction, tax relief will be given. Exchange gains may be treated as taxable income. #Acc/QPD/Fin-Rpt/Tax
 4. **PPE:** When a gain or loss on a non-monetary item is recognised in other comprehensive income (for example, where property is revalued), any related exchange differences should also be recognised in other comprehensive income.
 
 [[CCY self-test 2: exchange difference]]
@@ -6781,7 +6781,7 @@ A machine costs $100,000 and has a useful life of 10 years since its acquisition
 
 What will be the depreciation charge for 20X9?
 ![](image-20.png)
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## Example Review of depreciation method
 # Example: Review of depreciation method
@@ -6791,7 +6791,7 @@ The carrying amount of $80,000 is therefore written off from 20X9 onwards using 
 
 The depreciation charge for 20X9 is therefore $20,000 (25% x $80,000).
 
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## Example Revaluation
 # Example: Revaluation
@@ -6809,7 +6809,7 @@ Ignore depreciation.
 
 Note. The line item for the credit to profit or loss is not specified in the standard, but it is generally made to the same account as any depreciation and other costs relating to the buildings.
 
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## Example Revaluation decrease
 # Example: Revaluation decrease
@@ -6818,7 +6818,7 @@ Rupert Co. acquired a building for an original cost of $3.5 million at the start
 How should the decrease in value be recorded at 31 December 20X3?
 
 ![](image-22.png)
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## Example Revaluation and depreciation
 # Example: Revaluation and depreciation
@@ -6843,7 +6843,7 @@ DEBIT Revaluation surplus $8,889
 CREDIT Retained earnings $8,889
 
 This is a movement on owners’ equity only, disclosed in the statement of changes in equity.
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## Example Derecognition
 # Example: Derecognition
@@ -6857,7 +6857,7 @@ At the end of Year 20, the following accounting entries reflect the revaluation:
 
 ![](image-23.png)
 ![](assets/image%202.png)
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## PPE self-test 5 Disposal
 # PPE self-test 5: Disposal
@@ -6944,7 +6944,7 @@ Statement of profit or loss and other comprehensive income for the year ended 31
 
 Statement of changes in equity for the year ended 31 March 20X4
 ![](assets/image%204.png)
- \\#QP/Practice/Fin-Rpt/PPE
+ \\#Acc/QPA/Fin-Rpt/PPE
 
 ## PPE Illustration
 # PPE: Illustration
@@ -7069,7 +7069,7 @@ Corporate finance activities in Hong Kong are covered primarily by the following
 • Corporate Finance Adviser Code of Conduct
 • The SFO Takeovers and Mergers Code (the Takeovers Code – covered in Chapter 18)
 • The SFO Share Buy-Backs Code (covered in Chapter 18)  
-#QPB
+#Acc/QPB
 
 
 
@@ -17235,7 +17235,7 @@ In certain circumstances, a statement is required in either an Emphasis of Matte
 
 (b) Where a reference is required referring to a note to the financial statements that more extensively discusses the reason for the amendment of the previously issued financial statements and to the earlier report provided by the auditors
 
- \\#QP/D/Audit/report
+ \\#Acc/QPD/Audit/report
 
 ## audit reporting self-test 3 going concern
 # audit reporting self-test 3: going concern
@@ -23685,7 +23685,7 @@ They **may also be used as** [[substantive procedures]], either alone or in comb
 # Agreeing the terms of audit engagement
 ![](image-70.png)
 
- \\#QP/D/Audit/plan
+ \\#Acc/QPD/Audit/plan
 
 # Risk Assessment
 ![](image-71.png)
@@ -34422,7 +34422,7 @@ PRC IIT paid not allowed as tax credit = $37,950 – $3,871 = $34,079
 With tax relief under the Double Taxation Arrangement between HKSAR and the Mainland Y/A 2016/17
 ![](assets/image%202.png)
 ![](assets/image%203.png)
- \\#QP/Practice/Tax/Salary
+ \\#Acc/QPD/Tax/Salary
 
 # Strategies on structuring the employment package
 A tax efficient employment package is one that provides the employee with **as many tax-free benefits as possible**, ~without increasing the financial cost or administrative work to the employer~. For example, **free medical treatment** provided to the employee by the employer will be exempt from salaries tax, provided the **liability to pay the medication fee lies with the employer**, not the employee.  [[Other fringe benefits]]
