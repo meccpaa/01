@@ -21,3 +21,7 @@ Total $10.8M, -> missing $1.6M, in original plan. Can use similar as [[Trendic]]
 
 Supporting artist - can use for ViuTV artist
 
+[[Big Bang 20th Anniversary Macau]] - no guarantee return, pop-up store...
+
+
+
