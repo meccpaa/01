@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task/Task (by folder).md",
+                "file": "Activity logs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Task (by folder)"
+              "title": "Activity logs"
             }
           }
         ]
@@ -202,6 +202,10 @@
   },
   "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Task/Attachments.md",
+    "Task/Task by date.md",
+    "Task/Task (by folder).md",
+    "Task/Task (by page).md",
     "Journal/Daily/2026-08-22.md",
     "Journal/Daily/2026-08-21.md",
     "Work/PCCW/OTT SG audit account FY2025.md",
@@ -234,10 +238,6 @@
     "Journal/Daily/2026-08-19.md",
     "Journal/Daily/2026-08-16.md",
     "Journal/Daily/2026-08-18.md",
-    "Activity logs.md",
-    "Work/PCCW/Others/WBD supplier application.md",
-    "Work/PCCW/Others/Latest Group IGC - Appropriate Use of HKT.AI and Enterprise AI Tools.md",
-    "Work/PCCW/PC/PC purchase.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",
