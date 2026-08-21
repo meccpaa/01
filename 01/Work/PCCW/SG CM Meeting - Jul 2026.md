@@ -1,0 +1,21 @@
+---
+Type: Meeting
+Created: 2026-08-21 10:08
+---
+[[SG CM Meeting]]
+![[Pasted image 20260821100943.png]]
+
+Inorganic - challenge because can't use PnP, it's about to ex
+![[Pasted image 20260821101328.png]]
+
+- $4.2 inorganic revenue budget, 3M COS, 1.2M PnP
+- current PnP inorganic as of Jul is $1.5M PnP
+- their Q3 YTD inorganic is $2M revenue
+- any other markets have room for PnP...
+
+need PnP from $2.9M to 3.4M
+if we can meet the target, even PnP exceeding budget, it could still be manageable. 
+
+VO - [[Kangrok Porcha]] what's this?
+
+

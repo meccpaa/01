@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "01/templates",
+  "templates_folder": "templates",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "folder",
   "auto_jump_to_cursor": false,
@@ -10,20 +10,8 @@
   "user_scripts_folder": "",
   "folder_templates": [
     {
-      "folder": "01/Journal/Daily",
-      "template": "01/templates/daily.md"
-    },
-    {
-      "folder": "01",
-      "template": "01/templates/General template.md"
-    },
-    {
-      "folder": "01/Work/PCCW",
-      "template": "01/templates/General template.md"
-    },
-    {
-      "folder": "01/Work/Doc",
-      "template": "01/templates/Doc template.md"
+      "folder": "Journal/Daily",
+      "template": "templates/daily.md"
     }
   ],
   "file_templates": [],
