@@ -1,5 +1,6 @@
 [
-  "obsidian-git",
   "day-one-importer",
+  "dataview",
+  "obsidian-tasks-plugin",
   "templater-obsidian"
 ]
