@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-22.md",
+                "file": "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-22"
+              "title": "2021 OTT or MOOV audit"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Short",
+                "query": "tag:#P/Fin/HK/BennyYau",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2026-08-22.md",
+                "file": "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +201,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "460b1afa565f7fd9",
+  "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-22.md",
     "Journal/Day One/2025-03-12 050637.md",
     "MOOV.md",
     "Journal/Daily/2022-06-06.md",
@@ -217,7 +218,6 @@
     "Home.md",
     "Work/PCCW/Audit/OTT or MOOV 2021 PBC status.md",
     "Tag",
-    "Journal/Daily/2026-08-22.md",
     "Journal/Day One/2021-02-17 193148.md",
     "Journal/Day One/2018-09-30 123515.md",
     "Journal/Day One/2018-10-09 221144.md",
