@@ -21,5 +21,11 @@ STR of Thailand is around 80%. STR is reduced by campaign delivery requirements 
 [[APF]] - AIGC AFP curious, but not commit. [[Micro-drama]] [[AFP]] - mostly in Malaysia - associated cost? [[Christine Lau]] - to keep margin at 30%
 ![[Pasted image 20260821110130.png]]
 
-[[rewarded ads]] common in other 
+[[Rewarded ads]] common in other micro-drama platforms.
 ![[Pasted image 20260821110513.png]]
+
+How to put the ad, or ad format in [[Micro-drama]]
+![[Pasted image 20260821110835.png]]
+
+
+![[Pasted image 20260821111201.png]]
