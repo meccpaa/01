@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Day One/2021-02-17 193148.md",
+                "file": "Acc QPA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "2021-02-17 193148"
+              "title": "Acc QPA"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Alibaba  ",
+                "query": "tag:Acc/QPA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +200,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77a53cf7d8f1ac10",
+  "active": "ee393bb14afb81d6",
   "lastOpenFiles": [
-    "Journal/Day One/2018-09-30 123515.md",
-    "A.md",
-    "Journal/Day One/2018-10-09 221144.md",
-    "vHK.md",
+    "Journal/Day One/2018-10-09 220830.md",
+    "Acc QPA.md",
+    "Tag/sys SharePoint.md",
+    "Tag/A.md",
+    "Journal/Daily/2022-06-17.md",
+    "Tag/vHK.md",
+    "Home.md",
+    "Work/PCCW/Audit/OTT or MOOV 2021 PBC status.md",
+    "Tag",
     "Journal/Daily/2026-08-22.md",
+    "Journal/Day One/2021-02-17 193148.md",
+    "Journal/Day One/2018-09-30 123515.md",
+    "Journal/Day One/2018-10-09 221144.md",
     "Work/PCCW/Location/OTT TH.md",
     "Activity logs.md",
     "Task/Attachments.md",
@@ -232,13 +239,6 @@
     "Work/PCCW/Regional Ad Meeting - Jul 2026.md",
     "Work/PCCW/SG CM Meeting - Jul 2026.md",
     "templates/daily.md",
-    "templates/Templater/TP.Date.md",
-    "Journal/Daily/2026-08-20.md",
-    "Journal/Daily/2026-08-14.md",
-    "templates/Doc template.md",
-    "templates/General template.md",
-    "Work/PCCW/Others/Netsuite RA.md",
-    "OTT TH.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",
@@ -247,7 +247,6 @@
     "Work/Doc",
     "Journal/Day One",
     "day-one-in/photos",
-    "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf",
-    "day-one-in/pdfs/c86d98d5187d5aa9f7456d19c67032ac.pdf"
+    "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf"
   ]
 }
