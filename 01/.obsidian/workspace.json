@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/PCCW/Location/OTT TH.md",
+                "file": "Journal/Daily/2026-08-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OTT TH"
+              "title": "2026-08-22"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vSG",
+                "query": "tag:#vHK",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,6 +203,7 @@
   },
   "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Work/PCCW/Location/OTT TH.md",
     "Journal/Daily/2026-08-22.md",
     "Activity logs.md",
     "Task/Attachments.md",
@@ -226,7 +227,6 @@
     "Work/Doc/Pasted image 20260821104632.png",
     "Work/PCCW/Regional Ad Meeting - Jul 2026.md",
     "Work/PCCW/SG CM Meeting - Jul 2026.md",
-    "Work/PCCW/Location/OTT TH.md",
     "templates/daily.md",
     "templates/Templater/TP.Date.md",
     "Journal/Daily/2026-08-20.md",
