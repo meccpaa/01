@@ -1,3 +1,0 @@
----
-Aliases: [ "#Acc/QPA" ]
----

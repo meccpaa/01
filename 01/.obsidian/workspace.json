@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acc QPA.md",
+                "file": "MOOV.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Acc QPA"
+              "title": "MOOV"
             }
           }
         ]
@@ -65,8 +65,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Acc/QPA",
-                "matchingCase": false,
+                "query": "tag:#MOOV",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,12 +201,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee393bb14afb81d6",
+  "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
+    "Journal/Daily/2022-06-06.md",
+    "MOOV.md",
+    "Tag/sys.md",
+    "Tag/sys SharePoint.md",
+    "Tag/QPA.md",
+    "Journal/Day One/2018-08-30 003214.md",
     "Journal/Day One/2018-10-09 220830.md",
     "Acc QPA.md",
-    "Tag/sys SharePoint.md",
-    "Tag/A.md",
     "Journal/Daily/2022-06-17.md",
     "Tag/vHK.md",
     "Home.md",
@@ -228,7 +233,6 @@
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
     "Work/Doc/Pasted image 20260821110835.png",
-    "Work/PCCW/Pause Ads.md",
     "Work/Doc/Pasted image 20260821110513.png",
     "Work/Doc/Pasted image 20260821110130.png",
     "Work/Doc/Pasted image 20260821105745.png",
@@ -236,9 +240,6 @@
     "Work/Doc/Pasted image 20260821105344.png",
     "Work/Doc/Pasted image 20260821105055.png",
     "Work/Doc/Pasted image 20260821104632.png",
-    "Work/PCCW/Regional Ad Meeting - Jul 2026.md",
-    "Work/PCCW/SG CM Meeting - Jul 2026.md",
-    "templates/daily.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",

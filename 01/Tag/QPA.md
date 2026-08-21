@@ -1,4 +1,4 @@
 ---
 Aliases:
-  - "#Acc/QP/A"
+  - "#Acc/QPA"
 ---
