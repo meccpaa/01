@@ -18,4 +18,6 @@ Total $10.8M, -> missing $1.6M, in original plan. Can use similar as [[Trendic]]
 - Rolling stone, across year event, HK as the first stop.
 
 - Klook - know they are doing it, sponsorship fee, 
-- 
+
+Supporting artist - can use for ViuTV artist
+
