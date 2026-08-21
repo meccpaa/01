@@ -9,4 +9,8 @@ Inorganic - challenge because can't use PnP, it's about to ex
 ![[Pasted image 20260821101328.png]]
 
 - $4.2 inorganic revenue budget, 3M COS, 1.2M PnP
-- current PnP inorganic as of Jul is $1.4
+- current PnP inorganic as of Jul is $1.5M PnP
+- their Q3 YTD inorganic is $2M revenue
+- any other markets have room for PnP...
+
+
