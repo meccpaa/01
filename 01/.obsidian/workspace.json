@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vHK.md",
+                "file": "Journal/Day One/2021-02-17 193148.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vHK"
+              "title": "2021-02-17 193148"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Alibaba  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,10 +201,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "460b1afa565f7fd9",
+  "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-22.md",
+    "Journal/Day One/2018-09-30 123515.md",
+    "A.md",
+    "Journal/Day One/2018-10-09 221144.md",
     "vHK.md",
+    "Journal/Daily/2026-08-22.md",
     "Work/PCCW/Location/OTT TH.md",
     "Activity logs.md",
     "Task/Attachments.md",
@@ -236,9 +239,6 @@
     "templates/General template.md",
     "Work/PCCW/Others/Netsuite RA.md",
     "OTT TH.md",
-    "Work/PCCW/Others/PH Commission Scheme 2026.md",
-    "PH Commission Scheme 2026.md",
-    "Journal/Daily/2026-08-19.md",
     "Work/PCCW/Others",
     "Work/PCCW/Location",
     "Work/PCCW/Audit",
