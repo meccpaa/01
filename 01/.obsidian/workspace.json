@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOOV.md",
+                "file": "Journal/Daily/2026-08-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MOOV"
+              "title": "2026-08-22"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOOV",
+                "query": "tag:#Short",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2026-08-10.md",
+                "file": "Journal/Daily/2026-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,12 +181,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +201,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77a53cf7d8f1ac10",
+  "active": "460b1afa565f7fd9",
   "lastOpenFiles": [
-    "Journal/Daily/2022-06-06.md",
+    "Journal/Day One/2025-03-12 050637.md",
     "MOOV.md",
+    "Journal/Daily/2022-06-06.md",
     "Tag/sys.md",
     "Tag/sys SharePoint.md",
     "Tag/QPA.md",
@@ -229,7 +230,6 @@
     "Journal/Daily/2026-08-21.md",
     "Work/PCCW/OTT SG audit account FY2025.md",
     "Work/PCCW/CUSOON meeting - Rolling Stone Project.md",
-    "Work/PCCW/OTT HK vs NowTV subscription contracts 2026-27.md",
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
     "Work/Doc/Pasted image 20260821110835.png",
