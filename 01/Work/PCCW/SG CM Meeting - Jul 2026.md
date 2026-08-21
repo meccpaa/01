@@ -13,4 +13,9 @@ Inorganic - challenge because can't use PnP, it's about to ex
 - their Q3 YTD inorganic is $2M revenue
 - any other markets have room for PnP...
 
+need PnP from $2.9M to 3.4M
+if we can meet the target, even PnP exceeding budget, it could still be manageable. 
+
+VO - [[Kangrok Porcha]] what's this?
+
 
