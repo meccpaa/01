@@ -3474,7 +3474,7 @@ These exchange differences should be recognised in **profit or loss**:
 
 1. **Trading:** Exchange differences relating to **trading items** (such as receivables and payables) are usually recognised as ~operating expenses or income~, and
 2. **Financing:** exchange differences relating to **financing** are usually recognised as part of ~interest expense or income~.
-3. **Tax:** `HKAS 12 Income Taxes` should be applied when there are tax effects arising from gains or losses on foreign currency transactions. Where exchange losses are allowable expenses in a particular jurisdiction, tax relief will be given. Exchange gains may be treated as taxable income. #Acc/QPD/Fin-Rpt/Tax
+3. **Tax:** `HKAS 12 Income Taxes` should be applied when there are tax effects arising from gains or losses on foreign currency transactions. Where exchange losses are allowable expenses in a particular jurisdiction, tax relief will be given. Exchange gains may be treated as taxable income. #Acc/QPA/Tax
 4. **PPE:** When a gain or loss on a non-monetary item is recognised in other comprehensive income (for example, where property is revalued), any related exchange differences should also be recognised in other comprehensive income.
 
 [[CCY self-test 2: exchange difference]]

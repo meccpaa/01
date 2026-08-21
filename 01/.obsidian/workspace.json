@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CoC",
+                "query": "tag:#Revenue",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
