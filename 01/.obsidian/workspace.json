@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Day One/2018-10-06 002123.md",
+                "file": "Task/Task (by folder).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2018-10-06 002123"
+              "title": "Task (by folder)"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Day One/2018-10-06 002123.md",
+                "file": "Task/Task (by folder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "460b1afa565f7fd9",
+  "active": "77a53cf7d8f1ac10",
   "lastOpenFiles": [
-    "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
     "Journal/Daily/2026-08-22.md",
+    "Journal/Day One/2018-10-06 002123.md",
+    "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
     "Journal/Day One/2025-03-12 050637.md",
     "MOOV.md",
     "Journal/Daily/2022-06-06.md",
@@ -229,7 +229,6 @@
     "Task/Task (by folder).md",
     "Task/Task (by page).md",
     "Journal/Daily/2026-08-21.md",
-    "Work/PCCW/OTT SG audit account FY2025.md",
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
     "Work/Doc/Pasted image 20260821110835.png",
