@@ -1,3 +1,6 @@
 what to address?
 Cooking - 
-Attitude - 
+Attitude -
+Discipline
+Tidiness ?
+Lazy, 
