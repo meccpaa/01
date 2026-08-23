@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-08-22"
             }
+          },
+          {
+            "id": "1241d5fa2b3e5c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +225,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77a53cf7d8f1ac10",
+  "active": "1241d5fa2b3e5c19",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-23.md",
     "Journal/Daily/2026-08-22.md",
+    "Untitled.md",
+    "Journal/Daily/2026-08-23.md",
     "Task/Task (by folder).md",
     "Journal/Day One/2018-10-06 002123.md",
     "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
@@ -228,7 +254,6 @@
     "Activity logs.md",
     "Task/Attachments.md",
     "Task/Task by date.md",
-    "Task/Task (by page).md",
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
     "Work/Doc/Pasted image 20260821110835.png",
