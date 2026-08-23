@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Journal/Daily/2026-08-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2026-08-23"
             }
           }
         ],
@@ -227,9 +227,9 @@
   },
   "active": "1241d5fa2b3e5c19",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-22.md",
     "Untitled.md",
     "Journal/Daily/2026-08-23.md",
+    "Journal/Daily/2026-08-22.md",
     "Task/Task (by folder).md",
     "Journal/Day One/2018-10-06 002123.md",
     "Work/PCCW/Audit/2021 OTT or MOOV audit.md",
