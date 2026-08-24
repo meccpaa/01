@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofie renewal.md",
+                "file": "Journal/Daily/2026-08-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sofie renewal"
+              "title": "2026-08-23"
             }
           }
         ]
@@ -202,9 +202,12 @@
   },
   "active": "1241d5fa2b3e5c19",
   "lastOpenFiles": [
+    "Sofie renewal.md",
+    "Work/PCCW/TCL TV PH 2026.md",
+    "Personal/Helper/Sofie renewal.md",
+    "Personal/Helper",
     "Journal/Daily/2026-08-24.md",
     "Journal/Daily/2026-08-23.md",
-    "Sofie renewal.md",
     "Untitled.md",
     "Journal/Daily/2026-08-22.md",
     "Task/Task (by folder).md",
@@ -227,8 +230,6 @@
     "Journal/Day One/2021-02-17 193148.md",
     "Journal/Day One/2018-09-30 123515.md",
     "Journal/Day One/2018-10-09 221144.md",
-    "Work/PCCW/Location/OTT TH.md",
-    "Activity logs.md",
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
     "Work/Doc/Pasted image 20260821110835.png",
@@ -246,7 +247,6 @@
     "Work/PCCW/JE",
     "Work/Doc",
     "Journal/Day One",
-    "day-one-in/photos",
-    "day-one-in/pdfs/e7981609c069f4f8e1a4ded7ab92ea41.pdf"
+    "day-one-in/photos"
   ]
 }
