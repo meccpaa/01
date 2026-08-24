@@ -5,8 +5,8 @@ Created: 2026-08-24 15:44
 Outlines
 - General Accounting
 	- [[COA]] - no EBITDA -> customerization
-	- Segmentation
-- Bank Reconciliation
+	- Segmentation - [[Department]], can change name? yes, but would also affect historical records; [[Products]] - MOOV, OTT, media.com, Vlogger, etc.
+- Bank Reconciliation -> Joyce demonstrating... bank amount vs system input related to cash
 - Journal Entries
 	- Approval
 - Allocation
