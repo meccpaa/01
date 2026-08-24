@@ -9,8 +9,8 @@ Outlines
 - Bank Reconciliation -> Joyce demonstrating [[OTT SG]]... bank amount vs system input related to cash, frequency, weekly and month-end. [[Reconcile Bank Statement]] already deprecated -> [[Upload File]] -> [[Match Bank Data]]
 - Journal Entries - service start date, service end date fields...; intercompany JE - shortcut e.g. % ([[Advanced Intercompany Journal]])
 	- Approval
-- Allocation
-- Amortization
+- [[Allocation]] - can be do by system.. -> [[Allocation Schedule]] more on expense to different entity / department 
+- [[Amortization]] - not just content in intangible asset, but also related to other prepayment [[Amortization Templates]] - 
 - Budget (not using)
 - Currencies
 - Taxes
