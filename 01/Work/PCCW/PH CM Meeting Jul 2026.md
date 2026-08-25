@@ -6,3 +6,7 @@ Subscription
 - other subscription -- US$0.4M
 Syndication - GMA
 - performance of love sasigau
+
+[[Cignal]] - book $800k - what's the payment schedule... [[Telco]] ?
+
+[[Rohit]] - 
