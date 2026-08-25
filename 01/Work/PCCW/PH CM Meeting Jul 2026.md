@@ -9,4 +9,6 @@ Syndication - GMA
 
 [[Cignal]] - book $800k - what's the payment schedule... [[Telco]] ?
 
-[[Rohit]] - 
+[[Rohit]] - revenue dropping YoY , front load inorganic so that Q3 around $3M?
+
+[[AI Dubbing]] 2.39/min vs human dub $14/min
