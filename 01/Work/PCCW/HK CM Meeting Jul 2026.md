@@ -23,3 +23,8 @@ Government projects
 
 Other projects
 - 
+
+[[Viu x Club Care Travel Insurance Bundle]] - insurance plan US$182, need to subscribe annual plan - launched in MOOV and Viu in late Sept 2026
+
+[[聰明鎮]] - promoted, and top in the first week, but not sustain.
+
