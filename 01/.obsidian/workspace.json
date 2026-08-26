@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/易經/易經.md",
+                "file": "乾.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "易經"
+              "title": "乾"
             }
           }
         ]
@@ -202,12 +202,13 @@
   },
   "active": "1241d5fa2b3e5c19",
   "lastOpenFiles": [
+    "Study/易經/易經.md",
+    "乾.md",
     "Journal/Daily/2026-08-26.md",
     "Journal/Daily/2026-08-25.md",
     "Work/PCCW/Generating management report v4.5 (OTT contract) (show regional content allocation to each market).md",
     "Work/PCCW/Vlogger AR Aging Jul 2026.md",
     "Work/PCCW/AR Aging.md",
-    "Study/易經/易經.md",
     "Study/易經",
     "Work/PCCW/Viu Premium on NowTV.md",
     "Work/PCCW/Contract.md",
@@ -230,7 +231,6 @@
     "Personal/Helper",
     "Journal/Daily/2026-08-24.md",
     "Untitled.md",
-    "Journal/Daily/2026-08-22.md",
     "Tag",
     "Work/Doc/Pasted image 20260821112357.png",
     "Work/Doc/Pasted image 20260821111201.png",
