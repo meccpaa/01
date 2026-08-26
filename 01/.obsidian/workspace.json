@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-25.md",
+                "file": "Study/易經/易經.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-25"
+              "title": "易經"
             }
           }
         ]
@@ -200,8 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee393bb14afb81d6",
+  "active": "1241d5fa2b3e5c19",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-26.md",
+    "Journal/Daily/2026-08-25.md",
     "Work/PCCW/Generating management report v4.5 (OTT contract) (show regional content allocation to each market).md",
     "Work/PCCW/Vlogger AR Aging Jul 2026.md",
     "Work/PCCW/AR Aging.md",
@@ -211,7 +213,6 @@
     "Work/PCCW/Contract.md",
     "Work/PCCW/OTT SG commission scheme 2025-26.md",
     "Work/PCCW/E-tax filing - 2025-26 Profits Tax Returns.md",
-    "Journal/Daily/2026-08-26.md",
     "Work/PCCW/HK Sale Commission Jul 2026.md",
     "Work/PCCW/set off term for partnership deals.md",
     "Work/PCCW/PH CM Meeting Jul 2026.md",
@@ -219,7 +220,6 @@
     "Work/PCCW/IGC - Macau AFP Variety 2026.md",
     "Work/PCCW/HK CM Meeting Jul 2026.md",
     "Activity logs.md",
-    "Journal/Daily/2026-08-25.md",
     "Journal/Daily/2026-08-23.md",
     "Work/PCCW/Department.md",
     "Work/PCCW/Netsuite Workshop.md",
