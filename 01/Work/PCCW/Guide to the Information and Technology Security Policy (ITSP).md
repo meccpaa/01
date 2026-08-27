@@ -123,3 +123,7 @@ focuses on the secure day-to-day running of our production systems
 - use approved tools
 - avoid unsecured networks
 - verify sender identity
+
+#### Data Protection
+- data masking
+- data leakage prevention
