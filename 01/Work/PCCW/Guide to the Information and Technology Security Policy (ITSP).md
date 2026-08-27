@@ -111,6 +111,7 @@ equipment sitting and protection
 focuses on the secure day-to-day running of our production systems
 - documented procedures
 - change management - goal: prevent unplanned changes from causing outages
+	- every change must have an impact analysis, approval, implementation plan, and rollback plan
 - capacity management
 
 #### Protection from Malware and Backup
@@ -127,3 +128,16 @@ focuses on the secure day-to-day running of our production systems
 #### Data Protection
 - data masking
 - data leakage prevention
+
+### Section 9: Communications Security - Securing Data in Motion
+- Network segregation
+- Information transfer
+- Web filtering
+
+### Section 10: System Acquisition, Development and Maintenance - Security by Design
+- Security by design
+- Secure coding: input validation, secure error handling, code scanning and review
+- Access to source code: 
+	- all source code must be stored in secure, centralised source code management system, 
+	- using unauthorized repositories (e.g. personal GitHub accounts) for company code is strictly prohibited
+
