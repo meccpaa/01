@@ -26,4 +26,32 @@ covers the entire employee lifecycle
 - report security concerns - askit@pccw.com, ITSecurity@pccfw.com
 
 ### Section 4: Asset Management - Know It, Classify It, Protect It
-Inventory of Assets:
+Know it: Inventory of Assets, incl. data, hardware, software, and 
+-  entrusted to PCCW/HKT
+- rented or leased by PCCW / HKT
+- used by service providers to deliver services to PCCW / HKT
+
+#### Understanding, Owning, and Using Company Resources
+- Definition of assets
+- Ownership and accountability
+- Acceptable use
+
+- End-of-Life Systems - risk on outdated OS, library, or application server; must be replaced or decommissioned timely
+- Ownership of Assets - with designated information owner, 
+- Acceptable Use of Assets - 
+
+#### Device and Data Handling
+1. Secure devices - unauthorized access and physical theft; password-protected and encrypted
+2. mitigate USB/Media Risks
+3. Approved storage usage
+
+#### Media Handling
+1. Management of removable media
+2. disposal of media
+3. physical media transfer
+
+#### Information classification
+- strictly confidential
+- confidential
+- internal
+- public domain
