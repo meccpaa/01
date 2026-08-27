@@ -159,7 +159,16 @@ responsibilities, reporting, severity classification, learning from incidents (a
 
 ### Section 13: Information Security Aspects of Business Continuity Management
 ensure our critical services can survive a major disaster.
-- planning: 
-- verification
+- planning: each critical service must have a Business Continuity Plan (BCP) and a technical Disaster Recovery Plan (DRP)
+- verification - test at least annually
 - redundancy
 
+### Section 14: Compliance
+- legal & regulatory requirements
+- privacy
+- independent reviews
+
+### Section 15: Cloud Security
+- Cloud service lifecycle
+- Vendor agreement security clauses
+- Shared responsibility model
