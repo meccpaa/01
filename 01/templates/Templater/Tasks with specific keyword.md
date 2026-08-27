@@ -1,5 +1,3 @@
-Type:: "Person"
-
 ## Tasks 
 ```tasks
 not done
