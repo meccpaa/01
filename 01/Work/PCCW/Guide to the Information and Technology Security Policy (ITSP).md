@@ -172,3 +172,15 @@ ensure our critical services can survive a major disaster.
 - Cloud service lifecycle
 - Vendor agreement security clauses
 - Shared responsibility model
+
+### Your missing: Key Takeaways
+1. Security is an Engineering Discipline. Not a Roadblock. The ITSP is your guide to building professional, resilient, and secure systems.  
+2. Shift Security Left. Integrate security into your workflow from the very beginning of a project (planning, design). It's cheaper and more effective.  
+3. The Three Cardinal Rules of Data:  
+	- Know Your Data : Classify it correctly (Confidential, Internal, etc.).  
+	- Protect Your Data : Use encryption for strictly confidential and confidential data, at rest and in transit.  
+	- NEVER Use Real Production Data in Test. Mask or anonymize it.  
+
+4. **Master Access Control**. Live by the principle of **Least Privilege**. Use unique accounts and never share credentials.  
+5. **You Own Your Vendors Code**. You are responsible for the security of the third-party services and libraries you introduce.  
+6. **Report Incidents Immediately.** Early detection and reporting is your most powerful tool in minimizing the impact of a breach.
