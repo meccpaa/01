@@ -3,7 +3,7 @@
 not done
 sort by due
 is not recurring
-description includes [[<% tp.file.title %>]]
+description includes [[Untitled]]
 ```
 
 
@@ -12,5 +12,5 @@ description includes [[<% tp.file.title %>]]
 not done
 sort by due
 is recurring
-description includes [[<% tp.file.title %>]]
+description includes [[Untitled]]
 ```
