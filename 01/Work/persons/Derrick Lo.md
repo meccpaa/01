@@ -1,9 +1,13 @@
+---
+Type:
+Created: 2026-08-27 19:19
+---
 ## Tasks 
 ```tasks
 not done
 sort by due
 is not recurring
-description includes [[@Adrian.Chow]]
+description includes [[Derrick Lo]]
 ```
 
 
@@ -12,5 +16,5 @@ description includes [[@Adrian.Chow]]
 not done
 sort by due
 is recurring
-description includes [[@Adrian.Chow]]
+description includes [[Derrick Lo]]
 ```

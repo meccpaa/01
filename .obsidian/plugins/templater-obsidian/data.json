@@ -24,10 +24,6 @@
     {
       "folder": "01/Work/Doc",
       "template": "01/templates/Doc template.md"
-    },
-    {
-      "folder": "01/Work/persons",
-      "template": "01/templates/Templater/Tasks with specific keyword.md"
     }
   ],
   "file_templates": [],
