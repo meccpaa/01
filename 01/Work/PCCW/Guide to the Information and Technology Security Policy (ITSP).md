@@ -55,3 +55,40 @@ Know it: Inventory of Assets, incl. data, hardware, software, and
 - confidential
 - internal
 - public domain
+
+#### Labelling of information
+- information classification
+- output labelling
+- classification review
+
+### Section 5: Access Control
+
+only the right people access the right data at the right time.
+core principles: least privilege, need to know, segregation of duties
+golden rules for all staff: 
+- no shared accounts, 
+- no external devices on the internal network
+
+#### Access Control Best Practices
+- robust authentication
+- unique user identification
+- least privilege principle
+
+#### Common Access Dangers
+- Password Sharing
+- Unlocked Devices
+- Unsafe Remote Access
+
+#### Business requirements of access control
+remote access (VPN): all remote access to the Group internal network requires MFA. There is no exception
+
+#### User Access Management
+- user access provisioning - approval process
+- management of privileged access
+- physical media transfer
+
+#### System and Application Access Control
+Enforce mandatory password management system
+1. password complexity
+2. enforce password history
+3. enfo
