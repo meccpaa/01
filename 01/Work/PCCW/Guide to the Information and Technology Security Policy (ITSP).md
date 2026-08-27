@@ -141,3 +141,25 @@ focuses on the secure day-to-day running of our production systems
 	- all source code must be stored in secure, centralised source code management system, 
 	- using unauthorized repositories (e.g. personal GitHub accounts) for company code is strictly prohibited
 
+#### Test Data
+production data, esp strictly confidential and confidential information, shall not be used in non-production environments (development, testing, UAT)
+
+### Section 11: Third Party Relationships
+- Policy for 3rd parties
+- Security in agreements
+- Your responsibility
+
+#### Third-party risks
+- vendor risks
+- share minimum data
+- watch for supplier fraud
+
+### Section 12: Information Security Incident Management
+responsibilities, reporting, severity classification, learning from incidents (after every incident, a post-mortem and root cause analysis are performed to prevent recurring. all remedial actions are tracked)
+
+### Section 13: Information Security Aspects of Business Continuity Management
+ensure our critical services can survive a major disaster.
+- planning: 
+- verification
+- redundancy
+
