@@ -108,5 +108,18 @@ secure areas
 equipment sitting and protection
 
 ### Section 8: Operations Security - Keeping Our Services Secure Available
-focuses on 
+focuses on the secure day-to-day running of our production systems
+- documented procedures
+- change management - goal: prevent unplanned changes from causing outages
+- capacity management
 
+#### Protection from Malware and Backup
+#### Mobile devices and Teleworking
+#### Secure system practices
+- approved software only
+- updates and patches awareness
+
+#### Secure Communication Methods
+- use approved tools
+- avoid unsecured networks
+- verify sender identity
