@@ -72,7 +72,7 @@ golden rules for all staff:
 #### Access Control Best Practices
 - robust authentication
 - unique user identification
-- least privilege principle
+- least privilege principle (need to know basis)
 
 #### Common Access Dangers
 - Password Sharing
@@ -89,6 +89,24 @@ remote access (VPN): all remote access to the Group internal network requires MF
 
 #### System and Application Access Control
 Enforce mandatory password management system
-1. password complexity
+1. password complexity - 8 character, with uppercase, lowercase and numbers
 2. enforce password history
-3. enfo
+3. enforce password expiration
+4. account lockout
+
+
+### Section 6: Cryptography - Encrypting Our Most Sensitive Data
+
+the use of encryption to protect data
+when: mandatory for strictly confidential and confidential information
+key management
+
+### Section 7: Physical & Environmental Security
+clear desk clear screen policy
+unattended equipment
+secure areas
+equipment sitting and protection
+
+### Section 8: Operations Security - Keeping Our Services Secure Available
+focuses on 
+
