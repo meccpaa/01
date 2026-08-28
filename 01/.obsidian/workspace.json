@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/易經/易經.md",
+                "file": "Journal/Daily/2026-08-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "易經"
+              "title": "2026-08-28"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Control",
+                "query": "tag:#Taichi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,8 +200,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1241d5fa2b3e5c19",
+  "active": "ee393bb14afb81d6",
   "lastOpenFiles": [
+    "Study/易經/易經.md",
     "Work/PCCW/PWC annual group audit.md",
     "Work/PCCW/CSJ_06 (Now.com service charge for ad service support).md",
     "Work/PCCW/Status of MOOV project payment - Jukebox Musical.md",
@@ -228,7 +229,6 @@
     "Work/persons/Derrick Lo.md",
     "Work/persons/Amy Tse.md",
     "templates/Templater/Tasks with specific keyword.md",
-    "Work/PCCW/Rohit.md",
     "Work/Doc/Pasted image 20260827144431.png",
     "Study/易經/Doc/IMG_2061.jpg",
     "Study/易經/Doc/IMG_2060.jpg",
