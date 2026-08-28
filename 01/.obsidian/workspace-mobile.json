@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-28.md",
+                "file": "Work/PCCW/Audit/SG entities impairment assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-28"
+              "title": "SG entities impairment assessment"
             }
           }
         ]
@@ -123,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/Daily/2026-08-28.md",
+            "file": "Work/PCCW/Audit/SG entities impairment assessment.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,9 +183,9 @@
   },
   "active": "3459fa4eed7018e0",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-28.md",
     "Journal/Daily/2022-04-28.md",
     "PWC annual group audit.md",
-    "Journal/Daily/2026-08-28.md",
     "Work/PCCW/Request for Client SPOC Details – Audit Trail and Backup Procedure-Vuclip.md",
     "Journal/Daily/2026-08-31.md",
     "Journal/Daily/2026-08-26.md",

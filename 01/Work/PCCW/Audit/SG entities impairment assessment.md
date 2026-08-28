@@ -1,3 +1,14 @@
+1. OTT SG - seem ok
+2. Vuclip SG
+	- include ID and ME - not in the group
+	- not include ID and ME
+	- tie books,
+
+
+
+
+----
+
 purposes. However, for the purposes of the Singapore statutory audits, the Singapore audit team has noted that the assessment is required to be performed at the individual Singapore reporting entity level, taking into account the specific facts and circumstances applicable to each legal entity, rather than relying solely on the group-level assessment. Similarly, for investments in subsidiaries, the Singapore audit team has requested that the impairment assessment be performed separately for each investee subsidiary, rather than based on an assessment performed at the group level.
 
 Based on the above, the Singapore audit team is requesting the following entity-level impairment analyses to support their local statutory audit conclusions:
