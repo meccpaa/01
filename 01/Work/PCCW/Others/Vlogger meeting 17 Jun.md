@@ -2,7 +2,7 @@
 **Time:** 16:45
 **Tag:** #vlogger 
 **Topic:** May 2022 performance
-**Attendence:** #P/Fin/Vlogger/OliverYu, #P/MOOV/KayKay, #P/OTT/HelenSou, #P/Biz/Vlogger/KimTong, #P/Fin/HK/BennyYau , #P/MOOV/PhoebeChow, #P/MOOV/SharenLee, #P/Legal/AdrianChow , #P/MOOV/MerryLam
+**Attendence:** #P/Fin/Vlogger/OliverYu, #P/MOOV/KayKay, #P/Viu/HelenSou, #P/Biz/Vlogger/KimTong, #P/Fin/HK/BennyYau , #P/MOOV/PhoebeChow, #P/MOOV/SharenLee, #P/Legal/AdrianChow , #P/MOOV/MerryLam
 
 Documents: 
 	- [Aging report](<V:\Finance\OTT Group\!Digital Media\Monthly\2022-05\17. Vlogger\Vlogger AR aging (bad debt provision) May 22.xlsx>)

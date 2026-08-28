@@ -10,7 +10,7 @@
 ### MOOV
 #### Revenue
 1. Why was the quarterly average revenue by subscription number (dollar) was in increasing trend even under Covid-19 situation? ==Ans:  subscription through Mobile app (not much change; reduction was mainly from TV channel with lower ARPU ($3-$4)
-2. [x] Please provide the agreement between App stores and Moov (Hong Kong) Limited for the arrangement on subscription. ==Ans: #P/MOOV/KayKay , #P/OTT/HK/ErinChau   -> part of document in walkthrough already contain it.  2022-06-21
+2. [x] Please provide the agreement between App stores and Moov (Hong Kong) Limited for the arrangement on subscription. ==Ans: #P/MOOV/KayKay , #P/Viu/HK/ErinChau   -> part of document in walkthrough already contain it.  2022-06-21
 3. Why will the event management fee and other revenue increase significantly for the year? Please specific what event held for the year. ==Ans: 
 		- Never Ending Hong Kong Drama - Sponsorship + Tickets = $7.7M
 		- MOOV Live - MIRROR : Music On the Road = $8.2M
@@ -25,7 +25,7 @@
 
 ![](file:///C:/Users/01257542/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 #### COGS
-9. [x] Please provide the breakdown of the top 5 contact providers. (COGS side) #P/Fin/ArthurCheung  2022-06-21
+9. [x] Please provide the breakdown of the top 5 contact providers. (COGS side) #P/Fin/HK/ArthurCheung  2022-06-21
 	![[Pasted image 20220617114842.png]]
 		expense
 10. [x] Kindly explain the fluctuation each of contact providers, i.e. why increase or decrease. [completion:: 2022-06-26]

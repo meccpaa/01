@@ -7,12 +7,12 @@
 #MOOV
 - [x] Director confirmation #audit/HK #P/Fin/HK/BennyYau  (got email from #P/kpmg/RyanKan) [completion:: 2022-06-30]
 - [x] all statement received form CSL?? 2021 #CSL confirmation (item 10. Correspondence,) #audit/HK [completion:: 2022-06-24]
-- [x] Revenue B2 - Intercompany - CSL contracts #MOOV #vHK  -> asked #P/MOOV/KayKay   #P/OTT/HK/ErinChau  for the contract copies. [[2022-06-13]]
+- [x] Revenue B2 - Intercompany - CSL contracts #MOOV #vHK  -> asked #P/MOOV/KayKay   #P/Viu/HK/ErinChau  for the contract copies. [[2022-06-13]]
 	- #P/MOOV/KayKay  
 		- [[Term Sheet (2019-2021)_MOOV_ClubSIM_20190101 (signed Jan2021) (1).pdf]] (do we have one for CSL??)
 - [x] confirmation?? CSL to be updated by #P/kpmg/TrevorKam  #audit/HK [completion:: 2022-06-24]
 - [x] 5, 6. Google and Apple - 12 months bank statements (SHould have provided 12 months JE)
-- [x] Ad revenue Dec 21 to Jan 22  -> #P/OTT/HK/JosephineHui  #audit/HK [completion:: 2022-06-24]
+- [x] Ad revenue Dec 21 to Jan 22  -> #P/Viu/HK/JosephineHui  #audit/HK [completion:: 2022-06-24]
 	- [x] Ad campaign across Dec 21 to Jan 22  #audit/HK [completion:: 2022-06-24]
 - [x] 14. ad revenue samples (provided) #audit/HK 
 - [x] #task MOOV vs Viu - COS agreement (CSL) ✅ 2022-06-15 #audit/HK 
@@ -28,7 +28,7 @@
 - [x] H. Investment in subsidiaries  #audit/HK [completion:: 2022-06-24]
 	- [x] Management account #audit/HK [completion:: 2022-06-24]
 	- [x] Latest minutes of waiver of intercom balance #audit/HK [completion:: 2022-06-24]
-- [x] PPE. Schedule ( #P/Fin/KammyLee  provided?) #audit/HK [completion:: 2022-06-21]
+- [x] PPE. Schedule ( #P/Fin/HK/KammyLee  provided?) #audit/HK [completion:: 2022-06-21]
 - [x] AP 1. Trade creditor report (listing) (include content accrual) #audit/HK [completion:: 2022-06-24]
 - [x] N. Disclosure #audit/HK [completion:: 2022-08-22]
 	- [x] CFS - non-operating items, non-cash transaction movement #P/GF/BrianMak #audit/HK [completion:: 2022-08-22]
