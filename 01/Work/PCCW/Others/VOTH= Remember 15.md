@@ -13,9 +13,9 @@ Vendor:
 #PCCW/Content/VO
 [[E= Remember 15 censorship cost]]
 - [[E= Payment request OTTTH220512 Content License 100% - Remember15 - 15,600,000THB Due Date 23-Jun-22(USD 455,870.62)]]
- - checking with #PCCW/P/Fin/TH/Jeab on the performance of the title.
+ - checking with #P/PCCW/Fin/TH/Jeab on the performance of the title.
 	- [[E= [FOR APPROVAL] Payments for Bison Idea (Viu Original - Remember 15)]]
 
-- [[Remember 15 _ Performance & Revenue.pptx]] #PCCW/P/TH/Kookie  [[2022-06-16]] 
+- [[Remember 15 _ Performance & Revenue.pptx]] #P/PCCW/TH/Kookie  [[2022-06-16]] 
 
 

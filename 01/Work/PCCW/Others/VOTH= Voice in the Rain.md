@@ -1,3 +1,3 @@
-- [[E= VO TH - Invoice to Mimo tech (AIS)]] [[2022-06-14]] #PCCW/P/TH/BookThienbunlertrat -> invoice and revenue booking
+- [[E= VO TH - Invoice to Mimo tech (AIS)]] [[2022-06-14]] #P/PCCW/TH/BookThienbunlertrat -> invoice and revenue booking
 	- [[INV10756 - TH License fee.pdf]]
 	- [[E= VO TH - Invoice to Mimo tech (AIS)]]

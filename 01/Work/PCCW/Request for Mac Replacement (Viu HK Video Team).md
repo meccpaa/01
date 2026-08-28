@@ -6,4 +6,4 @@ Request of Mac Studio, but want to know how many people are doing the same role 
 
 iMac shall be with performance comparable to Mac Mini, so wonder whether we shall buy Mac Mini instead.
 
-- [ ] checking with #PCCW/P/Viu/HK/CarmenFu on the computer currently used by Video team 📅 2026-09-01
+- [ ] checking with #P/PCCW/Viu/HK/CarmenFu on the computer currently used by Video team 📅 2026-09-01

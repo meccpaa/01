@@ -1,4 +1,4 @@
-**Part I, item 5** which FATCA status for [[W-8BEN-E]] -> checking with #PCCW/P/Tax/Frederick , it shall be "**Active NFFE**"
+**Part I, item 5** which FATCA status for [[W-8BEN-E]] -> checking with #P/PCCW/Tax/Frederick , it shall be "**Active NFFE**"
 	![[Pasted image 20220610144119.png]]
 - [[W-8BEN-E (OTT SG).pdf]]
 - [[W-8BEN-E (Vuclip SG).pdf]]

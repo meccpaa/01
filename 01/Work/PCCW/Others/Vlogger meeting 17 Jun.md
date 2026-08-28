@@ -2,7 +2,7 @@
 **Time:** 16:45
 **Tag:** #PCCW/Biz/vlogger 
 **Topic:** May 2022 performance
-**Attendence:** #PCCW/P/Fin/Vlogger/OliverYu, #PCCW/P/MOOV/KayKay, #PCCW/P/Viu/HelenSou, #PCCW/P/Vlogger/KimTong, #PCCW/P/Fin/HK/BennyYau , #PCCW/P/MOOV/PhoebeChow, #PCCW/P/MOOV/SharenLee, #PCCW/P/Legal/AdrianChow , #PCCW/P/MOOV/MerryLam
+**Attendence:** #P/PCCW/Fin/Vlogger/OliverYu, #P/PCCW/MOOV/KayKay, #P/PCCW/Viu/HelenSou, #P/PCCW/Vlogger/KimTong, #P/PCCW/Fin/HK/BennyYau , #P/PCCW/MOOV/PhoebeChow, #P/PCCW/MOOV/SharenLee, #P/PCCW/Legal/AdrianChow , #P/PCCW/MOOV/MerryLam
 
 Documents: 
 	- [Aging report](<V:\Finance\OTT Group\!Digital Media\Monthly\2022-05\17. Vlogger\Vlogger AR aging (bad debt provision) May 22.xlsx>)
