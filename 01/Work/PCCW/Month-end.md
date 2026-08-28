@@ -2,7 +2,7 @@
 Type:
 Created: 2026-08-27 18:55
 ---
-### HK
+### Cindy Lau
 - [ ] [[CSJ_1 Zebra or Masterlink accrual]] [[Cindy Lau]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_2 now.com RS]]  [[Cindy Lau]] 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] [[Cindy Lau]]🔁 every month 📅 2026-09-01
@@ -37,6 +37,7 @@ Created: 2026-08-27 18:55
 - [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] [[Cindy Lau]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] [[Cindy Lau]]🔁 every month 📅 2026-09-01
 
+### Gobby Lam
 - [ ] [[CSJ_03 (MOOV accrual)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_05 (MOOV accrual (CASH))]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_07 (Viu Publishing fee accrual)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
@@ -47,18 +48,14 @@ Created: 2026-08-27 18:55
 - [ ] [[CSJ_10b (MOOV partnership and recharge)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_10m (revenue reversal (MOOV))]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_11c1 (Prepayment)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_11m (revenue & cos_other (MOOV)) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_12d (Recharge or reclass) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_12g (Recharge or reclass) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_12b (Recharge or reclass) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_12a (Recharge or reclass) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_18 (Singapore TB upload) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_18a (Singapore TB upload (adjustment)) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_19 (Thailand TB upload) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_19a (Thailand TB upload (adjustment)) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_20 (Philippines TB upload) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_20b (Philippines Partnership deal - Infinix) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-- [ ] CSJ_24b (Accrual MOOV - CSL MG) [[Gobby Lam]]🔁 every month 📅 2026-09-01
-
-CSJ_CASH_07041 (MOOV HKD HSBC bank)
-CSJ_CASH_07042 (MOOV USD HSBC bank)
+- [ ] [[CSJ_11m (revenue & cos_other (MOOV))]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_12a (Recharge or reclass)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_18 (Singapore TB upload)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_19 (Thailand TB upload)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_19a (Thailand TB upload (adjustment))]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_20 (Philippines TB upload)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_20b (Philippines Partnership deal - Infinix)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_24b (Accrual MOOV - CSL MG)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_41 (MOOV HKD HSBC bank)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_42 (MOOV USD HSBC bank)]] [[Gobby Lam]]🔁 every month 📅 2026-09-01
