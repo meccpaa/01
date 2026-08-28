@@ -1,8 +1,8 @@
 **Tag:** #PBC
 
 - [[OTT or MOOV 2021 PBC status]]
-- [[E= OTTHK and Moov request list]] [[2022-06-13]] #P/kpmg/MelodyCheung 
-	- #P/GF/CherryLiu
+- [[E= OTTHK and Moov request list]] [[2022-06-13]] #PCCW/P/kpmg/MelodyCheung 
+	- #PCCW/P/GF/CherryLiu
 		- Lease - [[E= OTTHK and Moov request list - Lease]]
 			- [[CT5-Licence Agt (TC-Media) (20190718).pdf]]
 			- [[Notice from Media Holdings re property licence termination.pdf]]
@@ -20,11 +20,11 @@
 			- [[12. CSJ_11017d (Vlogger Reclassification).pdf]]
 			- [[12. CSJ_11017f (Vlogger Reclassification).pdf]]
 			- [[12. CSJ_11017g (Vlogger Elim P&L 2021 (Movement)).pdf]]
--  #P/kpmg/MelodyCheung  - 
+-  #PCCW/P/kpmg/MelodyCheung  - 
 	- [x] #task Thank you for providing documents to us. We have additional question on Moov, kindly find the attached excel for the question raised. Would appreciate if you could answer the question at your earliest convenient. Thank you. [[Moov question_14 June.xlsx]] [[2022-06-14]] -> 📅 2022-06-16 [completion:: 2022-06-24]
 		- [x] contracts of top 5 labels [completion:: 2022-06-24]
 		- [x] unreconciled amount of the balance? [completion:: 2022-06-24]
 		- [x]  [completion:: 2022-06-19]
-	- [[E= Trade creditors sample 2021]] - #P/Fin/HK/BennyYau 
+	- [[E= Trade creditors sample 2021]] - #PCCW/P/Fin/HK/BennyYau 
 	- 
 

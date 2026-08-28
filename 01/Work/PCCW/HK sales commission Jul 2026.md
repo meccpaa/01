@@ -4,8 +4,8 @@ Created: 2026-08-27 11:07
 ---
 Full year of now.com target is HKD15M, but the allocated amount to each person is only HKD5M, that’s not right. We cannot proceed the calculation of now.com commission. Also in the past it was under you, but now it all allocated to each person.
 
-- [ ] Sent email to Amy to check the target setting for now.com. see whether #P/Viu/HK/AmyTse has any response 📅 2026-08-28
-- [x] Checked with Simmy on the terms related to $6000 gurantee #P/Viu/HK/SimmyLau 📅 2026-08-28 ✅ 2026-08-28
+- [ ] Sent email to Amy to check the target setting for now.com. see whether #PCCW/P/Viu/HK/AmyTse has any response 📅 2026-08-28
+- [x] Checked with Simmy on the terms related to $6000 gurantee #PCCW/P/Viu/HK/SimmyLau 📅 2026-08-28 ✅ 2026-08-28
 
 ---
 Attached excel is related to Simmy team sales commission calculation for Jul 2026 (for both now.com and Viu). She stated with attached email that **annual target of now.com** **is HKD4.82M**. As I was not in the email loop, so want to double confirm with you on the amount of now.com 2026 annual target, whether it is HKD4.82M (excluding Google ad).

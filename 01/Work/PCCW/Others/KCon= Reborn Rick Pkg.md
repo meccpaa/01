@@ -6,11 +6,11 @@
 	- <Miracle> is a pop themed romcom expected to attract attention from young viewers. --- US$2,111,200
 	- <The Empire of Law> is a drama depicting the conflicts and desires of a famous and powerful couple. It's a similar genre as <Penthouse> and easy to spread among SEA users. ---- US$5,388,800
 
-- #sys/SharePoint [Opex approval - Content Licensing of Drama “Reborn Rich” Pkg (sharepoint.com)](https://pccw0.sharepoint.com/sites/OTTFin/Lists/Opscom/DispForm.aspx?ID=48)
+- #PCCW/sys/SharePoint [Opex approval - Content Licensing of Drama “Reborn Rich” Pkg (sharepoint.com)](https://pccw0.sharepoint.com/sites/OTTFin/Lists/Opscom/DispForm.aspx?ID=48)
 	- slide: [Excom-JTBC_Reborn Rich pkg_v4_26May2022.pptx (sharepoint.com)](https://pccw0.sharepoint.com/:p:/r/sites/OTTFin/_layouts/15/Doc.aspx?sourcedoc=%7B45594C17-016B-4143-BD30-FECDC87BAEB5%7D&file=Excom-JTBC_Reborn%20Rich%20pkg_v4_26May2022.pptx&action=edit&mobileredirect=true)
 	- Missing HK allocation for the FTV
 
-#P/Content/MarianneLee
+#PCCW/P/Content/MarianneLee
 	- talked with Marianne, 
 		- Have updated the allocation and add the Chinese name of the cast in the slides in SharePoint.
 		- Have talked with Marianne this morning

@@ -1,2 +1,2 @@
-- [x] Get back to BTU about my plan and requirement on storage @arthur.cheung #sys/SharePoint
-- [x] Payment process for other Vuclip regions @Cindy #sys/SharePoint
+- [x] Get back to BTU about my plan and requirement on storage @arthur.cheung #PCCW/sys/SharePoint
+- [x] Payment process for other Vuclip regions @Cindy #PCCW/sys/SharePoint

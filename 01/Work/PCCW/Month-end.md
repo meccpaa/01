@@ -3,59 +3,59 @@ Type:
 Created: 2026-08-27 18:55
 ---
 ### Cindy Lau
-- [ ] [[CSJ_1 Zebra or Masterlink accrual]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_2 now.com RS]]  #P/Fin/HK/CindyLau  🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_04b (Corporate cost allocation)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_06 (Now.com service charge for ad service support)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_08 (Viu Marketing accrual)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10c (revenue reversal (Viu IAP))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10v (revenue reversal (Viu))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11v (revenue & cos_other)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11f (revenue & cos_other (KK Sim))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n (Viu on NowE revenue gross up)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n1 (Viu on NowE revenue gross up)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n2 (Viu on NowTV revenue)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n3 (Viu on NowTV revenue)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_12 (Recharge or reclass)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_15 (content capitalization )]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_15b (content cost accrual)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_16 (Revenue deferral (Viu IAP))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_16b (Adyen Revenue Deferral)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_16d (Alipay revenue Deferral)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17a (Vlogger P&L BS TB upload)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17b (Vlogger Elim P&L TB upload)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17c (Management fee recharge)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17e (Vlogger  P&L  MI)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17f (Vlogger Reclassification)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17g (Vlogger Reclassification)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_17h (Vlogger Reclassification)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_1 Zebra or Masterlink accrual]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_2 now.com RS]]  #PCCW/P/Fin/HK/CindyLau  🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_04b (Corporate cost allocation)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_06 (Now.com service charge for ad service support)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_08 (Viu Marketing accrual)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10c (revenue reversal (Viu IAP))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10v (revenue reversal (Viu))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11v (revenue & cos_other)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11f (revenue & cos_other (KK Sim))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11n (Viu on NowE revenue gross up)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11n1 (Viu on NowE revenue gross up)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11n2 (Viu on NowTV revenue)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11n3 (Viu on NowTV revenue)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_12 (Recharge or reclass)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15 (content capitalization )]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15b (content cost accrual)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15c (content capitalization - Reallocation)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_16 (Revenue deferral (Viu IAP))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_16b (Adyen Revenue Deferral)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_16d (Alipay revenue Deferral)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17a (Vlogger P&L BS TB upload)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17b (Vlogger Elim P&L TB upload)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17c (Management fee recharge)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17e (Vlogger  P&L  MI)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17f (Vlogger Reclassification)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17g (Vlogger Reclassification)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_17h (Vlogger Reclassification)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #PCCW/P/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 
 ### Gobby Lam
-- [ ] [[CSJ_03 (MOOV accrual)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_05 (MOOV accrual (CASH))]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_07 (Viu Publishing fee accrual)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_07a (Viu Bundling with WBD)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10a (MOOV partnership and recharge)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10b (MOOV partnership and recharge)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10m (revenue reversal (MOOV))]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11c1 (Prepayment)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11m (revenue & cos_other (MOOV))]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_12a (Recharge or reclass)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_18 (Singapore TB upload)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_19 (Thailand TB upload)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_19a (Thailand TB upload (adjustment))]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_20 (Philippines TB upload)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_20b (Philippines Partnership deal - Infinix)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_24b (Accrual MOOV - CSL MG)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_41 (MOOV HKD HSBC bank)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_42 (MOOV USD HSBC bank)]] #P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_03 (MOOV accrual)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_05 (MOOV accrual (CASH))]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_07 (Viu Publishing fee accrual)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_07a (Viu Bundling with WBD)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10a (MOOV partnership and recharge)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10b (MOOV partnership and recharge)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10m (revenue reversal (MOOV))]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11c1 (Prepayment)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11m (revenue & cos_other (MOOV))]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_12a (Recharge or reclass)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_18 (Singapore TB upload)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_19 (Thailand TB upload)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_19a (Thailand TB upload (adjustment))]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_20 (Philippines TB upload)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_20b (Philippines Partnership deal - Infinix)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_24b (Accrual MOOV - CSL MG)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_41 (MOOV HKD HSBC bank)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_42 (MOOV USD HSBC bank)]] #PCCW/P/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01

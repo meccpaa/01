@@ -1,1 +1,1 @@
-- [x] Clothes - more professional - clean #purchase
+- [x] Clothes - more professional - clean #Personal/purchase
