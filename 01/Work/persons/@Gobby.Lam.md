@@ -1,20 +1,18 @@
----
-Type:
-Created: 2026-08-27 19:19
----
+Type:: "Person"
+
+
 ## Tasks 
 ```tasks
 not done
 sort by due
 is not recurring
-description includes [[Derrick Lo]]
+description includes [[@Gobby.Lam]]
 ```
-
 
 ## Recurring tasks 
 ```tasks
 not done
 sort by due
 is recurring
-description includes [[Derrick Lo]]
+description includes [[@Gobby.Lam]]
 ```

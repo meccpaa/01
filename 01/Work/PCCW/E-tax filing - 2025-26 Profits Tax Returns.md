@@ -2,8 +2,8 @@
 Type:
 Created: 2026-08-26 09:57
 ---
-- [ ] [[Cindy Lau]] - Vlogger entities 📅 2026-08-31
-- [ ] [[Gobby Lam]] - MOOV Holding entity 📅 2026-08-31 
+- [ ] [[@Cindy.Lau]] - Vlogger entities 📅 2026-08-31
+- [ ] [[@Gobby.Lam]] - MOOV Holding entity 📅 2026-08-31 
 
 Some updates of E-tax filing for 2025/2026 Profit Tax Returns
 1. Extension of tax submission deadline to 2 October 2026.   (please refer to attached notice from IRD "extension for lodgement of YA2025-26 tax returns.pdf" )

@@ -7,7 +7,7 @@ Created: 2026-08-27 19:18
 not done
 sort by due
 is not recurring
-description includes [[Amy Tse]]
+description includes [[@Amy.Tse]]
 ```
 
 
@@ -16,5 +16,5 @@ description includes [[Amy Tse]]
 not done
 sort by due
 is recurring
-description includes [[Amy Tse]]
+description includes [[@Amy.Tse]]
 ```

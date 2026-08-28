@@ -5,7 +5,7 @@ Type:: "Person"
 not done
 sort by due
 is not recurring
-description includes [[Cindy Lau]]
+description includes [[@Cindy.Lau]]
 ```
 
 
@@ -14,5 +14,5 @@ description includes [[Cindy Lau]]
 not done
 sort by due
 is recurring
-description includes [[Cindy Lau]]
+description includes [[@Cindy.Lau]]
 ```
