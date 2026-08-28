@@ -10,7 +10,7 @@ Approval: Opscom
 Content-type: VO
 Vendor: 
 ---
-#Content/VO
+#PCCW/Content/VO
 - [[E= Finding The Rainbow (Payment terms updated)]] [[2022-06-13]]
 - [[E= [Finding The Rainbow] Korean cast payment approval request]] [[2022-06-16]]
 - #PCCW/sys/SharePoint  

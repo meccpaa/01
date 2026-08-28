@@ -1,4 +1,4 @@
-**Tag:** #PBC
+**Tag:** #PCCW/audit/PBC
 # Viu International
 
 # OTT HK or MOOV
@@ -61,7 +61,7 @@ Please provide the breakdown of the inventories. #PCCW/P/Fin/HK/BennyYau
 
 #### Expense
 19. Please provide breakdown of management fee.  
-Please explain why the Management fee increase? #PCCW/P/GF/CherryLiu  #follow-up 
+Please explain why the Management fee increase? #PCCW/P/GF/CherryLiu  #PCCW/follow-up 
 
 #### Staff cost
 20. Please provide PCCW Discreptionary Incentive Bonus Scheme agreement. ==Ans: please check with HR #PCCW/P/HR/VivianWong
@@ -70,15 +70,15 @@ Please explain why the Management fee increase? #PCCW/P/GF/CherryLiu  #follow-up
 21. Please provide intercompany matrix transaction records #PCCW/P/GF/CherryLiu  -> to provide excel #
 
 #### AR
-22. [x] Please provide breakdown of Trade receivables in term of Billed revenue and Unbilled revenue ==Ans: #PCCW/P/Fin/HK/BennyYau, together with subsequent settlement. -> #follow-up [completion:: 2022-06-24]
+22. [x] Please provide breakdown of Trade receivables in term of Billed revenue and Unbilled revenue ==Ans: #PCCW/P/Fin/HK/BennyYau, together with subsequent settlement. -> #PCCW/follow-up [completion:: 2022-06-24]
 
 #### AP
 23. Trade creditor report (detailed by invoices) as of 31 December 2021 ==Ans: .....
 
 #### OR
-24. [x] Pleaes provide the breakdown of Prepayments, **deposits** & **other receivables** which can tie to $14,790.  (the following provide breakdown is not tie to the amount) #PCCW/P/Fin/HK/BennyYau #follow-up -> to include breakdown of others
+24. [x] Pleaes provide the breakdown of Prepayments, **deposits** & **other receivables** which can tie to $14,790.  (the following provide breakdown is not tie to the amount) #PCCW/P/Fin/HK/BennyYau #PCCW/follow-up -> to include breakdown of others
 	![[Pasted image 20220617120907.png|500]] [completion:: 2022-06-24]
-25. Please advise the status of JAY CHOU CONCERT 2019. Any refund to customer or any plan for the concert will continue? #PCCW/P/MOOV/KayKay  -> almost,  #follow-up -> get signed agreement
+25. Please advise the status of JAY CHOU CONCERT 2019. Any refund to customer or any plan for the concert will continue? #PCCW/P/MOOV/KayKay  -> almost,  #PCCW/follow-up -> get signed agreement
 
 #### AR
 26. [x] Please provide signed agrememnt of JAY CHOU CONCERT 2019 #PCCW/P/MOOV/KayKay  -> not yey signed

@@ -1,6 +1,6 @@
 **Date:** [[2022-06-17]]
 **Time:** 16:45
-**Tag:** #PCCW/vlogger 
+**Tag:** #PCCW/Biz/vlogger 
 **Topic:** May 2022 performance
 **Attendence:** #PCCW/P/Fin/Vlogger/OliverYu, #PCCW/P/MOOV/KayKay, #PCCW/P/Viu/HelenSou, #PCCW/P/Vlogger/KimTong, #PCCW/P/Fin/HK/BennyYau , #PCCW/P/MOOV/PhoebeChow, #PCCW/P/MOOV/SharenLee, #PCCW/P/Legal/AdrianChow , #PCCW/P/MOOV/MerryLam
 

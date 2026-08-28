@@ -5,8 +5,8 @@
 - [[E= IGC or Opscom - Jinxed at First]]
 - [[E= Studio VO (HK) Seeking Opscom Approval for a Business Case - Nothing But Thirty HK Version and ID Version]]
 
-- [x] #task [[E= Opscom Approval for SBS Bundle Deal 2022]] #Opscom ✅ 2022-08-12
-- [x] #task #Opscom [[E= Opscom for Upcoming Korean Viu Original The Law Cafe]] [completion:: 2022-07-04]
+- [x] #task [[E= Opscom Approval for SBS Bundle Deal 2022]] #PCCW/Approval/Opex/Opscom ✅ 2022-08-12
+- [x] #task #PCCW/Approval/Opex/Opscom [[E= Opscom for Upcoming Korean Viu Original The Law Cafe]] [completion:: 2022-07-04]
 - [x] [[202206201132 IGC- GMM MPI (Music Rights for Public Performance Year 2022)]] 📅 2022-06-23
 	-> got back to [[Kookie]] to start circulation
 	- consider to include as content budget next year.

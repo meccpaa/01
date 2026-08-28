@@ -10,7 +10,7 @@ Approval: Contract
 Content-type: VO
 Vendor: 
 ---
-#Content/VO
+#PCCW/Content/VO
 [[E= Remember 15 censorship cost]]
 - [[E= Payment request OTTTH220512 Content License 100% - Remember15 - 15,600,000THB Due Date 23-Jun-22(USD 455,870.62)]]
  - checking with #PCCW/P/Fin/TH/Jeab on the performance of the title.

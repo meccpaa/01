@@ -10,7 +10,7 @@ Approval: IGC
 Content-type: VO
 Vendor: [[Aukao Aunam Films Co., Ltd]]
 ---
-#Content/VO
+#PCCW/Content/VO
 
 Link: [Viu Original TH - Talumphuk FC with production house Bear in Mind Studios Co.,Ltd US$849,190.pdf](<V:\Finance\OTT Group\IGC\OTT TH\Viu Original\Bear in Mind Studios Co. Ltd\Viu Original TH - Talumphuk FC with production house Bear in Mind Studios Co.,Ltd US$849,190.pdf>)
 
