@@ -6,7 +6,7 @@
 
 #PCCW/Biz/MOOV
 - [x] Director confirmation #PCCW/audit/HK #PCCW/P/Fin/HK/BennyYau  (got email from #PCCW/P/kpmg/RyanKan) [completion:: 2022-06-30]
-- [x] all statement received form CSL?? 2021 #CSL confirmation (item 10. Correspondence,) #PCCW/audit/HK [completion:: 2022-06-24]
+- [x] all statement received form CSL?? 2021 #PCCW/Biz/CSL confirmation (item 10. Correspondence,) #PCCW/audit/HK [completion:: 2022-06-24]
 - [x] Revenue B2 - Intercompany - CSL contracts #PCCW/Biz/MOOV #PCCW/Biz/vHK  -> asked #PCCW/P/MOOV/KayKay   #PCCW/P/Viu/HK/ErinChau  for the contract copies. [[2022-06-13]]
 	- #PCCW/P/MOOV/KayKay  
 		- [[Term Sheet (2019-2021)_MOOV_ClubSIM_20190101 (signed Jan2021) (1).pdf]] (do we have one for CSL??)
