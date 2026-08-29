@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/易經/64 卦/乾.md",
+                "file": "Study/易經/64 卦/坤.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "乾"
+              "title": "坤"
             }
           }
         ]
@@ -232,12 +232,12 @@
   },
   "active": "2334f8b68d6444fa",
   "lastOpenFiles": [
+    "Study/易經/易經.md",
+    "Study/易經/64 卦/乾.md",
     "templates/Templater/卦template.md",
     "六十四卦.md",
-    "Study/易經/64 卦/乾.md",
     "templates/daily.md",
     "八卦.md",
-    "Study/易經/易經.md",
     "Journal/Daily/2026-08-29.md",
     "Journal/Daily/2026-08-28.md",
     "Work/PCCW/PWC annual group audit.md",
