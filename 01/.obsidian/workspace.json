@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "11c9370789da39c9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1241d5fa2b3e5c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Templater/卦template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "卦template"
-            }
-          }
-        ]
-      },
-      {
         "id": "e357dea8a4f6db21",
         "type": "tabs",
         "children": [
@@ -59,6 +29,36 @@
               },
               "icon": "lucide-file",
               "title": "坤"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0fe695545ae5b6ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ff140480b6d910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/易經/64 卦/乾.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "乾"
             }
           }
         ]
@@ -232,8 +232,9 @@
   },
   "active": "2334f8b68d6444fa",
   "lastOpenFiles": [
-    "Study/易經/易經.md",
     "Study/易經/64 卦/乾.md",
+    "Study/易經/64 卦/坤.md",
+    "Study/易經/易經.md",
     "templates/Templater/卦template.md",
     "六十四卦.md",
     "templates/daily.md",
@@ -258,7 +259,6 @@
     "Work/PCCW/Bank mandate.md",
     "Work/PCCW/Simmy Lau.md",
     "Work/persons/@Gobby.Lam.md",
-    "Work/persons/@Cindy.Lau.md",
     "Work/Doc/Pasted image 20260827144431.png",
     "Study/易經/Doc/IMG_2061.jpg",
     "Study/易經/Doc/IMG_2060.jpg",
