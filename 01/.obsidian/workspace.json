@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/易經/64 卦/屯.md",
+                "file": "Study/易經/64 卦/蒙.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "屯"
+              "title": "蒙"
             }
           }
         ]
@@ -202,9 +202,9 @@
   },
   "active": "71ff140480b6d910",
   "lastOpenFiles": [
-    "Study/易經/64 卦/乾.md",
     "Study/易經/易經.md",
     "Study/易經/64 卦/屯.md",
+    "Study/易經/64 卦/乾.md",
     "Study/易經/64 卦/坤.md",
     "templates/Templater/卦template.md",
     "六十四卦.md",
