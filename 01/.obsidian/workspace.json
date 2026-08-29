@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/易經/64 卦/讼.md",
+                "file": "Study/易經/易經.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "讼"
+              "title": "易經"
             }
           }
         ]
@@ -202,11 +202,12 @@
   },
   "active": "71ff140480b6d910",
   "lastOpenFiles": [
+    "Study/易經/64 卦/乾.md",
     "Study/易經/易經.md",
+    "Study/易經/64 卦/讼.md",
     "Study/易經/64 卦/需.md",
     "Study/易經/64 卦/蒙.md",
     "Study/易經/64 卦/屯.md",
-    "Study/易經/64 卦/乾.md",
     "Study/易經/64 卦/坤.md",
     "templates/Templater/卦template.md",
     "六十四卦.md",
@@ -228,7 +229,6 @@
     "Work/PCCW/Request For Payment (RFP) Vendor Registration - New Procedure (Effective Date 01 July 2026).md",
     "Work/PCCW/Introducing GAM's Server-Side-Unwrapping(SSU) to HK market.md",
     "Work/PCCW/Bad Debt Provision & Bad Debt Write Off for Voluntary Winding-Up for VPON HK Limited (Ac 7356757).md",
-    "Work/PCCW/Request for Client SPOC Details – Audit Trail and Backup Procedure-Vuclip.md",
     "Work/Doc/Pasted image 20260827144431.png",
     "Study/易經/Doc/IMG_2061.jpg",
     "Study/易經/Doc/IMG_2060.jpg",
