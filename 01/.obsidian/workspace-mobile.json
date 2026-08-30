@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Journal/Daily/2026-08-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-08-30"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
+    "Home.md",
     "Journal/Daily/2026-08-30.md",
     "Useful link.md",
-    "Home.md",
     "Journal/Daily/2026-08-31.md",
     "01/Work/persons/Cindy Lau.md",
     "01/八卦.md",
