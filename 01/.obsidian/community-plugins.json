@@ -1,5 +1,6 @@
 [
-  "dataview",
+  "templater-obsidian",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "tag-wrangler",
+  "dataview"
 ]
