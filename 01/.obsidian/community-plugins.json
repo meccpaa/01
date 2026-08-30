@@ -1,8 +1,14 @@
 [
+<<<<<<< HEAD
   "day-one-importer",
+=======
+>>>>>>> origin/main
   "templater-obsidian",
-  "dataview",
   "obsidian-tasks-plugin",
   "tag-wrangler",
+<<<<<<< HEAD
   "obsidian-git"
+=======
+  "dataview"
+>>>>>>> origin/main
 ]
