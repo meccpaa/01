@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "28046e528a712e77",
+    "id": "fe059639dd79dd42",
     "type": "split",
     "children": [
       {
-        "id": "ba6ea97c570bc17e",
+        "id": "89d1bf7e0b9a412c",
         "type": "tabs",
         "children": [
           {
-            "id": "3459fa4eed7018e0",
+            "id": "a966dad20c4fc8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-28.md",
+                "file": "Journal/Daily/2026-08-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-28"
+              "title": "2026-08-31"
             }
           }
         ]
@@ -37,24 +37,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04629df93e7695c7",
+    "id": "ba2c0932f73cca49",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "09e8e62b8b2fbc29",
+        "id": "286f9f10c1617b74",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "文件列表"
+          "title": "Files"
         }
       },
       {
-        "id": "a663a418775014de",
+        "id": "74f20f175d5f747b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -67,11 +69,11 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "搜索"
+          "title": "Search"
         }
       },
       {
-        "id": "fec3c3bf5eb42fba",
+        "id": "18226a53720b74cd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -82,11 +84,11 @@
             "searchQuery": ""
           },
           "icon": "lucide-tags",
-          "title": "标签"
+          "title": "Tags"
         }
       },
       {
-        "id": "cbaf67a27e543396",
+        "id": "e34e59d7a5a7ea75",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -96,34 +98,36 @@
             "searchQuery": ""
           },
           "icon": "lucide-archive",
-          "title": "添加笔记属性"
+          "title": "All properties"
         }
       },
       {
-        "id": "0f9bc876e4f46bbb",
+        "id": "7bc016c464ea02d3",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {},
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-bookmark",
-          "title": "书签"
+          "title": "Bookmarks"
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "2f68edced6586581",
+    "id": "4eaddc5edbbd5605",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "e77588e785e96552",
+        "id": "ec2f820e2802a247",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/Daily/2026-08-28.md",
+            "file": "01/Study/易經/易經.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,36 +137,34 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "反向链接"
+          "title": "Backlinks"
         }
       },
       {
-        "id": "4df0538ee034bd61",
+        "id": "aa0e1968c67619d7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Testing 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "出链"
+          "title": "Outgoing links"
         }
       },
       {
-        "id": "f14472435f0afc28",
+        "id": "4fbf9c711bcc0957",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Testing 1.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "大纲"
+          "title": "Outline"
         }
       }
     ],
@@ -170,64 +172,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "3459fa4eed7018e0",
+  "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
-    "Work/PCCW/Audit/SG entities impairment assessment.md",
-    "Journal/Daily/2026-08-28.md",
-    "Journal/Daily/2022-04-28.md",
-    "PWC annual group audit.md",
-    "Work/PCCW/Request for Client SPOC Details – Audit Trail and Backup Procedure-Vuclip.md",
-    "Journal/Daily/2026-08-31.md",
-    "Journal/Daily/2026-08-26.md",
-    "Journal/Daily/2026-08-27.md",
-    "Journal/Daily/2026-08-21.md",
-    "Activity logs.md",
-    "Work/PCCW/CUSOON meeting - Rolling Stone Project.md",
-    "templates/General template.md",
-    "templates/Doc template.md",
-    "Work/PCCW/SG CM Meeting - Jul 2026.md",
-    "Work/PCCW/Regional Ad Meeting - Jul 2026.md",
-    "Work/PCCW/Pause Ads.md",
-    "Work/PCCW/Others/WBD supplier application.md",
-    "Work/PCCW/Others/PH Commission Scheme 2026.md",
-    "Work/PCCW/Others/Netsuite RA.md",
-    "Work/PCCW/OTT HK vs NowTV subscription contracts 2026-27.md",
-    "Work/PCCW/Location/OTT TH.md",
-    "Work/Doc/Pasted image 20260821112357.png",
-    "Work/Doc/Pasted image 20260821111201.png",
-    "Work/Doc/Pasted image 20260821110835.png",
-    "Work/Doc/Pasted image 20260821110513.png",
-    "Work/Doc/Pasted image 20260821110130.png",
-    "Work/Doc/Pasted image 20260821105745.png",
-    "Work/Doc/Pasted image 20260821105514.png",
-    "Work/Doc/Pasted image 20260821105344.png",
-    "Work/Doc/Pasted image 20260821105055.png",
-    "Work/Doc/Pasted image 20260821104632.png",
-    "Journal/Daily/2026-08-20.md",
-    "Journal/Daily/2026-08-16.md",
-    "道德經/持而盈之，不如其已.md",
-    "Work/persons/Sharen Lee.md",
-    "Work/persons/Gobby Lam.md",
-    "Work/PCCW/Others",
-    "Work/PCCW/Location",
-    "Work/PCCW/JE",
-    "Work/PCCW/Audit",
-    "Work/PCCW/Approval",
-    "道德經",
-    "templates/Templater",
-    "templates",
-    "Zettel/10.37.224.35",
-    "Zettel"
+    "01/Work/persons/Cindy Lau.md",
+    "01/八卦.md",
+    "01/templates/Templater/卦template.md",
+    "01/六十四卦.md",
+    "01/Work/persons/@Cindy.Lau.md",
+    "01/Work/persons/@Gobby.Lam.md",
+    "01/Work/persons/@Amy.Tse.md",
+    "01/Work/PCCW/Request for Client SPOC Details – Audit Trail and Backup Procedure-Vuclip.md",
+    "01/Work/PCCW/Hwang Min Hyun Live in Bangkok.md",
+    "01/Work/PCCW/Simmy Lau.md",
+    "01/Work/PCCW/Introducing GAM's Server-Side-Unwrapping(SSU) to HK market.md",
+    "01/Work/PCCW/Status of MOOV project payment - Jukebox Musical.md",
+    "01/Work/PCCW/PWC annual group audit.md",
+    "01/Work/PCCW/Request For Payment (RFP) Vendor Registration - New Procedure (Effective Date 01 July 2026).md",
+    "01/Work/PCCW/Bank mandate.md",
+    "01/Work/PCCW/Bad Debt Provision & Bad Debt Write Off for Voluntary Winding-Up for VPON HK Limited (Ac 7356757).md",
+    "01/Work/PCCW/Share Incentive Award Scheme.md",
+    "01/Work/PCCW/SG entities - Mandatory requirement from IRAS to onboard InvoiceNow.md",
+    "01/Work/PCCW/PCCW Health check.md",
+    "01/Work/PCCW/Enquiry about CSC domain renewal.md",
+    "01/Work/PCCW/CSJ_06 (Now.com service charge for ad service support).md",
+    "01/Work/PCCW/Public Affairs Series - Northern Metropolis growth - investment & financial innovation at Hung Shui Kiu.md",
+    "01/Study/Accounting/馬時亨.md",
+    "01/Study/Accounting",
+    "01/Journal/Daily/2026-08-29.md",
+    "01/Journal/Daily/2026-08-28.md",
+    "01/Journal/Daily/2026-08-31.md",
+    "01/Work/Doc/Pasted image 20260827144431.png",
+    "01/Study/易經/Doc/IMG_2048.jpg",
+    "01/Study/易經/Doc/IMG_2060.jpg",
+    "01/Study/易經/Doc/IMG_2061.jpg",
+    "01/Study/易經/Doc/IMG_2049.jpg",
+    "01/Study/易經/Doc/IMG_2059.jpg",
+    "01/Study/易經/Doc/IMG_2058.jpg",
+    "01/Study/易經/Doc/IMG_2056.jpg",
+    "01/Study/易經/Doc/IMG_2057.jpg",
+    "01/Study/易經/Doc/IMG_2055.jpg",
+    "01/Study/易經/Doc",
+    "01/Study/易經/64 卦",
+    "01/Study/易經",
+    "01/Study/道德經",
+    "01/Personal/Helper",
+    "01/Work/PCCW/JE",
+    "01/Work/PCCW/Audit",
+    "01/Work/PCCW/Approval",
+    "01/Work/PCCW/Location"
   ]
 }

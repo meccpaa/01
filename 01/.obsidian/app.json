@@ -1,3 +1,7 @@
 {
-  "promptDelete": false
+  "livePreview": true,
+  "attachmentFolderPath": "01/Work/Doc",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01/Work/PCCW",
+  "alwaysUpdateLinks": true
 }

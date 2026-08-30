@@ -1,28 +1,36 @@
 {
+  "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "01/templates",
   "templates_pairs": [],
-  "trigger_on_file_creation": true,
+  "trigger_on_file_creation_mode": "folder",
   "auto_jump_to_cursor": false,
-  "enable_system_commands": false,
+  "jump_to_cursor_after_file_name": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Journal/Daily",
-      "template": "templates/daily.md"
+      "folder": "01/Journal/Daily",
+      "template": "01/templates/daily.md"
+    },
+    {
+      "folder": "01",
+      "template": "01/templates/General template.md"
+    },
+    {
+      "folder": "01/Work/PCCW",
+      "template": "01/templates/General template.md"
+    },
+    {
+      "folder": "01/Work/Doc",
+      "template": "01/templates/Doc template.md"
     }
   ],
-  "enable_file_templates": false,
   "file_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
   "intellisense_render": "1",
-  "ignore_folders_on_creation": [],
-  "data_version": 2,
-  "trigger_on_file_creation_mode": "folder",
-  "jump_to_cursor_after_file_name": false
+  "ignore_folders_on_creation": []
 }
