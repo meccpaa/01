@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-31.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-31"
+              "title": "Home"
             }
           }
         ]
@@ -178,11 +178,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-31.md",
     "01/Work/persons/Cindy Lau.md",
     "01/八卦.md",
     "01/templates/Templater/卦template.md",
@@ -209,7 +211,6 @@
     "01/Study/Accounting",
     "01/Journal/Daily/2026-08-29.md",
     "01/Journal/Daily/2026-08-28.md",
-    "01/Journal/Daily/2026-08-31.md",
     "01/Work/Doc/Pasted image 20260827144431.png",
     "01/Study/易經/Doc/IMG_2048.jpg",
     "01/Study/易經/Doc/IMG_2060.jpg",
