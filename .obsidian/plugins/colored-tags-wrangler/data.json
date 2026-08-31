@@ -4,14 +4,28 @@
       {
         "tag_name": "P/PCCW/Fin/HK/CindyLau",
         "color": {
-          "r": 240,
-          "g": 92,
-          "b": 92
+          "r": 255,
+          "g": 255,
+          "b": 255
         },
         "background_color": {
-          "r": 128,
-          "g": 128,
-          "b": 128
+          "r": 22,
+          "g": 165,
+          "b": 254
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "P/PCCW/Fin/HK/GobbyLam",
+        "color": {
+          "r": 239,
+          "g": 253,
+          "b": 48
+        },
+        "background_color": {
+          "r": 22,
+          "g": 165,
+          "b": 254
         },
         "luminance_offset": 0.15
       }
