@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2026-08-30.md",
+                "file": "Journal/Daily/2026-08-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-30"
+              "title": "2026-08-31"
             }
           }
         ]
@@ -178,15 +178,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
+    "Journal/Daily/2026-08-30.md",
     "倒輦猴.md",
     "Home.md",
-    "Journal/Daily/2026-08-30.md",
     "Useful link.md",
     "Journal/Daily/2026-08-31.md",
     "01/Work/persons/Cindy Lau.md",
