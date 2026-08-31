@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-git",
-  "tag-wrangler"
+  "tag-wrangler",
+  "colored-tags-wrangler"
 ]
