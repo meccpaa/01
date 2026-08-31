@@ -1,7 +1,9 @@
 [
-  "dataview",
-  "tag-wrangler",
-  "obsidian-tasks-plugin",
+  "day-one-importer",
   "templater-obsidian",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "tag-wrangler",
+  "obsidian-git",
   "colored-tags-wrangler"
 ]
