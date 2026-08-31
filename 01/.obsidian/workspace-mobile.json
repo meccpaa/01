@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mom.md",
+                "file": "Journal/Daily/2026-08-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mom"
+              "title": "2026-08-31"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
-    "Journal/Daily/2026-08-31.md",
     "Mom.md",
+    "Journal/Daily/2026-08-31.md",
     "Study/道德經/道德經.md",
     "不尚賢.md",
     "Journal/Daily/2026-08-30.md",
