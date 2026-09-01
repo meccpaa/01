@@ -23,7 +23,8 @@ Created: 2026-08-27 18:55
 - [x] [[CSJ_12 (Recharge or reclass)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_15 (content capitalization )]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_15b (content cost accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_16 (Revenue deferral (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_16b (Adyen Revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_16d (Alipay revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
