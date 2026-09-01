@@ -39,7 +39,9 @@ Created: 2026-08-27 18:55
 - [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-	- wrong account code for regional conten
+	- wrong account code for regional content
+	- forget to include the content in monthly recharge to SG
+	- wrong CCC for Hong Kong allocation
 - [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 
 ### Gobby Lam
