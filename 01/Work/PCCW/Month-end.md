@@ -56,6 +56,7 @@ Created: 2026-08-27 18:55
 - [ ] [[CSJ_19a (Thailand TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_20 (Philippines TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_20b (Philippines Partnership deal - Infinix)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_24b (Accrual MOOV - CSL MG)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_24b (Accrual MOOV - CSL MG)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_24b (Accrual MOOV - CSL MG)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_CASH_41 (MOOV HKD HSBC bank)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_42 (MOOV USD HSBC bank)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
