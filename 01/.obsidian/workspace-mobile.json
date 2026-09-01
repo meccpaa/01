@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "上古天真論篇第一.md",
+                "file": "Journal/Daily/2026-09-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "上古天真論篇第一"
+              "title": "2026-09-01"
             }
           }
         ]
@@ -184,9 +184,26 @@
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
+    "上古天真論篇第一.md",
+    "太極/倒輦猴.md",
+    "Study/道德經/不尚賢.md",
+    "Study/易經/六十四卦.md",
+    "Study/易經/八卦.md",
+    "Study/黃帝內經/上古天真論篇第一.md",
+    "Study/黃帝內經/六節藏象論篇第九.md",
+    "Study/黃帝內經/陰陽應象大論篇第五.md",
+    "Study/黃帝內經/陰陽別論篇第七.md",
+    "Study/黃帝內經/四氣調神大論篇第二.md",
+    "Study/黃帝內經/五臟生成篇第十.md",
+    "Study/黃帝內經/靈蘭秘典論篇第八.md",
+    "Study/黃帝內經/黃帝內經.md",
+    "Study/黃帝內經/五臟別論篇第十一.md",
+    "Study/黃帝內經/陰陰離合論篇第六.md",
+    "Study/黃帝內經/生氣通天論篇第三.md",
+    "Study/黃帝內經/金匱真言論篇第四.md",
+    "Study/黃帝內經",
     "黃帝內經.md",
     "Journal/Daily/2026-09-01.md",
-    "上古天真論篇第一.md",
     "Study/道德經/道德經.md",
     "五臟生成篇第十.md",
     "陰陰離合論篇第六.md",
@@ -194,22 +211,6 @@
     "五臟別論篇第十一.md",
     "陰陽別論篇第七.md",
     "金匱真言論篇第四.md",
-    "生氣通天論篇第三.md",
-    "六節藏象論篇第九.md",
-    "靈蘭秘典論篇第八.md",
-    "陰陽應象大論篇第五.md",
-    "Journal/Daily/2026-08-31.md",
-    "Work/PCCW/Public Affairs Series - Northern Metropolis growth - investment & financial innovation at Hung Shui Kiu.md",
-    "Work/PCCW/Taichi.md",
-    "Mom.md",
-    "不尚賢.md",
-    "Journal/Daily/2026-08-30.md",
-    "倒輦猴.md",
-    "Home.md",
-    "Useful link.md",
-    "01/Work/persons/Cindy Lau.md",
-    "01/八卦.md",
-    "01/templates/Templater/卦template.md",
     "01/Study/Accounting",
     "01/Work/Doc/Pasted image 20260827144431.png",
     "01/Study/易經/Doc/IMG_2048.jpg",
@@ -228,7 +229,6 @@
     "01/Personal/Helper",
     "01/Work/PCCW/JE",
     "01/Work/PCCW/Audit",
-    "01/Work/PCCW/Approval",
-    "01/Work/PCCW/Location"
+    "01/Work/PCCW/Approval"
   ]
 }
