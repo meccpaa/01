@@ -7,7 +7,8 @@ Type:: "Person"
 - [ ] [[CSJ_05 (MOOV accrual (CASH))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_07 (Viu Publishing fee accrual)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_07a (Viu Bundling with WBD)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_10a (MOOV partnership and recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
@@ -19,6 +20,7 @@ Type:: "Person"
 - [x] [[CSJ_11m (revenue & cos_other (MOOV))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_12a (Recharge or reclass)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_12a (Recharge or reclass)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
+- [ ] [[CSJ_15a (content recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_18 (Singapore TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_19 (Thailand TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
