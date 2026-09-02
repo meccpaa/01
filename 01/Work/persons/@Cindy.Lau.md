@@ -47,6 +47,7 @@ Type:: "Person"
 	- wrong account code for regional content
 	- forget to include the content in monthly recharge to SG
 	- wrong CCC for Hong Kong allocation
+	- it seems that the allocation of SG and TH are not aligned with SharePoint..
 - [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 
 ## Tasks 
