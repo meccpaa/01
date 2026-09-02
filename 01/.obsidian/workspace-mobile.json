@@ -46,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "alphabeticalReverse",
             "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +184,9 @@
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
-    "Journal/Daily/2026-09-01.md",
+    "Mom.md",
     "Journal/Daily/2026-09-02.md",
+    "Journal/Daily/2026-09-01.md",
     "Work/PCCW/CSJ_11c1 (Prepayment).md",
     "Work/PCCW/CSJ_11n5 (reclass revenue for soup base of NowTV).md",
     "Work/PCCW/CSJ_04b (Corporate cost allocation).md",
@@ -209,7 +210,6 @@
     "Study/黃帝內經/五臟別論篇第十一.md",
     "Study/黃帝內經/陰陰離合論篇第六.md",
     "Study/黃帝內經/生氣通天論篇第三.md",
-    "Study/黃帝內經/金匱真言論篇第四.md",
     "Study/黃帝內經",
     "01/Study/Accounting",
     "01/Work/Doc/Pasted image 20260827144431.png",
