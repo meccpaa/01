@@ -1,25 +1,32 @@
 Type:: "Person"
 
 ### Month-end
-- [ ] [[CSJ_1 Zebra or Masterlink accrual]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_1 Zebra or Masterlink accrual]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_1 Zebra or Masterlink accrual]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_2 now.com RS]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_2 now.com RS]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
-- [ ] [[CSJ_04b (Corporate cost allocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_04b (Corporate cost allocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_04b (Corporate cost allocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_06 (Now.com service charge for ad service support)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_08 (Viu Marketing accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_10c (revenue reversal (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_10v (revenue reversal (Viu))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11v (revenue & cos_other)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10v (revenue reversal (Viu))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_10v (revenue reversal (Viu))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
+- [ ] [[CSJ_11v (revenue & cos_other)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_11v (revenue & cos_other)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_11f (revenue & cos_other (KK Sim))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_11n (Viu on NowE revenue gross up)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_11n1 (Viu on NowE revenue gross up)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n2 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_11n3 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_11n2 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_11n2 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
+- [ ] [[CSJ_11n3 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_11n3 (Viu on NowTV revenue)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_12 (Recharge or reclass)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_12 (Recharge or reclass)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_15 (content capitalization )]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+	- CSJ_08012f - reclass cost from CNQ1 to CVB8 (cost shall have been capitalized in Jan 2026)
 - [ ] [[CSJ_15b (content cost accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
