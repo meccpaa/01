@@ -50,6 +50,12 @@ Type:: "Person"
 	- it seems that the allocation of SG and TH are not aligned with SharePoint..
 - [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 
+## Capex
+- [ ] [[Capex performance tracking]] 🔁 every 3 months 📅 2026-09-23
+- [ ] 
+
+
+
 ## Tasks 
 ```tasks
 not done
