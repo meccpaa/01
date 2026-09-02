@@ -1,12 +1,14 @@
 Type:: "Person"
 
 
+
+
 ## Tasks 
 ```tasks
 not done
 sort by due
 is not recurring
-description includes [[@Gobby.Lam]]
+description includes #P/PCCW/Fin/HK/GobbyLam
 ```
 
 ## Recurring tasks 
@@ -14,5 +16,5 @@ description includes [[@Gobby.Lam]]
 not done
 sort by due
 is recurring
-description includes [[@Gobby.Lam]]
+description includes  #P/PCCW/Fin/HK/GobbyLam
 ```
