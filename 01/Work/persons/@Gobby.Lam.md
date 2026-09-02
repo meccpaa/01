@@ -18,6 +18,8 @@ Type:: "Person"
 - [ ] [[CSJ_11c1 (Prepayment)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_11m (revenue & cos_other (MOOV))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_11m (revenue & cos_other (MOOV))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
+- [ ] [[CSJ_11n5 (reclass revenue for soup base of NowTV)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_11n5 (reclass revenue for soup base of NowTV)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_12a (Recharge or reclass)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_12a (Recharge or reclass)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_15a (content recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
