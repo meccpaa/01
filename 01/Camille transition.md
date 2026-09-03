@@ -45,3 +45,7 @@ Last date: 2026-09-07
 
 ### Adhoc
 - [ ] Safekeeping of files and maintain archive list
+
+### FS recurring
+#### Cash transactions
+Cash transactions per bank
