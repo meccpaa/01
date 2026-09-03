@@ -48,4 +48,16 @@ Last date: 2026-09-07
 
 ### FS recurring
 #### Cash transactions
-Cash transactions per bank
+- Cash transactions per bank
+	- PCCW PH has 3 bank accounts: 
+		- HSBC PHP - primarily used
+		- HSBC USD - used for USD transaction
+		- UBP PHP - used for contri payments, transitory account only
+- [Petty cash entries](https://docs.google.com/spreadsheets/d/1dl25a99RfNbDSE2TE48ONjfBC8KGcjU-HPH74Y1DiFY/edit?gid=1596003782#gid=1596003782) 
+	- Mainly reimbursement from our Messenger(Parking, Notary, etc) & petty expenses(printing of business cards)
+- Payroll entries
+	- 1H and 2H
+	- Jocelyne(Region HR) will send out on the day of the payroll crediting. It is important to immediately check if the deducted amount on the bank statement is the same with the payroll entry, if not, raise to Jocelyne immediately and request for the updated payroll entries. If the uncredited payroll will be included on the next payroll cutoff, remind HR that the payroll entry should include the breakdown(basic pay, contri) not just one line item. 
+	- Always ensure that the ER contri share is equal to EMPLOYEE-EMPLOYER CONTRIBUTION account
+	- SSSL - for new loans, to request the  loan details(Loan amount, monthly amortization, expected loan end date)
+
