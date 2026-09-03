@@ -52,7 +52,8 @@ Type:: "Person"
 
 ## Capex
 - [ ] [[Capex performance tracking]] 🔁 every 3 months 📅 2026-09-23
-- [ ] 
+
+[[@Jeab]]
 
 
 
