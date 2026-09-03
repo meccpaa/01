@@ -182,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,6 +195,9 @@
   },
   "active": "a966dad20c4fc8c4",
   "lastOpenFiles": [
+    "Work/PCCW/The Seasons content cost record in SharePoint.md",
+    "Work/PCCW/@Jeab.md",
+    "Work/PCCW/Waterbomb VDL.md",
     "Journal/Daily/2026-09-02.md",
     "Journal/Daily/2026-09-03.md",
     "Mom.md",
@@ -217,9 +221,6 @@
     "Study/黃帝內經/四氣調神大論篇第二.md",
     "Study/黃帝內經/五臟生成篇第十.md",
     "Study/黃帝內經/靈蘭秘典論篇第八.md",
-    "Study/黃帝內經/黃帝內經.md",
-    "Study/黃帝內經/五臟別論篇第十一.md",
-    "Study/黃帝內經/陰陰離合論篇第六.md",
     "Study/黃帝內經",
     "01/Study/Accounting",
     "01/Work/Doc/Pasted image 20260827144431.png",
