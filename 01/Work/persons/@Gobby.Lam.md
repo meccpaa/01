@@ -13,7 +13,8 @@ Type:: "Person"
 - [x] [[CSJ_09 (Canal+ cost reclass to prepayment)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 - [ ] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_10c1 (MOOV IAP revenue accrual and deferral)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
-- [ ] [[CSJ_10a (MOOV partnership and recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_10a (MOOV partnership and recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_10a (MOOV partnership and recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
 - [ ] [[CSJ_10b (MOOV partnership and recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_10m (revenue reversal (MOOV))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_10m (revenue reversal (MOOV))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01

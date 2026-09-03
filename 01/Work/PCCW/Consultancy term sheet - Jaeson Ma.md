@@ -6,15 +6,17 @@ Created: 2026-09-03 14:20
 
 ## My comment
 ---
-They shall issue invoice; their invoice shall contain bank details.
+They shall issue invoice; their invoice shall contain the bank details. Normally it shall at least contain bank name, account name, bank account number, SWIFT code. Account name shall be the same as the name of the partner in the agreement.
 
 No withholding tax in HK related to this kind of payment.
 
-However, similarly, as it is consultancy services, ECR is required.
+For the approval process, as it is consultancy services, ECR is required.
 
-Besides, do we have budget of the variety show cost? Normally, we shall get overall approval on the total production cost first before spending the cost in such project. Would you involve Derek Wong if it is related to VO production? If the cost is part of production cost which cost will be capitalized, we shall put the cost as balance sheet item.
+Besides, do we have the budget of the variety show cost? Normally, we shall get overall approval on the total production cost (incl. this consultancy cost), with IGC/ Opscom, first before spending the cost in such project.
 
-For the term sheet, who would monitor and evaluate whether Jaeson / Revelations fulfil their task and the project progress? Can’t see any concrete scope and deliverable and timeline in the term sheet for the PIC to monitor the process and protect our company rights. if the scope is not yet concrete, shall we settle only when the concrete terms is signed?
+For the term sheet, who would monitor and evaluate whether Jaeson / Revelations fulfil their task and the project progress? Can’t see any concrete scope and deliverable and timeline in the term sheet for the PIC to monitor the process with the partner. Is the term sheet enough to bind the partner to fulfil what we want. Would you want to involve Derek Wong (and/or our Korean team?) in the process to review and monitor related matters?
+
+For the payment terms, we do not normally make full prepayment to partner. It is normally at least split into 2, the final payment shall only be made when we satisfy with their work.
 
 ---
 
