@@ -4,5 +4,7 @@
   "templater-obsidian",
   "obsidian-git",
   "tag-wrangler",
-  "colored-tags-wrangler"
+  "colored-tags-wrangler",
+  "omnisearch",
+  "recent-files-obsidian"
 ]
