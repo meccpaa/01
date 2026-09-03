@@ -61,3 +61,51 @@ Last date: 2026-09-07
 	- Always ensure that the ER contri share is equal to EMPLOYEE-EMPLOYER CONTRIBUTION account
 	- SSSL - for new loans, to request the  loan details(Loan amount, monthly amortization, expected loan end date)
 
+#### Invoices
+- [Invoice for processing](https://docs.google.com/spreadsheets/d/1VnF47rNrF1inmfF740RZxmNT5IQiVR5tUgQr1tf-OXs/edit#gid=1883513769)
+	- Record the invoice and recognize applicable EWT. Ensure that correct account used, especially those with Project Plan. Reverse if there are accruals made. Vouch if the invoice are EOPT compliant or if there are details that needs to be updated, request assistance from Jolina(Finance) if any.
+- [Reimbursements for the month](https://docs.google.com/spreadsheets/d/1wCQJIscCwap_51Tn7IaC0c92jpyPpS7EZolumerSnFI/edit#gid=271161084)
+	- Jolina(Finance) will inform that the reimbursement for the month are plotted on the sheet. Once plotted, refer to Listing tab. Check the account used(col K-L) based on the description of the transaction. If there are transactions to be updated, update the correct account and highlight then inform Jolina. Double check the amount of reimbursement under Listing tab and Summary tab per month USE 21851113
+- [Megamobile SOA/Invoice](https://drive.google.com/drive/folders/12dZaFzur2IviJ2CxmIOu948a8zRuHRbf)
+	- Record and upload the files on the drive
+	- Usual transactions:
+		- -50% share on MM Pins
+		- -Ads Inventory Purchase from Smart transactions
+		- -5% on Programmatic Revenue
+	- Ensure to reverse any accruals
+- [Consultant Payroll](https://docs.google.com/spreadsheets/d/1-lMht-u4lFJkSCQzijPaPmyBT8FPFJ0tdTD0cQc76KQ/edit?gid=2044178940#gid=2044178940)
+	- To record the invoice on the serviced month. To accrue if there are resigned consultant.
+- Globe Invoices
+	- 30% Rev Share. Check if there are any accruals made and reverse.
+	- [Save the invoices on this link](https://drive.google.com/drive/folders/1ISmuZuNJNaQPmOw6MRyWB-VkCnff3-so) 
+	- Link the invoices on the ff sheets:
+		- [GLobe Telco Rev](https://docs.google.com/spreadsheets/d/1qNxWnH2pkEwO3uq4Ofpw-fBFq1dgr_Gv/edit?gid=1553160846#gid=1553160846)
+		- [GLobe CYO](https://docs.google.com/spreadsheets/d/1MYB2dYEv5jwKxRLX-y4wb5yl-E1WPQYB/edit?gid=1559402375#gid=1559402375) 
+#### Prepayment
+
+|                                            |     |
+| ------------------------------------------ | --- |
+| Monthly rent (October-September)           |     |
+| Sync.com subscription (June -May)          |     |
+| Envato subscription (October - September)  |     |
+| YouCanBookMe Ltd (June - May)              |     |
+| Meltwater (January - December)             |     |
+| Sprout (January - December)                |     |
+| Frame.io (September - August)              |     |
+| Docusign subscription (September - August) |     |
+| Jira (May - April)                         |     |
+| Asana (December - November)                |     |
+| Gdrive 1 (September - August)              |     |
+| X (October - September)                    |     |
+| Gdrive 2 (November - October)              |     |
+| Paddle(November - October)                 |     |
+| Gdrive 3 (March - February)                |     |
+| Capcut(March - February)                   |     |
+| Freepik(March - February)                  |     |
+| Insurance - Generali(January - December)   |     |
+| Proworking Space                           |     |
+| Business Permit Renewal                    |     |
+| Messengerial expense                       |     |
+| Application of Prepayment                  |     |
+
+
