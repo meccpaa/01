@@ -83,29 +83,89 @@ Last date: 2026-09-07
 		- [GLobe CYO](https://docs.google.com/spreadsheets/d/1MYB2dYEv5jwKxRLX-y4wb5yl-E1WPQYB/edit?gid=1559402375#gid=1559402375) 
 #### Prepayment
 
-|                                            |     |
-| ------------------------------------------ | --- |
-| Monthly rent (October-September)           |     |
-| Sync.com subscription (June -May)          |     |
-| Envato subscription (October - September)  |     |
-| YouCanBookMe Ltd (June - May)              |     |
-| Meltwater (January - December)             |     |
-| Sprout (January - December)                |     |
-| Frame.io (September - August)              |     |
-| Docusign subscription (September - August) |     |
-| Jira (May - April)                         |     |
-| Asana (December - November)                |     |
-| Gdrive 1 (September - August)              |     |
-| X (October - September)                    |     |
-| Gdrive 2 (November - October)              |     |
-| Paddle(November - October)                 |     |
-| Gdrive 3 (March - February)                |     |
-| Capcut(March - February)                   |     |
-| Freepik(March - February)                  |     |
-| Insurance - Generali(January - December)   |     |
-| Proworking Space                           |     |
-| Business Permit Renewal                    |     |
-| Messengerial expense                       |     |
-| Application of Prepayment                  |     |
+[[Monthly rent]] (October-September)
+[[Storage fee]] (October - October)
+[[Sync.com subscription]] (June -May)
+[[Envato subscription]] (October - September)
+[[YouCanBookMe Ltd]] (June - May)
+[[Meltwater]] (January - December)
+[[Sprout]] (January - December)
+[[Frame.io]] (September - August)
+[[Docusign subscription]] (September - August)
+[[Jira]] (May - April)
+[[Asana]] (December - November)
+[[Gdrive 1]] (September - August)
+[[X]] (October - September)
+[[Gdrive 2]] (November - October)
+[[Paddle]](November - October)
+[[Gdrive 3]] (March - February)
+[[Capcut]](March - February)
+[[Freepik]](March - February)
+[[Insurance - Generali]](January - December)
+[[Proworking Space]] 
+[[Business Permit Renewal]] 
+[[Messengerial expense]]
+[[Application of Prepayment]]
 
+#### Depreciation Expense
+Depreciation Expense
+Computer purchase
 
+#### Amortization Expense
+Amortization Expense (FOE)
+Amortization Expense (K-LOVE)
+Amortization Expense (TWO)
+Amortization Expense (UMH)
+Amortization Expense (LBS)
+Amortization Expense (WWWSK)
+Amortization Expense (SI)
+Amortization Expense (HTSARF)
+Amortization Expense (Slay)
+Amortization Expense (Beauty Empire)
+Amortization Expense (Kumusta)
+
+#### Revenue
+Billed revenue
+
+##### Subscription Revenue
+Subscription Revenue
+Globe
+Alipay
+Barter Deals/Partnership Deals - Subs expense
+Smart Subscription Revenue
+
+##### Advertising
+Smart - Ads
+Megamobile / IOI
+Megamobile
+IOI
+Motion Deal
+PPLs
+
+##### Events Revenue
+
+#### Tax
+Tax Accrual DST
+Tax Accrual FBT
+Tax Accrual FWT and WVAT
+Gross Up EWT
+VAT
+ITR
+
+#### Intercompany Transactions
+Quarterly
+Recurring Interco Recharges
+Other Interco Recharge
+HK Fund Transfer
+
+#### Accrue Recurring Expense
+KPMG
+CPI Admin 
+CPI Payroll 
+13th month Pay
+ACCRA
+INSULAR HEALTH CARE INC.
+
+#### Revaluation
+USD Cash
+Netsuite Currency Reval
