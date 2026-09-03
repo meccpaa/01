@@ -36,9 +36,10 @@ Type:: "Person"
 - [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_16 (Revenue deferral (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
-- [x] [[CSJ_16 (Revenue deferral (Viu IAP))]] HKD6.66M total #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03 
-- [x] [[CSJ_16b (Adyen Revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 HKD4.36M ✅ 2026-09-03
-- [ ] [[CSJ_16d (Alipay revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [x] [[CSJ_16 (Revenue deferral (Viu IAP))]] HKD6.66M total #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
+- [x] [[CSJ_16b (Adyen Revenue Deferral)]] HKD4.36M #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
+- [ ] [[CSJ_16d (Alipay revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_16d (Alipay revenue Deferral)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
 - [ ] [[CSJ_17a (Vlogger P&L BS TB upload)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17b (Vlogger Elim P&L TB upload)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17c (Management fee recharge)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
@@ -49,12 +50,14 @@ Type:: "Person"
 - [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 	- wrong account code for regional content
 	- forget to include the content in monthly recharge to SG
 	- wrong CCC for Hong Kong allocation
 	- it seems that the allocation of SG and TH are not aligned with SharePoint..
-- [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_CASH_47 (OTT HK HSBC bank (HKD - SA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
 
 ## Capex
 - [ ] [[Capex performance tracking]] 🔁 every 3 months 📅 2026-09-23
