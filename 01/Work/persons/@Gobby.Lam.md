@@ -27,7 +27,8 @@ Type:: "Person"
 - [x] [[CSJ_12a (Recharge or reclass)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_12e (Recharge or reclass) event cost]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_12e (Recharge or reclass) event cost]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
-- [ ] [[CSJ_15a (content recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15a (content recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_15a (content recharge)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
 - [ ] [[CSJ_18 (Singapore TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_19 (Thailand TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
