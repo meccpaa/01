@@ -3,7 +3,7 @@ Type:
 Created: 2026-08-26 09:57
 ---
 - [ ] #P/PCCW/Fin/HK/CindyLau - Vlogger entities 📅 2026-08-31
-- [ ] #P/PCCW/Fin/HK/GobbyLam - MOOV Holding entity 📅 2026-08-31 
+- [x] #P/PCCW/Fin/HK/GobbyLam - MOOV Holding entity 📅 2026-08-31 ✅ 2026-09-03
 
 Some updates of E-tax filing for 2025/2026 Profit Tax Returns
 1. Extension of tax submission deadline to 2 October 2026.   (please refer to attached notice from IRD "extension for lodgement of YA2025-26 tax returns.pdf" )
