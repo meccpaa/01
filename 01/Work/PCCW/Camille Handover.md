@@ -25,7 +25,7 @@ Created: 2026-09-04 16:28
 	- manual billing, check VAT breakdown  (BIR not accept)
 	- computerized accounting system ... need close our book right on time  (15 Jan) cash book ...
 13. [ ] Tax Reporting, in-house (Documentary Stamp Tax, Fringe Benefit Tax) #P/PCCW/Fin/PH/Aundrey 
-14. [ ] Tax Reporting, KPMG (Final Withholding VAT, Expanded Withholding Tax, Final Withholding Tax, VAT, Income Tax Return) #P/PCCW/Fin/PH/Aundrey 
+14. [ ] Tax Reporting, KPMG (Final Withholding VAT, Expanded Withholding Tax, Final Withholding Tax, VAT, Income Tax Return)  #P/PCCW/Fin/PH/Aundrey  
 15. [ ] Tax Reporting, KPMG (BIR 1709, Annual information of Related Parties) #P/PCCW/Fin/PH/Aundrey
 16. [ ] Tax Reporting, Pr1me (Withholding tax on compensation) #P/PCCW/Fin/PH/Aundrey
 17. [ ] Sales Commission #P/PCCW/Viu/PH/AnthonyDinio
