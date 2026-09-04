@@ -4,14 +4,13 @@ Last date: 2026-09-07
 ### Month End Closing
 
 - [ ] month-end closing, 3rd working date 🔁 every month 📅 2026-09-03 #P/PCCW/Fin/PH/Aundrey
-	- [ ] Preparation of Journal Entries for Local CVT9, CVD6(Interco Recharge) CVD3,  & CNR8(Partnership Deals) books 
-	- [ ] Ensure completeness of reporting of Revenue Transactions - Monthly updating of Ads, Events, Subs, Partnership Monitoring File
-	- [ ] Posting to Netsuite and uploading attachments
-	- [ ] Preparation of CVT9 File
-	- [ ] Updating of Account Schedules, Lapsing & Content Amortization
-	- [ ] Reconciliation of Local vs CVT9 vs Netsuite books
+	-  Preparation of Journal Entries for Local CVT9, CVD6(Interco Recharge) CVD3,  & CNR8(Partnership Deals) books 
+	- Ensure completeness of reporting of Revenue Transactions - Monthly updating of Ads, Events, Subs, Partnership Monitoring File
+	-  Posting to Netsuite and uploading attachments
+	- Preparation of CVT9 File
+	-  Updating of Account Schedules, Lapsing & Content Amortization
+	-  Reconciliation of Local vs CVT9 vs Netsuite books
 - [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
-
 - [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 
 
