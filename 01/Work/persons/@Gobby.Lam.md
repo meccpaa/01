@@ -34,7 +34,7 @@ Type:: "Person"
 - [ ] [[CSJ_18a (Singapore TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_18a (Singapore TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_19 (Thailand TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-10-01
-- [x] [[CSJ_19 (Thailand TB upload)]]  #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
+- [x] [[CSJ_19 (Thailand TB upload)]] a/c 615433 and 518171 are not in pairs in Aug TB closing #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_19a (Thailand TB upload (adjustment))]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_20 (Philippines TB upload)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_20b (Philippines Partnership deal - Infinix)]] #P/PCCW/Fin/HK/GobbyLam 🔁 every month 📅 2026-09-01

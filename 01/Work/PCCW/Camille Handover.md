@@ -4,6 +4,8 @@ Created: 2026-09-04 16:28
 ---
 #P/PCCW/Fin/PH/Camille 
 
+
+
 1. [ ] Annual Operating Plan (AOP) #P/PCCW/Viu/PH/AnthonyDinio 📅 2026-09-07
 2. [ ] Monthly Revenue reconciliation (Month-end closing support) #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
 3. [ ] Month-end closing  #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
