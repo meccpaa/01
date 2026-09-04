@@ -11,7 +11,7 @@ Last date: 2026-09-07
 	- [ ] Updating of Account Schedules, Lapsing & Content Amortization
 	- [ ] Reconciliation of Local vs CVT9 vs Netsuite books
 - [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
-- [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+
 - [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 
 
@@ -30,7 +30,9 @@ Last date: 2026-09-07
 - [ ] EWT Tax Filing, 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
 - [ ] FWT Tax Filing, (can be handled by PH team), 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
 - [ ] EWT, WTC, FWT Tax payment deadline ,15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
-- [ ] Quarterly VAT Tax Filing and Payment, Day 25, 📅 2026-10-25 
+- [ ] Quarterly VAT Tax Filing and Payment, Day 25, 🔁 every 3 months 📅 2026-10-25 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly ITR Tax Filing (note: countercheck the tax deadline dates. this changes based on the quarter), Day 29, 🔁 every 3 months 📅 2026-10-29 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly FBT Tax payment and deadline (handled by PH team), Day 30, 🔁 every 3 months 📅 2026-10-29 #P/PCCW/Fin/PH/Aundrey 
 
 ### Billing
 - [ ] Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
@@ -40,10 +42,11 @@ Last date: 2026-09-07
 - [ ] Quarterly MM Billing Recon / Monthly IOI Biling Recon
 
 ### Regional Reports
-- [ ] Project Tracking
-- [ ] Interco Transaction Recon
+- [ ] Project Tracking, 15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
+- [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Reporting Package #P/PCCW/Fin/PH/Aundrey 🔁 every 6 months 📅 2027-01-10
+
 - [ ] Interim & YE Corporate Governance
-- [ ] Reporting Package
 - [ ] Quarterly Ads & Subs Report
 
 ### Audit
