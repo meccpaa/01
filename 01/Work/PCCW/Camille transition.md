@@ -27,7 +27,10 @@ Last date: 2026-09-07
 - [ ] Tax filing deadline and payment - DST, 5th working date 🔁 every month 📅 2026-09-05 #P/PCCW/Fin/PH/Aundrey 
 - [ ] WTC Payment processing, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 - [ ] WVAT Filing and Payment (can be handled by PH team), 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
-- [ ] 
+- [ ] EWT Tax Filing, 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
+- [ ] FWT Tax Filing, (can be handled by PH team), 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
+- [ ] EWT, WTC, FWT Tax payment deadline ,15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly VAT Tax Filing and Payment, Day 25, 📅 2026-10-25 
 
 ### Billing
 - [ ] Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
