@@ -10,7 +10,7 @@ Created: 2026-09-04 16:28
 
 #jolina she can do expense entries
 
-1. [ ] Annual Operating Plan (AOP) #P/PCCW/Viu/PH/AnthonyDinio 📅 2026-09-07
+1. [ ] Annual Operating Plan (AOP) #P/PCCW/Viu/PH/AnthonyDinio 
 2. [ ] Monthly Revenue reconciliation (Month-end closing support) #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
 3. [ ] Month-end closing  #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
 4. [ ] Inorganic Partnership Deals (Regional reporting) #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
@@ -18,7 +18,7 @@ Created: 2026-09-04 16:28
 6. [ ] A/R Aging (Regional reporting) #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
 7. [ ] [[Megamobile and IOI AR]] #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
 8. [ ] Project Tracking (Regional Reporting) #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
-9. [ ] [[Subscription revenue report (Regional Reporting)]] #P/PCCW/Viu/PH/Juju 📅 2026-09-07 
+9. [ ] [[Subscription revenue report (Regional Reporting)]] #P/PCCW/Viu/PH/Juju 
 10. [ ] P&P Actuals #P/PCCW/Viu/PH/Princess
 11. [ ] Content Data #P/PCCW/Viu/PH/Greg 
 12. [ ] Finance Document Issuances #P/PCCW/Fin/PH/Aundrey
