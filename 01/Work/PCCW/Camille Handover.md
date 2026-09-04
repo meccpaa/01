@@ -6,6 +6,7 @@ Created: 2026-09-04 16:28
 
 #P/PCCW/Fin/PH/Aundrey - information overloaded? might not be able to capture everything... not detailed oriented... not proactive... 
 
+14 Sep next job
 
 1. [ ] Annual Operating Plan (AOP) #P/PCCW/Viu/PH/AnthonyDinio 📅 2026-09-07
 2. [ ] Monthly Revenue reconciliation (Month-end closing support) #P/PCCW/Fin/PH/Aundrey  📅 2026-09-07
@@ -34,7 +35,7 @@ Created: 2026-09-04 16:28
 23. [ ] SEC Submission
 24. [ ] Programmatic Statements
 25. [ ] Regional Requirements
-26. [ ] Review of Reports
-27. [ ] Review of Reports
+26. [ ] Review of Reports (Disbursements Processing - Review of Vouchers, Approval of Netsuite Entries for Financial Reporting, Staff Costs Report for Regional request, Review of Project Plans, Review of P/L tied up to IGC / Opscom approval)
+27. [ ] Review of Reports (Vendor Accreditation Review and Matrix)
 28. [ ] Transfer of Location from Taguig to Makati City
 
