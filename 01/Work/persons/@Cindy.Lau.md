@@ -9,8 +9,10 @@ Type:: "Person"
 - [x] [[CSJ_4 Corporate cost allocation & Content license fee recharge]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_04b (Corporate cost allocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_04b (Corporate cost allocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
-- [ ] [[CSJ_06 (Now.com service charge for ad service support)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_08 (Viu Marketing accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_06 (Now.com service charge for ad service support)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_06 (Now.com service charge for ad service support)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
+- [ ] [[CSJ_08 (Viu Marketing accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_08 (Viu Marketing accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_10c (revenue reversal (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_10c (revenue reversal (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
 - [ ] [[CSJ_10v (revenue reversal (Viu))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
@@ -30,9 +32,11 @@ Type:: "Person"
 - [x] [[CSJ_12 (Recharge or reclass)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_12g (Recharge or reclass) Xandr]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_12g (Recharge or reclass) Xandr]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-03
-- [ ] [[CSJ_15 (content capitalization )]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15 (content capitalization )]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_15 (content capitalization )]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 	- CSJ_08012f - reclass cost from CNQ1 to CVB8 (cost shall have been capitalized in Jan 2026)
-- [ ] [[CSJ_15b (content cost accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_15b (content cost accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_15b (content cost accrual)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_15c (content capitalization - Reallocation)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-01
 - [ ] [[CSJ_16 (Revenue deferral (Viu IAP))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
@@ -47,9 +51,11 @@ Type:: "Person"
 - [ ] [[CSJ_17f (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17g (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17h (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_CASH_46 (OTTHK HSBC bank (USD))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-02
 	- wrong account code for regional content

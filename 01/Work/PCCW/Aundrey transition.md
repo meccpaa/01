@@ -3,53 +3,66 @@ Last date: 2026-09-07
 ## Recurring Tasks
 ### Month End Closing
 
-- [ ] month-end closing, 3rd working date 🔁 every month 📅 2026-09-03
-	- [ ] Preparation of Journal Entries for Local CVT9, CVD6(Interco Recharge) CVD3,  & CNR8(Partnership Deals) books 
-	- [ ] Ensure completeness of reporting of Revenue Transactions - Monthly updating of Ads, Events, Subs, Partnership Monitoring File
-	- [ ] Posting to Netsuite and uploading attachments
-	- [ ] Preparation of CVT9 File
-	- [ ] Updating of Account Schedules, Lapsing & Content Amortization
-	- [ ] Reconciliation of Local vs CVT9 vs Netsuite books
-- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04
-- [ ] intercompany entries in SharePoint for intercom recon 🔁 every month 📅 2026-09-10
-- [ ] 
+- [ ] month-end closing, 3rd working date 🔁 every month 📅 2026-09-03 #P/PCCW/Fin/PH/Aundrey
+	-  Preparation of Journal Entries for Local CVT9, CVD6(Interco Recharge) CVD3,  & CNR8(Partnership Deals) books 
+	- Ensure completeness of reporting of Revenue Transactions - Monthly updating of Ads, Events, Subs, Partnership Monitoring File
+	-  Posting to Netsuite and uploading attachments
+	- Preparation of CVT9 File
+	-  Updating of Account Schedules, Lapsing & Content Amortization
+	-  Reconciliation of Local vs CVT9 vs Netsuite books
 
 ### Tax Reporting
-- [ ] Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
-- [ ] Filing of Tax Returns(DST, FBT)
-- [ ] Endorsing payments of Tax Payments
-- [ ] Assist in Tax Recon for WTC & other year-end related task
-- [ ] BIR Audit
-- [ ] Reconciliations per books vs returns
-- [ ] Assist in any Tax Related concerns
+- Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
+- Filing of Tax Returns(DST, FBT)
+- Endorsing payments of Tax Payments
+- Assist in Tax Recon for WTC & other year-end related task
+- BIR Audit
+- Reconciliations per books vs returns
+- Assist in any Tax Related concerns
+
+- [ ] Tax filing deadline and payment - DST, 5th working date 🔁 every month 📅 2026-09-05 #P/PCCW/Fin/PH/Aundrey 
+- [ ] WTC Payment processing, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] WVAT Filing and Payment (can be handled by PH team), 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] EWT Tax Filing, 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
+- [ ] FWT Tax Filing, (can be handled by PH team), 13th working date 🔁 every month 📅 2026-09-13 #P/PCCW/Fin/PH/Aundrey 
+- [ ] EWT, WTC, FWT Tax payment deadline ,15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly VAT Tax Filing and Payment, Day 25, 🔁 every 3 months 📅 2026-10-25 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly ITR Tax Filing (note: countercheck the tax deadline dates. this changes based on the quarter), Day 29, 🔁 every 3 months 📅 2026-10-29 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Quarterly FBT Tax payment and deadline (handled by PH team), Day 30, 🔁 every 3 months 📅 2026-10-29 #P/PCCW/Fin/PH/Aundrey 
 
 ### Billing
-- [ ] Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
-- [ ] Monitor Collection
-- [ ] Ensure 2307 are collected for payments withheld
-- [ ] Preparation of SOA and AR Outstanding File on a monthly basis
-- [ ] Quarterly MM Billing Recon / Monthly IOI Biling Recon
+- Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
+- Monitor Collection
+- Ensure 2307 are collected for payments withheld
+- Preparation of SOA and AR Outstanding File on a monthly basis
+- Quarterly MM Billing Recon / Monthly IOI Biling Recon
 
 ### Regional Reports
-- [ ] Project Tracking
-- [ ] Interco Transaction Recon
-- [ ] Interim & YE Corporate Governance
-- [ ] Reporting Package
-- [ ] Quarterly Ads & Subs Report
+- [ ] Project Tracking, 15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
+- [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Reporting Package #P/PCCW/Fin/PH/Aundrey 🔁 every 6 months 📅 2027-01-10
+- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
+- [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+
+
+- Interim & YE Corporate Governance
+- Quarterly Ads & Subs Report
+
+
 
 ### Audit
-- [ ] Preparation of the audit requests and provide response for any audit inquiries
-- [ ] Preparation of the SFS Worksheet and Word File
-- [ ] Completion of other requirements for Annual Filing
-- [ ] Submission to the BIR and SEC
-- [ ] Assist in SG Audit for PH Transaction
+- Preparation of the audit requests and provide response for any audit inquiries
+- Preparation of the SFS Worksheet and Word File
+- Completion of other requirements for Annual Filing
+- Submission to the BIR and SEC
+- Assist in SG Audit for PH Transaction
 
 ### Local Compliances
-- [ ] LGU Audit
-- [ ] Assist in Business Permit Renewal
+- LGU Audit
+- [ ] Assist in [[PH Business Permit Renewal]] 🔁 every year 📅 2027-01-20
 
 ### Adhoc
-- [ ] Safekeeping of files and maintain archive list
+- Safekeeping of files and maintain archive list
 
 ### FS recurring
 #### Cash transactions
@@ -117,6 +130,8 @@ Depreciation Expense
 Computer purchase
 
 #### Amortization Expense
+- [ ] not yet put to Amortization schedule in Netsuite? #P/PCCW/Fin/PH/Camille 📅 2026-09-04
+
 Amortization Expense (FOE)
 Amortization Expense (K-LOVE)
 Amortization Expense (TWO)
