@@ -3,16 +3,16 @@ Last date: 2026-09-07
 ## Recurring Tasks
 ### Month End Closing
 
-- [ ] month-end closing, 3rd working date 🔁 every month 📅 2026-09-03
+- [ ] month-end closing, 3rd working date 🔁 every month 📅 2026-09-03 #P/PCCW/Fin/PH/Aundrey
 	- [ ] Preparation of Journal Entries for Local CVT9, CVD6(Interco Recharge) CVD3,  & CNR8(Partnership Deals) books 
 	- [ ] Ensure completeness of reporting of Revenue Transactions - Monthly updating of Ads, Events, Subs, Partnership Monitoring File
 	- [ ] Posting to Netsuite and uploading attachments
 	- [ ] Preparation of CVT9 File
 	- [ ] Updating of Account Schedules, Lapsing & Content Amortization
 	- [ ] Reconciliation of Local vs CVT9 vs Netsuite books
-- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04
-- [ ] intercompany entries in SharePoint for intercom recon 🔁 every month 📅 2026-09-10
-- [ ] 
+- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
+- [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 
 ### Tax Reporting
 - [ ] Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
