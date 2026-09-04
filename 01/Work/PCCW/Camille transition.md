@@ -58,7 +58,7 @@ Last date: 2026-09-07
 
 ### Local Compliances
 - [ ] LGU Audit
-- [ ] Assist in Business Permit Renewal
+- [ ] Assist in [[PH Business Permit Renewal]] 🔁 every year 📅 2027-01-20
 
 ### Adhoc
 - [ ] Safekeeping of files and maintain archive list
@@ -129,6 +129,8 @@ Depreciation Expense
 Computer purchase
 
 #### Amortization Expense
+- [ ] not yet put to Amortization schedule in Netsuite? #P/PCCW/Fin/PH/Camille 📅 2026-09-04
+
 Amortization Expense (FOE)
 Amortization Expense (K-LOVE)
 Amortization Expense (TWO)
