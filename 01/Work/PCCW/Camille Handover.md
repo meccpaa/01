@@ -4,6 +4,7 @@ Created: 2026-09-04 16:28
 ---
 #P/PCCW/Fin/PH/Camille 
 
+#P/PCCW/Fin/PH/Aundrey - information overloaded? might not be able to capture everything... not detailed oriented... not proactive... 
 
 
 1. [ ] Annual Operating Plan (AOP) #P/PCCW/Viu/PH/AnthonyDinio 📅 2026-09-07
