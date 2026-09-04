@@ -32,7 +32,7 @@ Created: 2026-09-04 16:28
 18. [ ] Review Process 
 	- IGC / Opscom
 	- Contract review guidelines (gross /net of withholding tax)
-19. [ ] Year-end closing checklist
+19. [ ] [[PH Year-end closing checklist]]
 20. [ ] Business Permit Renewal
 21. [ ] Quarterly Regional Reports
 22. [ ] Other Regional Report
