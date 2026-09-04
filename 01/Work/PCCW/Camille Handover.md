@@ -23,12 +23,12 @@ Created: 2026-09-04 16:28
 11. [ ] Content Data #P/PCCW/Viu/PH/Greg 
 12. [ ] Finance Document Issuances #P/PCCW/Fin/PH/Aundrey
 	- manual billing, check VAT breakdown  (BIR not accept)
-	- computerized accounting system ... need close our book right on time  (15 Jan) cash book ...
+	- computerized accounting system ... need close our book right on time  (15 Jan) cash book ... 
 13. [ ] Tax Reporting, in-house (Documentary Stamp Tax, Fringe Benefit Tax) #P/PCCW/Fin/PH/Aundrey 
-14. [ ] Tax Reporting, KPMG (Final Withholding VAT, Expanded Withholding Tax, Final Withholding Tax, VAT, Income Tax Return)  #P/PCCW/Fin/PH/Aundrey  
-15. [ ] Tax Reporting, KPMG (BIR 1709, Annual information of Related Parties) #P/PCCW/Fin/PH/Aundrey
+14. [ ] Tax Reporting, KPMG (Final Withholding VAT, Expanded Withholding Tax, Final  Withholding Tax, VAT, Income Tax Return)  #P/PCCW/Fin/PH/Aundrey   ![[Pasted image 20260904184057.png]]
+15. [ ] Tax Reporting, KPMG (BIR 1709, Annual information of Related Parties) #P/PCCW/Fin/PH/Aundrey 
 16. [ ] Tax Reporting, Pr1me (Withholding tax on compensation) #P/PCCW/Fin/PH/Aundrey
-17. [ ] Sales Commission #P/PCCW/Viu/PH/AnthonyDinio
+17. [ ] [[Sales Commission PH calculation]] #P/PCCW/Viu/PH/AnthonyDinio
 18. [ ] Review Process 
 	- IGC / Opscom
 	- Contract review guidelines (gross /net of withholding tax)
