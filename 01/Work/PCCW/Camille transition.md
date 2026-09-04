@@ -14,6 +14,7 @@ Last date: 2026-09-07
 - [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 - [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 
+
 ### Tax Reporting
 - [ ] Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
 - [ ] Filing of Tax Returns(DST, FBT)
@@ -22,6 +23,11 @@ Last date: 2026-09-07
 - [ ] BIR Audit
 - [ ] Reconciliations per books vs returns
 - [ ] Assist in any Tax Related concerns
+
+- [ ] Tax filing deadline and payment - DST, 5th working date 🔁 every month 📅 2026-09-05 #P/PCCW/Fin/PH/Aundrey 
+- [ ] WTC Payment processing, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] WVAT Filing and Payment (can be handled by PH team), 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
+- [ ] 
 
 ### Billing
 - [ ] Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
