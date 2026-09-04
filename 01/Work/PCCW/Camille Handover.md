@@ -43,3 +43,4 @@ Created: 2026-09-04 16:28
 27. [ ] Review of Reports (Vendor Accreditation Review and Matrix)
 28. [ ] Transfer of Location from Taguig to Makati City
 
+Ad hoc - how to be able to book this... requirement of recognize this... tax... review of IGC
