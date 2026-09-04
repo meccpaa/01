@@ -10,18 +10,15 @@ Last date: 2026-09-07
 	- Preparation of CVT9 File
 	-  Updating of Account Schedules, Lapsing & Content Amortization
 	-  Reconciliation of Local vs CVT9 vs Netsuite books
-- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
-- [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
-
 
 ### Tax Reporting
-- [ ] Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
-- [ ] Filing of Tax Returns(DST, FBT)
-- [ ] Endorsing payments of Tax Payments
-- [ ] Assist in Tax Recon for WTC & other year-end related task
-- [ ] BIR Audit
-- [ ] Reconciliations per books vs returns
-- [ ] Assist in any Tax Related concerns
+- Reviewing of Tax Returns(EWT, WTC, FWT, WVAT, VAT, ITR, RPT, Annual Information Returns)
+- Filing of Tax Returns(DST, FBT)
+- Endorsing payments of Tax Payments
+- Assist in Tax Recon for WTC & other year-end related task
+- BIR Audit
+- Reconciliations per books vs returns
+- Assist in any Tax Related concerns
 
 - [ ] Tax filing deadline and payment - DST, 5th working date 🔁 every month 📅 2026-09-05 #P/PCCW/Fin/PH/Aundrey 
 - [ ] WTC Payment processing, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
@@ -34,33 +31,38 @@ Last date: 2026-09-07
 - [ ] Quarterly FBT Tax payment and deadline (handled by PH team), Day 30, 🔁 every 3 months 📅 2026-10-29 #P/PCCW/Fin/PH/Aundrey 
 
 ### Billing
-- [ ] Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
-- [ ] Monitor Collection
-- [ ] Ensure 2307 are collected for payments withheld
-- [ ] Preparation of SOA and AR Outstanding File on a monthly basis
-- [ ] Quarterly MM Billing Recon / Monthly IOI Biling Recon
+- Preparation and issuance of Billing Invoice, Official Receipt/Acknowledgement Receipt and transmittal as needed
+- Monitor Collection
+- Ensure 2307 are collected for payments withheld
+- Preparation of SOA and AR Outstanding File on a monthly basis
+- Quarterly MM Billing Recon / Monthly IOI Biling Recon
 
 ### Regional Reports
 - [ ] Project Tracking, 15th working date 🔁 every month 📅 2026-09-15 #P/PCCW/Fin/PH/Aundrey 
 - [ ] intercompany entries in SharePoint for intercom recon, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 - [ ] Reporting Package #P/PCCW/Fin/PH/Aundrey 🔁 every 6 months 📅 2027-01-10
+- [ ] submission of inorganic deals in SharePoint, 4th working date 🔁 every month 📅 2026-09-04 #P/PCCW/Fin/PH/Aundrey
+- [ ] Accounts receivable aging analysis, 10th working date 🔁 every month 📅 2026-09-10 #P/PCCW/Fin/PH/Aundrey 
 
-- [ ] Interim & YE Corporate Governance
-- [ ] Quarterly Ads & Subs Report
+
+- Interim & YE Corporate Governance
+- Quarterly Ads & Subs Report
+
+
 
 ### Audit
-- [ ] Preparation of the audit requests and provide response for any audit inquiries
-- [ ] Preparation of the SFS Worksheet and Word File
-- [ ] Completion of other requirements for Annual Filing
-- [ ] Submission to the BIR and SEC
-- [ ] Assist in SG Audit for PH Transaction
+- Preparation of the audit requests and provide response for any audit inquiries
+- Preparation of the SFS Worksheet and Word File
+- Completion of other requirements for Annual Filing
+- Submission to the BIR and SEC
+- Assist in SG Audit for PH Transaction
 
 ### Local Compliances
-- [ ] LGU Audit
+- LGU Audit
 - [ ] Assist in [[PH Business Permit Renewal]] 🔁 every year 📅 2027-01-20
 
 ### Adhoc
-- [ ] Safekeeping of files and maintain archive list
+- Safekeeping of files and maintain archive list
 
 ### FS recurring
 #### Cash transactions
