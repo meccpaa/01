@@ -51,7 +51,8 @@ Type:: "Person"
 - [ ] [[CSJ_17f (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17g (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_17h (Vlogger Reclassification)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
-- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
+- [ ] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
+- [x] [[CSJ_23a (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
 - [ ] [[CSJ_23b1 (OTT HK partnership, content production & ad production)]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01
 - [ ] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-10-01
 - [x] [[CSJ_CASH_45 (OTT HK HSBC bank (HKD - CA))]] #P/PCCW/Fin/HK/CindyLau 🔁 every month 📅 2026-09-01 ✅ 2026-09-04
