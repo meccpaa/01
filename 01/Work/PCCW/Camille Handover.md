@@ -18,10 +18,12 @@ Created: 2026-09-04 16:28
 6. [ ] A/R Aging (Regional reporting) #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
 7. [ ] [[Megamobile and IOI AR]] #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
 8. [ ] Project Tracking (Regional Reporting) #P/PCCW/Fin/PH/Aundrey 📅 2026-09-07 
-9. [ ] Subscription revenue report (Regional Reporting) #P/PCCW/Viu/PH/Juju 📅 2026-09-07 
+9. [ ] [[Subscription revenue report (Regional Reporting)]] #P/PCCW/Viu/PH/Juju 📅 2026-09-07 
 10. [ ] P&P Actuals #P/PCCW/Viu/PH/Princess
 11. [ ] Content Data #P/PCCW/Viu/PH/Greg 
 12. [ ] Finance Document Issuances #P/PCCW/Fin/PH/Aundrey
+	- manual billing, check VAT breakdown  (BIR not accept)
+	- computerized accounting system ... need close our book right on time ...
 13. [ ] Tax Reporting, in-house (Documentary Stamp Tax, Fringe Benefit Tax) #P/PCCW/Fin/PH/Aundrey 
 14. [ ] Tax Reporting, KPMG (Final Withholding VAT, Expanded Withholding Tax, Final Withholding Tax, VAT, Income Tax Return) #P/PCCW/Fin/PH/Aundrey 
 15. [ ] Tax Reporting, KPMG (BIR 1709, Annual information of Related Parties) #P/PCCW/Fin/PH/Aundrey
