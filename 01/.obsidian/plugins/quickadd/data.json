@@ -54,6 +54,18 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "ce28399b-bcb6-408a-bbe7-ee365366746c",
+      "name": "Open daily note",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Open daily note",
+        "id": "b6913db3-ffbc-4e3d-b658-0d43c5854813",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",
