@@ -79,6 +79,18 @@
           }
         ]
       }
+    },
+    {
+      "id": "e6355374-2215-4693-82dd-0132d8cd2e89",
+      "name": "New macro",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "New macro",
+        "id": "4cfa29dc-c344-4e88-9be1-a148b5bbd09b",
+        "commands": []
+      }
     }
   ],
   "inputPrompt": "single-line",
