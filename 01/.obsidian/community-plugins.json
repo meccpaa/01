@@ -1,9 +1,11 @@
 [
-  "colored-tags-wrangler",
+  "templater-obsidian",
   "dataview",
-  "omnisearch",
-  "tag-wrangler",
-  "recent-files-obsidian",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "tag-wrangler",
+  "obsidian-git",
+  "colored-tags-wrangler",
+  "omnisearch",
+  "recent-files-obsidian",
+  "quickadd"
 ]
