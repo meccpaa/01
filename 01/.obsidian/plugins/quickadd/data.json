@@ -2,12 +2,12 @@
   "choices": [
     {
       "id": "5029ce2b-780d-42f4-b7d8-8356e15f1b59",
-      "name": "New capture",
+      "name": "Add to Journal",
       "type": "Capture",
       "command": false,
       "appendLink": false,
       "copyLinkToClipboard": false,
-      "captureTo": "",
+      "captureTo": "Journal/Daily/{{DATE}}.md",
       "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
@@ -17,8 +17,8 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "- {{DATE:HH:mm}} {{VALUE}}"
       },
       "insertAfter": {
         "enabled": false,
