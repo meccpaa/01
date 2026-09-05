@@ -64,7 +64,20 @@
       "macro": {
         "name": "Open daily note",
         "id": "b6913db3-ffbc-4e3d-b658-0d43c5854813",
-        "commands": []
+        "commands": [
+          {
+            "name": "Daily notes: Open today's daily note",
+            "type": "Obsidian",
+            "id": "adafae40-11fd-4e03-8df1-bed35937aca6",
+            "commandId": "daily-notes"
+          },
+          {
+            "name": "Move cursor to file end",
+            "type": "EditorCommand",
+            "id": "e0da7b2b-8c12-460e-9b22-fbdedd19cc8a",
+            "editorCommandType": "Move cursor to file end"
+          }
+        ]
       }
     }
   ],
