@@ -10,3 +10,5 @@ Type: Book
 7. trade isn't a game of winner or loser - win win. e.g.. cleaning work, support free trade. it's not a war, it's cooporation
 
 Tradeoff - win by doubling down on what working.
+
+[[道德經 王弼注]] 
