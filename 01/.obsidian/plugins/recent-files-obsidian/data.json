@@ -5,6 +5,10 @@
       "path": "Basic Economics.md"
     },
     {
+      "basename": "Activity logs",
+      "path": "Activity logs.md"
+    },
+    {
       "basename": "2026-09-06",
       "path": "Journal/Daily/2026-09-06.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2022-06-25",
       "path": "Journal/Daily/2022-06-25.md"
-    },
-    {
-      "basename": "Activity logs",
-      "path": "Activity logs.md"
     },
     {
       "basename": "2026-09-02",
